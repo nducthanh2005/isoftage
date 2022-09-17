@@ -1,0 +1,1144 @@
+{
+  "ID": "4a5529cd-36af-4234-a9df-a7885a6fb551",
+  "Version": "3.10.0.0",
+  "Name": "UIItemGiaoDien",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 108,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textNongDan.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 43,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -192.3155,
+              "Y": 105.4224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -241.8155,
+            "RightMargin": 142.8155,
+            "TopMargin": -118.4224,
+            "BottomMargin": 92.4224,
+            "Tag": 111,
+            "ActionTag": 598779199,
+            "Size": {
+              "X": 99.0,
+              "Y": 26.0
+            },
+            "Name": "TextNongDan",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textDiaChu.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 13,
+            "Scale9Width": 50,
+            "Scale9Height": 6,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -66.9291,
+              "Y": 105.4214
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -106.9291,
+            "RightMargin": 26.9291,
+            "TopMargin": -121.4214,
+            "BottomMargin": 89.4214,
+            "Tag": 112,
+            "ActionTag": -1951080172,
+            "Size": {
+              "X": 80.0,
+              "Y": 32.0
+            },
+            "Name": "TextDiaChu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textQuyToc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 35,
+            "Scale9OriginY": 13,
+            "Scale9Width": 12,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 49.9574,
+              "Y": 105.4227
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 8.9574,
+            "RightMargin": -90.9574,
+            "TopMargin": -120.4227,
+            "BottomMargin": 90.4227,
+            "Tag": 113,
+            "ActionTag": 49098137,
+            "Size": {
+              "X": 82.0,
+              "Y": 30.0
+            },
+            "Name": "TextQuyToc",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textHoangGia.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 44,
+            "Scale9OriginY": 11,
+            "Scale9Width": 14,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 177.8438,
+              "Y": 105.4224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 126.8438,
+            "RightMargin": -228.8438,
+            "TopMargin": -118.4224,
+            "BottomMargin": 92.4224,
+            "Tag": 114,
+            "ActionTag": 1771833332,
+            "Size": {
+              "X": 102.0,
+              "Y": 26.0
+            },
+            "Name": "TextHoangGia",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "textMucCuoc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 73,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -191.0275,
+              "Y": -101.5314
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -242.5275,
+            "RightMargin": 139.5275,
+            "TopMargin": 86.5314,
+            "BottomMargin": -116.5314,
+            "Tag": 119,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconTien.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 15,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 81.1332,
+                  "Y": 14.1908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7877,
+                  "Y": 0.473
+                },
+                "PreSize": {
+                  "X": 0.2427,
+                  "Y": 0.9
+                },
+                "LeftMargin": 68.6332,
+                "RightMargin": 9.3668,
+                "TopMargin": 2.3092,
+                "BottomMargin": 0.6908,
+                "Tag": 120,
+                "ActionTag": -1374338658,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 27.0
+                },
+                "Name": "imageTien",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.4886,
+                  "Y": 15.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3834,
+                  "Y": 0.5032
+                },
+                "PreSize": {
+                  "X": 0.5243,
+                  "Y": 0.6
+                },
+                "LeftMargin": 12.4886,
+                "RightMargin": 36.5114,
+                "TopMargin": 5.9049,
+                "BottomMargin": 6.0951,
+                "Tag": 121,
+                "ActionTag": -1344325187,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 18.0
+                },
+                "Name": "textTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 649976732,
+            "Size": {
+              "X": 103.0,
+              "Y": 30.0
+            },
+            "Name": "BtnCuoc0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "textMucCuoc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 73,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -67.668,
+              "Y": -101.5314
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -119.168,
+            "RightMargin": 16.168,
+            "TopMargin": 86.5314,
+            "BottomMargin": -116.5314,
+            "Tag": 122,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconTien.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 15,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.5218,
+                  "Y": 14.1908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8012,
+                  "Y": 0.473
+                },
+                "PreSize": {
+                  "X": 0.2427,
+                  "Y": 0.9
+                },
+                "LeftMargin": 70.0218,
+                "RightMargin": 7.9782,
+                "TopMargin": 2.3092,
+                "BottomMargin": 0.6908,
+                "Tag": 123,
+                "ActionTag": -479672885,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 27.0
+                },
+                "Name": "imageTien",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "200  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 36.53,
+                  "Y": 15.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3547,
+                  "Y": 0.5032
+                },
+                "PreSize": {
+                  "X": 0.5243,
+                  "Y": 0.6
+                },
+                "LeftMargin": 9.53,
+                "RightMargin": 39.47,
+                "TopMargin": 5.9049,
+                "BottomMargin": 6.0951,
+                "Tag": 124,
+                "ActionTag": 1712267612,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 18.0
+                },
+                "Name": "textTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2044559689,
+            "Size": {
+              "X": 103.0,
+              "Y": 30.0
+            },
+            "Name": "BtnCuoc1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "textMucCuoc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 73,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 55.6916,
+              "Y": -101.5314
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 4.1916,
+            "RightMargin": -107.1916,
+            "TopMargin": 86.5314,
+            "BottomMargin": -116.5314,
+            "Tag": 125,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconTien.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 15,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.5221,
+                  "Y": 14.1908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8012,
+                  "Y": 0.473
+                },
+                "PreSize": {
+                  "X": 0.2427,
+                  "Y": 0.9
+                },
+                "LeftMargin": 70.0221,
+                "RightMargin": 7.9779,
+                "TopMargin": 2.3092,
+                "BottomMargin": 0.6908,
+                "Tag": 126,
+                "ActionTag": -1462308899,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 27.0
+                },
+                "Name": "imageTien",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "1.000  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.0537,
+                  "Y": 15.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3889,
+                  "Y": 0.5032
+                },
+                "PreSize": {
+                  "X": 0.6019,
+                  "Y": 0.6
+                },
+                "LeftMargin": 9.0537,
+                "RightMargin": 31.9463,
+                "TopMargin": 5.9049,
+                "BottomMargin": 6.0951,
+                "Tag": 127,
+                "ActionTag": 1275247198,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 18.0
+                },
+                "Name": "textTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -637113136,
+            "Size": {
+              "X": 103.0,
+              "Y": 30.0
+            },
+            "Name": "BtnCuoc2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "textMucCuoc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 73,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 179.0511,
+              "Y": -101.5314
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 127.5511,
+            "RightMargin": -230.5511,
+            "TopMargin": 86.5314,
+            "BottomMargin": -116.5314,
+            "Tag": 128,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconTien.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 15,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.3536,
+                  "Y": 14.1908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8384,
+                  "Y": 0.473
+                },
+                "PreSize": {
+                  "X": 0.2427,
+                  "Y": 0.9
+                },
+                "LeftMargin": 73.8536,
+                "RightMargin": 4.1464,
+                "TopMargin": 2.3092,
+                "BottomMargin": 0.6908,
+                "Tag": 129,
+                "ActionTag": 252675830,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 27.0
+                },
+                "Name": "imageTien",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "10.000 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 42.9708,
+                  "Y": 15.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4172,
+                  "Y": 0.5032
+                },
+                "PreSize": {
+                  "X": 0.6311,
+                  "Y": 0.6
+                },
+                "LeftMargin": 10.4708,
+                "RightMargin": 27.5292,
+                "TopMargin": 5.9049,
+                "BottomMargin": 6.0951,
+                "Tag": 130,
+                "ActionTag": 1689720308,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 18.0
+                },
+                "Name": "textTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1854484431,
+            "Size": {
+              "X": 103.0,
+              "Y": 30.0
+            },
+            "Name": "BtnCuoc3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconNongDan.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 42,
+            "Scale9Height": 49,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -196.6724,
+              "Y": 0.4837
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.6724,
+            "RightMargin": 160.6724,
+            "TopMargin": -35.9837,
+            "BottomMargin": -35.0163,
+            "Tag": 5775,
+            "ActionTag": 2096969765,
+            "Size": {
+              "X": 72.0,
+              "Y": 71.0
+            },
+            "Name": "MGIcon0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconDiaChu.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 62,
+            "Scale9Height": 62,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -67.6682,
+              "Y": 0.0149
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -113.6682,
+            "RightMargin": 21.6682,
+            "TopMargin": -42.0149,
+            "BottomMargin": -41.9851,
+            "Tag": 5779,
+            "ActionTag": 700793102,
+            "Size": {
+              "X": 92.0,
+              "Y": 84.0
+            },
+            "Name": "MGIcon1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconQuyToc.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 83,
+            "Scale9Height": 85,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.4211,
+              "Y": 0.0391
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -4.0789,
+            "RightMargin": -108.9211,
+            "TopMargin": -53.5391,
+            "BottomMargin": -53.4609,
+            "Tag": 5780,
+            "ActionTag": -1109416398,
+            "Size": {
+              "X": 113.0,
+              "Y": 107.0
+            },
+            "Name": "MGIcon2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconHoangGia.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 89,
+            "Scale9Height": 99,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 176.918,
+              "Y": -0.0596
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 117.418,
+            "RightMargin": -236.418,
+            "TopMargin": -60.4404,
+            "BottomMargin": -60.5596,
+            "Tag": 5781,
+            "ActionTag": 371757332,
+            "Size": {
+              "X": 119.0,
+              "Y": 121.0
+            },
+            "Name": "MGIcon3",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/MyriadPro-Bold.ttf",
+        "AtlasXengLuxury/atlasXengLuxury1.plist",
+        "AtlasXengLuxury/atlasXengLuxury1.png",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

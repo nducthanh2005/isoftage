@@ -1,0 +1,412 @@
+{
+  "ID": "e5da1a7a-765f-4841-9e91-54366ad2da7c",
+  "Version": "3.10.0.0",
+  "Name": "UIItemComboButton",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 185,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonBXH.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 22,
+            "Scale9Height": 29,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 124.4346,
+              "Y": 82.5338
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.4346,
+            "RightMargin": -150.4346,
+            "TopMargin": -108.0338,
+            "BottomMargin": 57.0338,
+            "Tag": 187,
+            "ActionTag": 612498436,
+            "Size": {
+              "X": 52.0,
+              "Y": 51.0
+            },
+            "Name": "MGButtonBXH",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonLichSu.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 124.4346,
+              "Y": 13.065
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 96.4346,
+            "RightMargin": -152.4346,
+            "TopMargin": -39.565,
+            "BottomMargin": -13.435,
+            "Tag": 188,
+            "ActionTag": 1092352588,
+            "Size": {
+              "X": 56.0,
+              "Y": 53.0
+            },
+            "Name": "MGButtonLichSu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonThongBao.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 25,
+            "Scale9Height": 24,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 124.4347,
+              "Y": -58.2798
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 96.9347,
+            "RightMargin": -151.9347,
+            "TopMargin": 35.2798,
+            "BottomMargin": -81.2798,
+            "Tag": 189,
+            "ActionTag": 778763568,
+            "Size": {
+              "X": 55.0,
+              "Y": 46.0
+            },
+            "Name": "MGButtonThongBao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "QUAY",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RussellSquare.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonQuayDis.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonQuay.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 116,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.5983,
+              "Y": -157.81
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -70.4017,
+            "RightMargin": -75.5983,
+            "TopMargin": 129.81,
+            "BottomMargin": -185.81,
+            "Tag": 190,
+            "ActionTag": -1253131543,
+            "Size": {
+              "X": 146.0,
+              "Y": 56.0
+            },
+            "Name": "MGButtonQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageTuQuay.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 139,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1024.3772,
+              "Y": -168.2939
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1108.8772,
+            "RightMargin": 939.8772,
+            "TopMargin": 150.2939,
+            "BottomMargin": -186.2939,
+            "Tag": 202,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImageCheck.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 7,
+                "Scale9Width": 42,
+                "Scale9Height": 36,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -1.5,
+                  "Y": 0.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0089,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.284,
+                  "Y": 1.1389
+                },
+                "LeftMargin": -1.5,
+                "RightMargin": 122.5,
+                "TopMargin": -5.0002,
+                "BottomMargin": 0.0002,
+                "Tag": 204,
+                "ActionTag": -1681939884,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 41.0
+                },
+                "Name": "MGImageCheck",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1594780283,
+            "Size": {
+              "X": 169.0,
+              "Y": 36.0
+            },
+            "Name": "MGButtonCheckTuQuay",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/RussellSquare.ttf",
+        "AtlasDiamond777/atlasDiamond777.plist",
+        "AtlasDiamond777/atlasDiamond777.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

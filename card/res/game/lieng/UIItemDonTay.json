@@ -1,0 +1,580 @@
+{
+  "ID": "c356de59-1b81-4655-bc4b-5ddd52ed343d",
+  "Version": "3.10.0.0",
+  "Name": "UIItemDonTay",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1309,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 164,
+            "Scale9OriginY": 83,
+            "Scale9Width": 171,
+            "Scale9Height": 86,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -204.0,
+            "RightMargin": -204.0,
+            "TopMargin": -103.0,
+            "BottomMargin": -103.0,
+            "Tag": 1311,
+            "ActionTag": -248472981,
+            "Size": {
+              "X": 408.0,
+              "Y": 206.0
+            },
+            "Alpha": 227,
+            "Name": "MGBackGroundDonTay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "XÁC NHẬN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -62.7723
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -65.5,
+            "RightMargin": -65.5,
+            "TopMargin": 45.7723,
+            "BottomMargin": -79.7723,
+            "Tag": 1312,
+            "ActionTag": -1730865767,
+            "Size": {
+              "X": 131.0,
+              "Y": 34.0
+            },
+            "Name": "MGButtonXacNhan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonClose.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 21,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 183.2071,
+              "Y": 84.7282
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 174.2071,
+            "RightMargin": -192.2071,
+            "TopMargin": -93.7282,
+            "BottomMargin": 75.7282,
+            "Tag": 1329,
+            "ActionTag": -1381779729,
+            "Size": {
+              "X": 18.0,
+              "Y": 18.0
+            },
+            "Name": "MGButtonCloseDonTay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "ĐÔN TẨY",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 80.0802
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.0,
+            "RightMargin": -74.0,
+            "TopMargin": -97.0802,
+            "BottomMargin": 63.0802,
+            "Tag": 1330,
+            "ActionTag": -228193504,
+            "Size": {
+              "X": 148.0,
+              "Y": 34.0
+            },
+            "Name": "MGTextChuyenTay",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundText.png",
+              "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 13,
+            "Scale9Width": 243,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 37.5216
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -145.5,
+            "RightMargin": -145.5,
+            "TopMargin": -58.0216,
+            "BottomMargin": 17.0216,
+            "Tag": 1331,
+            "ActionTag": 1263118269,
+            "Size": {
+              "X": 291.0,
+              "Y": 41.0
+            },
+            "Name": "MGBackGroundTien",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "MIN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -160.0,
+              "Y": -13.1877
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -183.0,
+            "RightMargin": 137.0,
+            "TopMargin": 1.6877,
+            "BottomMargin": -24.6877,
+            "Tag": 1333,
+            "ActionTag": 1271570192,
+            "Size": {
+              "X": 46.0,
+              "Y": 23.0
+            },
+            "Name": "MGTextMin",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "MAX",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 160.0,
+              "Y": -13.1877
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 132.0,
+            "RightMargin": -188.0,
+            "TopMargin": 1.6877,
+            "BottomMargin": -24.6877,
+            "Tag": 1334,
+            "ActionTag": 1388918525,
+            "Size": {
+              "X": 56.0,
+              "Y": 23.0
+            },
+            "Name": "MGTextMax",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconCoin.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 9,
+            "Scale9Width": 9,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -109.0426,
+              "Y": 37.3542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -121.5426,
+            "RightMargin": 96.5426,
+            "TopMargin": -51.8542,
+            "BottomMargin": 22.8542,
+            "Tag": 1335,
+            "ActionTag": -15074977,
+            "Size": {
+              "X": 25.0,
+              "Y": 29.0
+            },
+            "Name": "MGImageTien",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "999.999.999.999.999",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.6321,
+              "Y": 37.5216
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -71.8679,
+            "RightMargin": -119.1321,
+            "TopMargin": -49.0216,
+            "BottomMargin": 26.0216,
+            "Tag": 1336,
+            "ActionTag": 1893852870,
+            "Size": {
+              "X": 191.0,
+              "Y": 23.0
+            },
+            "Name": "MGTextTien",
+            "ctype": "TextObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageLine.png",
+              "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+            },
+            "BallNormalData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageCircle.png",
+              "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+            },
+            "PercentInfo": 50,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -13.1877
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -119.0,
+            "RightMargin": -119.0,
+            "TopMargin": 12.1877,
+            "BottomMargin": -14.1877,
+            "Tag": 1339,
+            "ActionTag": -905417915,
+            "Size": {
+              "X": 238.0,
+              "Y": 2.0
+            },
+            "Name": "MGSliderCuoc",
+            "ctype": "SliderObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "../../Fonts/UTM Swiss CondensedBold.ttf",
+        "../../main/atlas/AtlasPopups/AtlasPopups.plist",
+        "../../main/atlas/AtlasPopups/AtlasPopups.png",
+        "../../main/atlas/CompoMenu/AtlasCompoMenu.plist",
+        "../../main/atlas/CompoMenu/AtlasCompoMenu.png",
+        "atlaslieng/atlasLieng.plist",
+        "atlaslieng/atlasLieng.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

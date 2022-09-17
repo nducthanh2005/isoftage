@@ -1,0 +1,393 @@
+{
+  "ID": "482bff91-1d2f-4516-b77c-558fd80d1fee",
+  "Version": "3.10.0.0",
+  "Name": "MGScrollNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 18,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 131,
+            "Scale9Height": 118,
+            "AnchorPoint": {
+              "ScaleX": 0.3907,
+              "ScaleY": 0.5153
+            },
+            "Position": {
+              "X": 57.458,
+              "Y": 60.174
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.226,
+            "RightMargin": -156.774,
+            "TopMargin": -132.8836,
+            "BottomMargin": -17.1164,
+            "Tag": 21,
+            "ActionTag": 750147134,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5277,
+              "ScaleY": 0.5117
+            },
+            "Position": {
+              "X": 78.7368,
+              "Y": 187.8467
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.226,
+            "RightMargin": -154.774,
+            "TopMargin": -260.1159,
+            "BottomMargin": 112.1159,
+            "Tag": 20,
+            "ActionTag": 852907026,
+            "Size": {
+              "X": 161.0,
+              "Y": 148.0
+            },
+            "Name": "Item_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 29,
+            "Scale9Width": 55,
+            "Scale9Height": 90,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 74.2739,
+              "Y": 314.0704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.2261,
+            "RightMargin": -154.7739,
+            "TopMargin": -388.0704,
+            "BottomMargin": 240.0704,
+            "Tag": 22,
+            "ActionTag": 1318970743,
+            "Size": {
+              "X": 161.0,
+              "Y": 148.0
+            },
+            "Name": "Item_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.2739,
+              "Y": 437.2594
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.2261,
+            "RightMargin": -156.7739,
+            "TopMargin": -512.2594,
+            "BottomMargin": 362.2594,
+            "Tag": 19,
+            "ActionTag": 2102802081,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.2739,
+              "Y": 561.478
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.2261,
+            "RightMargin": -156.7739,
+            "TopMargin": -636.478,
+            "BottomMargin": 486.478,
+            "Tag": 55,
+            "ActionTag": 531310580,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.2739,
+              "Y": 687.565
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -6.2261,
+            "RightMargin": -156.7739,
+            "TopMargin": -762.565,
+            "BottomMargin": 612.565,
+            "Tag": 56,
+            "ActionTag": 674896475,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 77.4181,
+              "Y": 811.9109
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -4.0819,
+            "RightMargin": -158.9181,
+            "TopMargin": -886.9109,
+            "BottomMargin": 736.9109,
+            "Tag": 92,
+            "ActionTag": 471714249,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item3.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucItem.plist"
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 46,
+            "Scale9Width": 55,
+            "Scale9Height": 56,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.6385,
+              "Y": 937.0432
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -5.8615,
+            "RightMargin": -157.1385,
+            "TopMargin": -1012.0432,
+            "BottomMargin": 862.0432,
+            "Tag": 73,
+            "ActionTag": -2070131786,
+            "Size": {
+              "X": 163.0,
+              "Y": 150.0
+            },
+            "Name": "Item_7",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/atlasXengVanPhucItem.plist",
+        "Atlas/atlasXengVanPhucItem.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,479 @@
+{
+  "ID": "cce08e26-a86f-4cc3-91f1-27b190f88441",
+  "Version": "3.10.0.0",
+  "Name": "UINodeMenuExtend",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 92,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgMenuSub.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 66,
+            "Scale9OriginY": 51,
+            "Scale9Width": 49,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.3109,
+              "Y": -18.9423
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.3109,
+            "RightMargin": -99.6891,
+            "TopMargin": -72.5577,
+            "BottomMargin": -110.4423,
+            "Tag": 95,
+            "ActionTag": -2007651723,
+            "Size": {
+              "X": 200.0,
+              "Y": 183.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Thoát",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -85.2501,
+              "Y": -96.7007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -85.2501,
+            "RightMargin": -79.7499,
+            "TopMargin": 70.7007,
+            "BottomMargin": -96.7007,
+            "Tag": 801,
+            "ActionTag": 1481309061,
+            "Size": {
+              "X": 165.0,
+              "Y": 26.0
+            },
+            "Name": "MGTextBtnLogout",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnLineMenuSub.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 59,
+            "Scale9OriginY": 10,
+            "Scale9Width": 63,
+            "Scale9Height": 22,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0004,
+              "Y": -83.7008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -90.4996,
+            "RightMargin": -90.5004,
+            "TopMargin": 66.2008,
+            "BottomMargin": -101.2008,
+            "Tag": 806,
+            "ActionTag": -1242201855,
+            "Size": {
+              "X": 181.0,
+              "Y": 35.0
+            },
+            "Alpha": 0,
+            "Name": "MGBtnLogout",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Điều khoản",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -85.2501,
+              "Y": -57.9501
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -85.2501,
+            "RightMargin": -79.7499,
+            "TopMargin": 31.9501,
+            "BottomMargin": -57.9501,
+            "Tag": 1048,
+            "ActionTag": 1678537800,
+            "Size": {
+              "X": 165.0,
+              "Y": 26.0
+            },
+            "Name": "MGTextBtnDieuKhoan",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnLineMenuSub.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 59,
+            "Scale9OriginY": 10,
+            "Scale9Width": 63,
+            "Scale9Height": 12,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0001,
+              "Y": -44.9502
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -90.5001,
+            "RightMargin": -90.4999,
+            "TopMargin": 27.4502,
+            "BottomMargin": -62.4502,
+            "Tag": 1047,
+            "ActionTag": -82478764,
+            "Size": {
+              "X": 181.0,
+              "Y": 35.0
+            },
+            "Alpha": 0,
+            "Name": "MGBtnDieuKhoan",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Lịch sử giao dịch",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -85.2501,
+              "Y": -19.1996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -85.2501,
+            "RightMargin": -90.7499,
+            "TopMargin": -6.8004,
+            "BottomMargin": -19.1996,
+            "Tag": 1050,
+            "ActionTag": -1490256948,
+            "Size": {
+              "X": 176.0,
+              "Y": 26.0
+            },
+            "Name": "MGTextLichSu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnLineMenuSub.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 59,
+            "Scale9OriginY": 10,
+            "Scale9Width": 63,
+            "Scale9Height": 12,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.75,
+              "Y": -6.1996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -87.75,
+            "RightMargin": -93.25,
+            "TopMargin": -11.3004,
+            "BottomMargin": -23.6996,
+            "Tag": 1049,
+            "ActionTag": 2004794589,
+            "Size": {
+              "X": 181.0,
+              "Y": 35.0
+            },
+            "Alpha": 0,
+            "Name": "MGBtnLichSu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Âm thanh: Mở",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -85.2501,
+              "Y": 19.5509
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -85.2501,
+            "RightMargin": -79.7499,
+            "TopMargin": -45.5509,
+            "BottomMargin": 19.5509,
+            "Tag": 249,
+            "ActionTag": 449476776,
+            "Size": {
+              "X": 165.0,
+              "Y": 26.0
+            },
+            "Name": "MGTxtSound",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtnLineMenuSub.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 59,
+            "Scale9OriginY": 10,
+            "Scale9Width": 63,
+            "Scale9Height": 12,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0003,
+              "Y": 32.5508
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -90.4997,
+            "RightMargin": -90.5003,
+            "TopMargin": -50.0508,
+            "BottomMargin": 15.0508,
+            "Tag": 248,
+            "ActionTag": 922054688,
+            "Size": {
+              "X": 181.0,
+              "Y": 35.0
+            },
+            "Alpha": 0,
+            "Name": "MGBtnSound",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/tahoma.ttf",
+        "atlas/CompoMenu/AtlasCompoMenu.plist",
+        "atlas/CompoMenu/AtlasCompoMenu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

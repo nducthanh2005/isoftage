@@ -1,0 +1,384 @@
+{
+  "ID": "1320f12d-ed4c-44bf-9e8b-d4a182ffb49e",
+  "Version": "3.10.0.0",
+  "Name": "UIMGVQMMCompoButton",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_nenmo_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 47,
+            "Scale9OriginY": 47,
+            "Scale9Width": 50,
+            "Scale9Height": 50,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -72.0,
+            "RightMargin": -72.0,
+            "TopMargin": -72.0,
+            "BottomMargin": -72.0,
+            "Tag": 99,
+            "ActionTag": 205649224,
+            "Size": {
+              "X": 144.0,
+              "Y": 144.0
+            },
+            "Name": "MGButtonBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_nenquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 47,
+            "Scale9OriginY": 47,
+            "Scale9Width": 23,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -58.5,
+            "RightMargin": -58.5,
+            "TopMargin": -58.5,
+            "BottomMargin": -58.5,
+            "Tag": 100,
+            "ActionTag": -1607831095,
+            "Size": {
+              "X": 117.0,
+              "Y": 117.0
+            },
+            "Name": "MGButtonBorder",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_nutquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 54,
+            "Scale9Height": 62,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.2796,
+              "ScaleY": -0.2933
+            },
+            "Position": {
+              "X": 65.4893,
+              "Y": -66.6382
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -41.9971,
+            "RightMargin": -42.0029,
+            "TopMargin": -41.999,
+            "BottomMargin": -42.001,
+            "Tag": 98,
+            "ActionTag": 920898982,
+            "Size": {
+              "X": 84.0,
+              "Y": 84.0
+            },
+            "Name": "MGButtonQuay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_close_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 20,
+            "Scale9Height": 28,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 215.9379,
+              "Y": 222.8933
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 190.9379,
+            "RightMargin": -240.9379,
+            "TopMargin": -247.8933,
+            "BottomMargin": 197.8933,
+            "Tag": 3574,
+            "ActionTag": -92552240,
+            "Size": {
+              "X": 50.0,
+              "Y": 50.0
+            },
+            "Name": "MGButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_info_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 22,
+            "Scale9Height": 30,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -192.0208,
+              "Y": 222.2284
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -218.0208,
+            "RightMargin": 166.0208,
+            "TopMargin": -248.2284,
+            "BottomMargin": 196.2284,
+            "Tag": 338,
+            "ActionTag": -1919786099,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Name": "MGButtonLichSu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_hoi_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 28,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -545.5621,
+              "Y": 220.0086
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -574.5621,
+            "RightMargin": 516.5621,
+            "TopMargin": -249.0086,
+            "BottomMargin": 191.0086,
+            "Tag": 1444,
+            "ActionTag": 299573893,
+            "Size": {
+              "X": 58.0,
+              "Y": 58.0
+            },
+            "Name": "MGButtonHuongDan",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "atlas/AtlasVongQuayMayMan.plist",
+        "atlas/AtlasVongQuayMayMan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

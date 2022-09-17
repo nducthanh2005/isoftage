@@ -1,0 +1,3324 @@
+{
+  "ID": "4ff5b399-cc61-4f5e-ba7c-62f046fd216e",
+  "Version": "3.10.0.0",
+  "Name": "UITaiXiuLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BanTaiXiu.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.44,
+              "Y": 334.656
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.498,
+              "Y": 0.4648
+            },
+            "PreSize": {
+              "X": 0.6625,
+              "Y": 0.6569
+            },
+            "LeftMargin": 213.44,
+            "RightMargin": 218.5601,
+            "TopMargin": 148.844,
+            "BottomMargin": 98.156,
+            "Tag": 179,
+            "ActionTag": 1133971543,
+            "Size": {
+              "X": 848.0,
+              "Y": 473.0
+            },
+            "Name": "JCBackground",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 638.464,
+              "Y": 585.3013
+            },
+            "Scale": {
+              "ScaleX": 0.9312,
+              "ScaleY": 0.9174
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4988,
+              "Y": 0.8129
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 638.464,
+            "RightMargin": 641.536,
+            "TopMargin": 134.6987,
+            "BottomMargin": 585.3013,
+            "Tag": 999,
+            "ActionTag": -1948390725,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Dealer",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 946.7277,
+              "Y": 369.2687
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7396,
+              "Y": 0.5129
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 946.7277,
+            "RightMargin": 333.2723,
+            "TopMargin": 350.7313,
+            "BottomMargin": 369.2687,
+            "Tag": 234,
+            "ActionTag": -369834228,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "disk",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "99.000.000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/Roboto-Bold.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 128,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 916.4021,
+              "Y": 438.5337
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.8571
+            },
+            "CColor": {
+              "R": 132,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7159,
+              "Y": 0.6091
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.0278
+            },
+            "LeftMargin": 916.4021,
+            "RightMargin": 273.5979,
+            "TopMargin": 271.4663,
+            "BottomMargin": 428.5337,
+            "Tag": 235,
+            "ActionTag": 1764860509,
+            "Size": {
+              "X": 90.0,
+              "Y": 20.0
+            },
+            "Name": "Text_TongDat",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 45,
+            "LabelText": "30",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 946.1938,
+              "Y": 369.5917
+            },
+            "Scale": {
+              "ScaleX": 1.0909,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7392,
+              "Y": 0.5133
+            },
+            "PreSize": {
+              "X": 0.0633,
+              "Y": 0.0694
+            },
+            "LeftMargin": 905.6938,
+            "RightMargin": 293.3062,
+            "TopMargin": 325.4083,
+            "BottomMargin": 344.5917,
+            "Tag": 58,
+            "ActionTag": 787005117,
+            "Size": {
+              "X": 81.0,
+              "Y": 50.0
+            },
+            "Name": "timer",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "Tổng:",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/Roboto-Bold.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 873.4036,
+              "Y": 439.5336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 216,
+              "G": 182,
+              "B": 84
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6823,
+              "Y": 0.6105
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.0264
+            },
+            "LeftMargin": 873.4036,
+            "RightMargin": 355.5964,
+            "TopMargin": 270.9664,
+            "BottomMargin": 430.0336,
+            "Tag": 59,
+            "ActionTag": -88447833,
+            "Size": {
+              "X": 51.0,
+              "Y": 19.0
+            },
+            "Name": "Text_TongDat_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 380.428,
+              "Y": 583.9783
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2972,
+              "Y": 0.8111
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 380.428,
+            "RightMargin": 899.572,
+            "TopMargin": 136.0217,
+            "BottomMargin": 583.9783,
+            "Tag": 66,
+            "ActionTag": 1392247871,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_0",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 481.0638,
+              "Y": 583.9783
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3758,
+              "Y": 0.8111
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 481.0638,
+            "RightMargin": 798.9362,
+            "TopMargin": 136.0217,
+            "BottomMargin": 583.9783,
+            "Tag": 67,
+            "ActionTag": 320646217,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 790.269,
+              "Y": 583.9783
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6174,
+              "Y": 0.8111
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 790.269,
+            "RightMargin": 489.731,
+            "TopMargin": 136.0217,
+            "BottomMargin": 583.9783,
+            "Tag": 68,
+            "ActionTag": -155608788,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 890.9068,
+              "Y": 583.5439
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.696,
+              "Y": 0.8105
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 890.9068,
+            "RightMargin": 389.0932,
+            "TopMargin": 136.4561,
+            "BottomMargin": 583.5439,
+            "Tag": 69,
+            "ActionTag": -551231429,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 387.5996,
+              "Y": 219.8822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3028,
+              "Y": 0.3054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 387.5996,
+            "RightMargin": 892.4004,
+            "TopMargin": 500.1178,
+            "BottomMargin": 219.8822,
+            "Tag": 70,
+            "ActionTag": -458758429,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 494.5709,
+              "Y": 219.8822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3864,
+              "Y": 0.3054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.5709,
+            "RightMargin": 785.4291,
+            "TopMargin": 500.1178,
+            "BottomMargin": 219.8822,
+            "Tag": 71,
+            "ActionTag": 777740174,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 601.5426,
+              "Y": 219.8822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.47,
+              "Y": 0.3054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 601.5426,
+            "RightMargin": 678.4574,
+            "TopMargin": 500.1178,
+            "BottomMargin": 219.8822,
+            "Tag": 74,
+            "ActionTag": -1900249473,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 708.514,
+              "Y": 219.8822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5535,
+              "Y": 0.3054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 708.514,
+            "RightMargin": 571.486,
+            "TopMargin": 500.1178,
+            "BottomMargin": 219.8822,
+            "Tag": 75,
+            "ActionTag": 99358274,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Slot_7",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 392.0414,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3063,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 348.0414,
+            "RightMargin": 843.9586,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 1,
+            "ActionTag": 197917476,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.5757,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3747,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 435.5757,
+            "RightMargin": 756.4243,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 2,
+            "ActionTag": -1813302584,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.6667,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4435,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 523.6667,
+            "RightMargin": 668.3333,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 3,
+            "ActionTag": 1347881107,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.7548,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5123,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 611.7548,
+            "RightMargin": 580.2452,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 4,
+            "ActionTag": -661839625,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 743.8456,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5811,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 699.8456,
+            "RightMargin": 492.1544,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 5,
+            "ActionTag": 1142920225,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 831.9356,
+              "Y": 295.6244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6499,
+              "Y": 0.4106
+            },
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.0611
+            },
+            "LeftMargin": 787.9356,
+            "RightMargin": 404.0644,
+            "TopMargin": 402.3756,
+            "BottomMargin": 273.6244,
+            "Tag": 6,
+            "ActionTag": 373897326,
+            "Size": {
+              "X": 88.0,
+              "Y": 44.0
+            },
+            "Alpha": 0,
+            "Name": "Đơn lẻ 6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 358.6191,
+              "Y": 349.8329
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2802,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 340.6191,
+            "RightMargin": 903.3809,
+            "TopMargin": 338.1671,
+            "BottomMargin": 317.8329,
+            "Tag": 7,
+            "ActionTag": 469952029,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 1:2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 394.6619,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3083,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 376.6619,
+            "RightMargin": 867.3381,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 8,
+            "ActionTag": 298498008,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 1:3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 430.7057,
+              "Y": 349.8329
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3365,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 412.7057,
+            "RightMargin": 831.2943,
+            "TopMargin": 338.1671,
+            "BottomMargin": 317.8329,
+            "Tag": 9,
+            "ActionTag": -1057083935,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 1:4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 466.7484,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3646,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 448.7484,
+            "RightMargin": 795.2516,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 10,
+            "ActionTag": 1231883024,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "IĐôi 1:5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 502.7913,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3928,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 484.7913,
+            "RightMargin": 759.2087,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 11,
+            "ActionTag": -855660629,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 1:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 538.8343,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.421,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 520.8343,
+            "RightMargin": 723.1657,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 12,
+            "ActionTag": -201684081,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 2:3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 574.8779,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4491,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 556.8779,
+            "RightMargin": 687.1221,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 13,
+            "ActionTag": -575505783,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 2:4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 610.9209,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4773,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 592.9209,
+            "RightMargin": 651.0791,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 14,
+            "ActionTag": 256427995,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 2:5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 646.9644,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5054,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 628.9644,
+            "RightMargin": 615.0356,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 15,
+            "ActionTag": -811796478,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 2:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 683.0079,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5336,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 665.0079,
+            "RightMargin": 578.9921,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 16,
+            "ActionTag": 242259064,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 3:4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 719.0512,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5618,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 701.0512,
+            "RightMargin": 542.9488,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 17,
+            "ActionTag": 946932846,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 3:5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 755.095,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5899,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 737.095,
+            "RightMargin": 506.905,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 18,
+            "ActionTag": 1849171070,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 3:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 791.1376,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6181,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 773.1376,
+            "RightMargin": 470.8624,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 19,
+            "ActionTag": 96477078,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 4:5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 827.181,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6462,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 809.181,
+            "RightMargin": 434.819,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 20,
+            "ActionTag": 699103461,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 4:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 863.2248,
+              "Y": 349.8328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6744,
+              "Y": 0.4859
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0889
+            },
+            "LeftMargin": 845.2248,
+            "RightMargin": 398.7752,
+            "TopMargin": 338.1672,
+            "BottomMargin": 317.8328,
+            "Tag": 21,
+            "ActionTag": 1664360638,
+            "Size": {
+              "X": 36.0,
+              "Y": 64.0
+            },
+            "Alpha": 0,
+            "Name": "Đôi 5:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 368.5954,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.288,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 350.5954,
+            "RightMargin": 893.4046,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 22,
+            "ActionTag": 343576041,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "4 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 405.9852,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3172,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 387.9852,
+            "RightMargin": 856.0148,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 23,
+            "ActionTag": 1920500817,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "5 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 443.3761,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3464,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 425.3761,
+            "RightMargin": 818.6239,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 24,
+            "ActionTag": -461491714,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "6 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.7668,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3756,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 462.7668,
+            "RightMargin": 781.2332,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 25,
+            "ActionTag": -862344036,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "7 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.158,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4048,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 500.158,
+            "RightMargin": 743.842,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 26,
+            "ActionTag": 415855104,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "8 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 555.5479,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.434,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 537.5479,
+            "RightMargin": 706.4521,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 27,
+            "ActionTag": 277140956,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "9 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.9387,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4632,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 574.9387,
+            "RightMargin": 669.0613,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 28,
+            "ActionTag": -1691974979,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "10 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 630.3297,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4924,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 612.3297,
+            "RightMargin": 631.6703,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 29,
+            "ActionTag": 967213461,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "11 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.7202,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5217,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 649.7202,
+            "RightMargin": 594.2798,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 30,
+            "ActionTag": 1272459658,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "12 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 705.1114,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5509,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 687.1114,
+            "RightMargin": 556.8886,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 31,
+            "ActionTag": 1750989211,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "13 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 742.5019,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5801,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 724.5019,
+            "RightMargin": 519.4981,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 32,
+            "ActionTag": -190465883,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "14 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4826,
+              "ScaleY": 0.4402
+            },
+            "Position": {
+              "X": 779.2653,
+              "Y": 402.9203
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6088,
+              "Y": 0.5596
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 761.8917,
+            "RightMargin": 482.1083,
+            "TopMargin": 290.7691,
+            "BottomMargin": 382.2309,
+            "Tag": 33,
+            "ActionTag": 183803416,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "15 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 817.2828,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6385,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 799.2828,
+            "RightMargin": 444.7172,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 34,
+            "ActionTag": -1934143288,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "16 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 854.6749,
+              "Y": 405.7305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6677,
+              "Y": 0.5635
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0653
+            },
+            "LeftMargin": 836.6749,
+            "RightMargin": 407.3251,
+            "TopMargin": 290.7695,
+            "BottomMargin": 382.2305,
+            "Tag": 35,
+            "ActionTag": -1912134853,
+            "Size": {
+              "X": 36.0,
+              "Y": 47.0
+            },
+            "Alpha": 0,
+            "Name": "17 Điểm",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 376.5019,
+              "Y": 456.1642
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2941,
+              "Y": 0.6336
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0722
+            },
+            "LeftMargin": 350.5019,
+            "RightMargin": 877.4981,
+            "TopMargin": 237.8358,
+            "BottomMargin": 430.1642,
+            "Tag": 51,
+            "ActionTag": -1958192204,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Alpha": 0,
+            "Name": "Lẻ",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 376.5019,
+              "Y": 508.6845
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2941,
+              "Y": 0.7065
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0722
+            },
+            "LeftMargin": 350.5019,
+            "RightMargin": 877.4981,
+            "TopMargin": 185.3155,
+            "BottomMargin": 482.6845,
+            "Tag": 48,
+            "ActionTag": -2025536875,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Alpha": 0,
+            "Name": "Xỉu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 845.9355,
+              "Y": 456.1642
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6609,
+              "Y": 0.6336
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0722
+            },
+            "LeftMargin": 819.9355,
+            "RightMargin": 408.0645,
+            "TopMargin": 237.8358,
+            "BottomMargin": 430.1642,
+            "Tag": 52,
+            "ActionTag": -433531337,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Alpha": 0,
+            "Name": "Chẵn",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 845.9355,
+              "Y": 508.6845
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6609,
+              "Y": 0.7065
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0722
+            },
+            "LeftMargin": 819.9355,
+            "RightMargin": 408.0645,
+            "TopMargin": 185.3155,
+            "BottomMargin": 482.6845,
+            "Tag": 49,
+            "ActionTag": 1093426595,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Alpha": 0,
+            "Name": "Tài",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 443.4535,
+              "Y": 517.6049
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3464,
+              "Y": 0.7189
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 411.4535,
+            "RightMargin": 804.5465,
+            "TopMargin": 184.3951,
+            "BottomMargin": 499.6049,
+            "Tag": 36,
+            "ActionTag": 751506452,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 1:1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 443.9459,
+              "Y": 482.5435
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3468,
+              "Y": 0.6702
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 411.9459,
+            "RightMargin": 804.0541,
+            "TopMargin": 219.4565,
+            "BottomMargin": 464.5435,
+            "Tag": 37,
+            "ActionTag": 2143442046,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 2:2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 443.9459,
+              "Y": 447.6778
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3468,
+              "Y": 0.6218
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 411.9459,
+            "RightMargin": 804.0541,
+            "TopMargin": 254.3222,
+            "BottomMargin": 429.6778,
+            "Tag": 38,
+            "ActionTag": -1267389625,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 3:3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 778.0751,
+              "Y": 517.9072
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6079,
+              "Y": 0.7193
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 746.0751,
+            "RightMargin": 469.9249,
+            "TopMargin": 184.0928,
+            "BottomMargin": 499.9072,
+            "Tag": 39,
+            "ActionTag": 2004024120,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 4:4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 778.0751,
+              "Y": 482.3358
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6079,
+              "Y": 0.6699
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 746.0751,
+            "RightMargin": 469.9249,
+            "TopMargin": 219.6642,
+            "BottomMargin": 464.3358,
+            "Tag": 40,
+            "ActionTag": -1184835709,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 5:5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 778.0751,
+              "Y": 447.6917
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6079,
+              "Y": 0.6218
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.05
+            },
+            "LeftMargin": 746.0751,
+            "RightMargin": 469.9249,
+            "TopMargin": 254.3083,
+            "BottomMargin": 429.6917,
+            "Tag": 41,
+            "ActionTag": 29252046,
+            "Size": {
+              "X": 64.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "Cặp 6:6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 526.6701,
+              "Y": 518.3472
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4115,
+              "Y": 0.7199
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 480.6701,
+            "RightMargin": 707.3299,
+            "TopMargin": 183.6528,
+            "BottomMargin": 500.3472,
+            "Tag": 42,
+            "ActionTag": -548910072,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.6701,
+              "Y": 482.8496
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4122,
+              "Y": 0.6706
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 481.6701,
+            "RightMargin": 706.3299,
+            "TopMargin": 219.1504,
+            "BottomMargin": 464.8496,
+            "Tag": 43,
+            "ActionTag": -298056152,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.6701,
+              "Y": 448.0932
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4122,
+              "Y": 0.6224
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 481.6701,
+            "RightMargin": 706.3299,
+            "TopMargin": 253.9068,
+            "BottomMargin": 430.0932,
+            "Tag": 44,
+            "ActionTag": -16099881,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 694.8624,
+              "Y": 517.7819
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5429,
+              "Y": 0.7191
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 648.8624,
+            "RightMargin": 539.1376,
+            "TopMargin": 184.2181,
+            "BottomMargin": 499.7819,
+            "Tag": 45,
+            "ActionTag": -1636144107,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 694.8624,
+              "Y": 482.2274
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5429,
+              "Y": 0.6698
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 648.8624,
+            "RightMargin": 539.1376,
+            "TopMargin": 219.7726,
+            "BottomMargin": 464.2274,
+            "Tag": 46,
+            "ActionTag": 465007416,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 694.8624,
+              "Y": 447.8091
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5429,
+              "Y": 0.622
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.05
+            },
+            "LeftMargin": 648.8624,
+            "RightMargin": 539.1376,
+            "TopMargin": 254.1909,
+            "BottomMargin": 429.8091,
+            "Tag": 47,
+            "ActionTag": -227947399,
+            "Size": {
+              "X": 92.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "3 con 6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "lightYellow.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 17,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 610.7593,
+              "Y": 482.9524
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4772,
+              "Y": 0.6708
+            },
+            "PreSize": {
+              "X": 0.0562,
+              "Y": 0.1486
+            },
+            "LeftMargin": 574.7593,
+            "RightMargin": 633.2407,
+            "TopMargin": 183.5476,
+            "BottomMargin": 429.4524,
+            "Tag": 50,
+            "ActionTag": -323439353,
+            "Size": {
+              "X": 72.0,
+              "Y": 107.0
+            },
+            "Alpha": 0,
+            "Name": "Tam bất kỳ",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnPopupResultClick.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnPopupResult.png",
+              "Plist": "game/taixiu/AtlasTaiXiu/AtlasTaiXiu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 29,
+            "Scale9Height": 12,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 213.4,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1667,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0472
+            },
+            "LeftMargin": 183.9,
+            "RightMargin": 1037.1,
+            "BottomMargin": 686.0,
+            "Tag": 68,
+            "ActionTag": 762046243,
+            "Size": {
+              "X": 59.0,
+              "Y": 34.0
+            },
+            "Name": "ShowResultBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "-100.000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 602.0,
+              "Y": 385.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 210,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4703,
+              "Y": 0.5347
+            },
+            "PreSize": {
+              "X": 0.3906,
+              "Y": 0.0528
+            },
+            "LeftMargin": 352.0,
+            "RightMargin": 428.0,
+            "TopMargin": 316.0,
+            "BottomMargin": 366.0,
+            "Tag": 69,
+            "ActionTag": 271401978,
+            "Size": {
+              "X": 500.0,
+              "Y": 38.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGCoinEndMatchEffect",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 106.6488,
+              "Y": 577.1088
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0833,
+              "Y": 0.8015
+            },
+            "PreSize": {
+              "X": 0.1102,
+              "Y": 0.0417
+            },
+            "LeftMargin": 106.6488,
+            "RightMargin": 1032.3512,
+            "TopMargin": 127.8912,
+            "BottomMargin": 562.1088,
+            "Tag": 70,
+            "ActionTag": 426990669,
+            "Size": {
+              "X": 141.0,
+              "Y": 30.0
+            },
+            "Name": "Text_MyGold",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconCoin.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 89.9233,
+              "Y": 577.8272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0703,
+              "Y": 0.8025
+            },
+            "PreSize": {
+              "X": 0.0195,
+              "Y": 0.0403
+            },
+            "LeftMargin": 77.4233,
+            "RightMargin": 1177.5767,
+            "TopMargin": 127.6728,
+            "BottomMargin": 563.3272,
+            "Tag": 488,
+            "ActionTag": 21450099,
+            "Size": {
+              "X": 25.0,
+              "Y": 29.0
+            },
+            "Name": "IconCoin",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "../../Fonts/Roboto-Bold.ttf",
+        "../../Fonts/tahomabd.ttf",
+        "../../Fonts/UTM Swiss CondensedBold.ttf",
+        "../../main/atlas/CompoMenu/AtlasCompoMenu.plist",
+        "../../main/atlas/CompoMenu/AtlasCompoMenu.png",
+        "AtlasTaiXiu/AtlasTaiXiu.plist",
+        "AtlasTaiXiu/AtlasTaiXiu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

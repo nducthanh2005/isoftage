@@ -1,0 +1,717 @@
+{
+  "ID": "406fb6fe-9cce-4c67-b12e-fd78ac893ea4",
+  "Version": "3.10.0.0",
+  "Name": "UIItemComboSlot",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 73,
+        "Children": [
+          {
+            "ClipAble": true,
+            "SingleColor": {
+              "G": 150,
+              "B": 172
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.5291,
+              "Y": -0.093
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.5291,
+            "RightMargin": -551.5291,
+            "TopMargin": -274.907,
+            "BottomMargin": -0.093,
+            "Tag": 79,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/xengluxury/UINodeItemSlotContainer.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 4.0,
+                  "Y": -0.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0073,
+                  "Y": -0.0036
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 4.0,
+                "RightMargin": 546.0,
+                "TopMargin": 275.9995,
+                "BottomMargin": -0.9995,
+                "Tag": 324,
+                "ActionTag": 629587560,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGColumn0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/xengluxury/UINodeItemSlotContainer.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 107.8256,
+                  "Y": -0.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.196,
+                  "Y": -0.0036
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 107.8256,
+                "RightMargin": 442.1744,
+                "TopMargin": 275.9995,
+                "BottomMargin": -0.9995,
+                "Tag": 332,
+                "ActionTag": -689232094,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGColumn1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/xengluxury/UINodeItemSlotContainer.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 211.6511,
+                  "Y": -0.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.3848,
+                  "Y": -0.0036
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 211.6511,
+                "RightMargin": 338.3489,
+                "TopMargin": 275.9995,
+                "BottomMargin": -0.9995,
+                "Tag": 340,
+                "ActionTag": -1968410882,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGColumn2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/xengluxury/UINodeItemSlotContainer.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 315.4769,
+                  "Y": -0.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5736,
+                  "Y": -0.0036
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 315.4769,
+                "RightMargin": 234.5231,
+                "TopMargin": 275.9995,
+                "BottomMargin": -0.9995,
+                "Tag": 348,
+                "ActionTag": 642155799,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGColumn3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/xengluxury/UINodeItemSlotContainer.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 419.3027,
+                  "Y": -0.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7624,
+                  "Y": -0.0036
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 419.3027,
+                "RightMargin": 130.6973,
+                "TopMargin": 275.9995,
+                "BottomMargin": -0.9995,
+                "Tag": 356,
+                "ActionTag": -515880538,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGColumn4",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -1888009889,
+            "Size": {
+              "X": 550.0,
+              "Y": 275.0
+            },
+            "Name": "panelGiaoDienQuay",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 665.6005,
+              "Y": 42.5435
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 665.6005,
+            "RightMargin": -665.6005,
+            "TopMargin": -42.5435,
+            "BottomMargin": 42.5435,
+            "Tag": 8404,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImageLight1.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 53,
+                "Scale9OriginY": 53,
+                "Scale9Width": 18,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -1.0001,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -63.0001,
+                "RightMargin": -60.9999,
+                "TopMargin": -62.5,
+                "BottomMargin": -62.5,
+                "Tag": 90,
+                "ActionTag": -779820793,
+                "Size": {
+                  "X": 124.0,
+                  "Y": 125.0
+                },
+                "Name": "MGEffectUp",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonQuay.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 62,
+                "Scale9OriginY": 77,
+                "Scale9Width": 22,
+                "Scale9Height": 27,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -2.2433,
+                  "Y": -28.2917
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -75.2433,
+                "RightMargin": -70.7567,
+                "TopMargin": -62.2083,
+                "BottomMargin": -118.7917,
+                "Tag": 522,
+                "ActionTag": 467062918,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 181.0
+                },
+                "Name": "MGBackGroundQuay",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImageBall.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 42,
+                "Scale9Width": 14,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -1.0001,
+                  "Y": -1.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -51.0001,
+                "RightMargin": -48.9999,
+                "TopMargin": -48.5,
+                "BottomMargin": -50.5,
+                "Tag": 451,
+                "ActionTag": 1016892244,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 99.0
+                },
+                "Name": "MGBallQuay",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImageLight3.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 37,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -3.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -61.0,
+                "RightMargin": -55.0,
+                "TopMargin": -44.0,
+                "BottomMargin": -44.0,
+                "Tag": 452,
+                "ActionTag": 1464449786,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 88.0
+                },
+                "Name": "MGEffectQuay1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImageLight2.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+                },
+                "Scale9OriginX": 71,
+                "Scale9OriginY": 37,
+                "Scale9Width": 24,
+                "Scale9Height": 81,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.5682,
+                  "Y": -6.9629
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -67.4318,
+                "RightMargin": -98.5682,
+                "TopMargin": -70.5371,
+                "BottomMargin": -84.4629,
+                "Tag": 453,
+                "ActionTag": 663138096,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 155.0
+                },
+                "Name": "MGEffectQuay2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "textQuay.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 36,
+                "Scale9OriginY": 11,
+                "Scale9Width": 12,
+                "Scale9Height": 5,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -42.0,
+                "RightMargin": -42.0,
+                "TopMargin": -13.5,
+                "BottomMargin": -13.5,
+                "Tag": 454,
+                "ActionTag": 1679464947,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 27.0
+                },
+                "Name": "MGTextQuay",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 3.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -60.0,
+                "RightMargin": -60.0,
+                "TopMargin": -68.0,
+                "BottomMargin": -62.0,
+                "Tag": 772,
+                "ActionTag": 994561169,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 130.0
+                },
+                "Name": "MGButtonQuayHover",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.2599,
+                  "Y": 0.7688
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -59.7401,
+                "RightMargin": -60.2599,
+                "TopMargin": -65.7688,
+                "BottomMargin": -64.2312,
+                "Tag": 878,
+                "ActionTag": 1946068359,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 130.0
+                },
+                "Name": "MGButtonQuay",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -845372223,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonQuayContainer",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "AtlasXengLuxury/atlasXengLuxury1.plist",
+        "AtlasXengLuxury/atlasXengLuxury1.png",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png",
+        "UINodeItemSlotContainer.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

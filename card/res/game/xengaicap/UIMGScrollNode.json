@@ -1,0 +1,303 @@
+{
+  "ID": "2b0907eb-b2d2-4223-96cc-baa20584a2ef",
+  "Version": "3.10.0.0",
+  "Name": "UIMGScrollNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5444,
+              "Y": 783.1348
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5444,
+            "RightMargin": -186.5444,
+            "TopMargin": -871.1348,
+            "BottomMargin": 695.1348,
+            "Tag": 1178,
+            "ActionTag": -1529457612,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5428,
+              "Y": 639.5644
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5428,
+            "RightMargin": -186.5428,
+            "TopMargin": -727.5644,
+            "BottomMargin": 551.5644,
+            "Tag": 1179,
+            "ActionTag": 579565856,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5413,
+              "Y": 496.4007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5413,
+            "RightMargin": -186.5413,
+            "TopMargin": -584.4007,
+            "BottomMargin": 408.4007,
+            "Tag": 1180,
+            "ActionTag": 77412894,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5444,
+              "Y": 354.6725
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5444,
+            "RightMargin": -186.5444,
+            "TopMargin": -442.6725,
+            "BottomMargin": 266.6725,
+            "Tag": 9,
+            "ActionTag": -855951500,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5444,
+              "Y": 212.0917
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5444,
+            "RightMargin": -186.5444,
+            "TopMargin": -300.0917,
+            "BottomMargin": 124.0917,
+            "Tag": 10,
+            "ActionTag": -1382848553,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/xengaicap/atlas/AtlasItem/AtlasItemsXAC.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 58,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5439,
+              "Y": 68.9307
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.5439,
+            "RightMargin": -186.5439,
+            "TopMargin": -156.9307,
+            "BottomMargin": -19.0693,
+            "Tag": 11,
+            "ActionTag": -2006598927,
+            "Size": {
+              "X": 180.0,
+              "Y": 176.0
+            },
+            "Name": "Item0",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "atlas/AtlasItem/AtlasItemsXAC.plist",
+        "atlas/AtlasItem/AtlasItemsXAC.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

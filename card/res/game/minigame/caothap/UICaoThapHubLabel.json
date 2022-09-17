@@ -1,0 +1,785 @@
+{
+  "ID": "9de1c444-3ae0-480c-976b-0f3752ca5bf6",
+  "Version": "3.10.0.0",
+  "Name": "UICaoThapHubLabel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 152,
+        "Children": [
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "564.471",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.2472,
+              "Y": 470.0565
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 39
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 579.2472,
+            "RightMargin": -699.2472,
+            "TopMargin": -486.0565,
+            "BottomMargin": 454.0565,
+            "Tag": 154,
+            "ActionTag": -645947702,
+            "Size": {
+              "X": 120.0,
+              "Y": 32.0
+            },
+            "Name": "MGGoldHu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 15,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 471.4768,
+              "Y": 475.393
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 418.4768,
+            "RightMargin": -524.4768,
+            "TopMargin": -484.893,
+            "BottomMargin": 465.893,
+            "Tag": 155,
+            "ActionTag": -623225017,
+            "Size": {
+              "X": 106.0,
+              "Y": 19.0
+            },
+            "Name": "MGMarchID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "02:00",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 779.7695,
+              "Y": 426.3946
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 739.7695,
+            "RightMargin": -819.7695,
+            "TopMargin": -437.8946,
+            "BottomMargin": 414.8946,
+            "Tag": 156,
+            "ActionTag": -1540925320,
+            "Size": {
+              "X": 80.0,
+              "Y": 23.0
+            },
+            "Name": "MGTimeCount",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.57,
+              "Y": 425.6468
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.57,
+            "RightMargin": -640.57,
+            "TopMargin": -425.6468,
+            "BottomMargin": 425.6468,
+            "Tag": 157,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_bglabel.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9OriginX": 32,
+                "Scale9OriginY": 9,
+                "Scale9Width": 35,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -49.5,
+                "RightMargin": -49.5,
+                "TopMargin": -14.0,
+                "BottomMargin": -14.0,
+                "Tag": 158,
+                "ActionTag": 1824509732,
+                "Size": {
+                  "X": 99.0,
+                  "Y": 28.0
+                },
+                "Name": "BG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "23.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": -70.0,
+                "TopMargin": -10.0,
+                "BottomMargin": -10.0,
+                "Tag": 159,
+                "ActionTag": 1441033962,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 20.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1223439795,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextCuocTop",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.57,
+              "Y": 285.2626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.57,
+            "RightMargin": -640.57,
+            "TopMargin": -285.2626,
+            "BottomMargin": 285.2626,
+            "Tag": 160,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_bglabel.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9OriginX": 32,
+                "Scale9OriginY": 9,
+                "Scale9Width": 35,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -49.5,
+                "RightMargin": -49.5,
+                "TopMargin": -14.0,
+                "BottomMargin": -14.0,
+                "Tag": 161,
+                "ActionTag": 66790979,
+                "Size": {
+                  "X": 99.0,
+                  "Y": 28.0
+                },
+                "Name": "BG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "23.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": -70.0,
+                "TopMargin": -10.0,
+                "BottomMargin": -10.0,
+                "Tag": 162,
+                "ActionTag": -119695970,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 20.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -519416731,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextCuocBottom",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.57,
+              "Y": 353.0941
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.57,
+            "RightMargin": -640.57,
+            "TopMargin": -353.0941,
+            "BottomMargin": 353.0941,
+            "Tag": 163,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_bglabel.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9OriginX": 32,
+                "Scale9OriginY": 9,
+                "Scale9Width": 35,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -49.5,
+                "RightMargin": -49.5,
+                "TopMargin": -14.0,
+                "BottomMargin": -14.0,
+                "Tag": 164,
+                "ActionTag": 1893287880,
+                "Size": {
+                  "X": 99.0,
+                  "Y": 28.0
+                },
+                "Name": "BG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "23.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": -70.0,
+                "TopMargin": -10.0,
+                "BottomMargin": -10.0,
+                "Tag": 165,
+                "ActionTag": 481704365,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 20.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 117888076,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextCuocCenter",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 654.12,
+              "Y": 246.29
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 220,
+              "G": 197,
+              "B": 124
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 334.12,
+            "RightMargin": -974.12,
+            "TopMargin": -260.79,
+            "BottomMargin": 231.79,
+            "Tag": 615,
+            "ActionTag": -2084414067,
+            "Size": {
+              "X": 640.0,
+              "Y": 29.0
+            },
+            "Name": "MGTextHistory",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Click 'Play' để bắt đầu chơi",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 654.1186,
+              "Y": 246.286
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 220,
+              "G": 197,
+              "B": 124
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 477.6186,
+            "RightMargin": -830.6186,
+            "TopMargin": -260.786,
+            "BottomMargin": 231.786,
+            "Tag": 166,
+            "ActionTag": 352188081,
+            "Size": {
+              "X": 353.0,
+              "Y": 29.0
+            },
+            "Name": "MGTextBottom",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ct_hugold.png",
+              "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 19,
+            "Scale9Width": 25,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 555.6144,
+              "Y": 479.2751
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 519.1144,
+            "RightMargin": -592.1144,
+            "TopMargin": -509.2751,
+            "BottomMargin": 449.2751,
+            "Tag": 167,
+            "ActionTag": -2090349803,
+            "Size": {
+              "X": 73.0,
+              "Y": 60.0
+            },
+            "Name": "MGHubHu",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "MGHubLabel",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "AtlasCaoThap/AtlasCaoThap.plist",
+        "AtlasCaoThap/AtlasCaoThap.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

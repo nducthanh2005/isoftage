@@ -1,0 +1,770 @@
+{
+  "ID": "cf8f0746-9929-4bc2-b8e8-252b1a294e67",
+  "Version": "3.10.0.0",
+  "Name": "UIButton2Collumn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 73.9985,
+              "Y": -170.9987
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.9985,
+            "RightMargin": -73.9985,
+            "TopMargin": 170.9987,
+            "BottomMargin": -170.9987,
+            "Tag": 943,
+            "ActionTag": -1292778642,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -74.9998,
+              "Y": -170.999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.9998,
+            "RightMargin": 74.9998,
+            "TopMargin": 170.999,
+            "BottomMargin": -170.999,
+            "Tag": 949,
+            "ActionTag": 537669256,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_0",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 73.9985,
+              "Y": -126.9993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.9985,
+            "RightMargin": -73.9985,
+            "TopMargin": 126.9993,
+            "BottomMargin": -126.9993,
+            "Tag": 955,
+            "ActionTag": -1797722235,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_3",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -74.9998,
+              "Y": -126.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.9998,
+            "RightMargin": 74.9998,
+            "TopMargin": 126.9996,
+            "BottomMargin": -126.9996,
+            "Tag": 961,
+            "ActionTag": -856386315,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_2",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 73.9985,
+              "Y": -84.0017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.9985,
+            "RightMargin": -73.9985,
+            "TopMargin": 84.0017,
+            "BottomMargin": -84.0017,
+            "Tag": 967,
+            "ActionTag": -1114056769,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_5",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -74.9998,
+              "Y": -84.0017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.9998,
+            "RightMargin": 74.9998,
+            "TopMargin": 84.0017,
+            "BottomMargin": -84.0017,
+            "Tag": 973,
+            "ActionTag": 786110374,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_4",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 75.9988,
+              "Y": 128.9947
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 75.9988,
+            "RightMargin": -75.9988,
+            "TopMargin": -128.9947,
+            "BottomMargin": 128.9947,
+            "Tag": 979,
+            "ActionTag": 908664272,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_15",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -73.9998,
+              "Y": 128.9957
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9998,
+            "RightMargin": 73.9998,
+            "TopMargin": -128.9957,
+            "BottomMargin": 128.9957,
+            "Tag": 985,
+            "ActionTag": -1502470620,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_14",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.9991,
+              "Y": 171.9955
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9991,
+            "RightMargin": -74.9991,
+            "TopMargin": -171.9955,
+            "BottomMargin": 171.9955,
+            "Tag": 991,
+            "ActionTag": -1151282523,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_17",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -73.9998,
+              "Y": 171.9949
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9998,
+            "RightMargin": 73.9998,
+            "TopMargin": -171.9949,
+            "BottomMargin": 171.9949,
+            "Tag": 997,
+            "ActionTag": -1923361305,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_16",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.9988,
+              "Y": 42.9974
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9988,
+            "RightMargin": -74.9988,
+            "TopMargin": -42.9974,
+            "BottomMargin": 42.9974,
+            "Tag": 1003,
+            "ActionTag": -1092909099,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_11",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -73.9998,
+              "Y": 42.9984
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9998,
+            "RightMargin": 73.9998,
+            "TopMargin": -42.9984,
+            "BottomMargin": 42.9984,
+            "Tag": 1009,
+            "ActionTag": 584500511,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_10",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.9991,
+              "Y": 85.9974
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9991,
+            "RightMargin": -74.9991,
+            "TopMargin": -85.9974,
+            "BottomMargin": 85.9974,
+            "Tag": 1015,
+            "ActionTag": -893547271,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_13",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -73.9998,
+              "Y": 85.998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9998,
+            "RightMargin": 73.9998,
+            "TopMargin": -85.998,
+            "BottomMargin": 85.998,
+            "Tag": 1021,
+            "ActionTag": 1729644073,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_12",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.9988,
+              "Y": -42.002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9988,
+            "RightMargin": -74.9988,
+            "TopMargin": 42.002,
+            "BottomMargin": -42.002,
+            "Tag": 1027,
+            "ActionTag": -914893037,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_7",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -74.9998,
+              "Y": -41.0013
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -74.9998,
+            "RightMargin": 74.9998,
+            "TopMargin": 41.0013,
+            "BottomMargin": -41.0013,
+            "Tag": 1033,
+            "ActionTag": 1622383677,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_6",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.9987,
+              "Y": 0.9977
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.9987,
+            "RightMargin": -74.9987,
+            "TopMargin": -0.9977,
+            "BottomMargin": 0.9977,
+            "Tag": 1039,
+            "ActionTag": -689198921,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_9",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonDai.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -73.9998,
+              "Y": 0.9985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9998,
+            "RightMargin": 73.9998,
+            "TopMargin": -0.9985,
+            "BottomMargin": 0.9985,
+            "Tag": 1045,
+            "ActionTag": 443381366,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonChon_8",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "UIButtonDai.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

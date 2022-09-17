@@ -1,0 +1,1014 @@
+{
+  "ID": "85ba8b31-f160-4b5b-bed4-dbbc20765ac5",
+  "Version": "3.10.0.0",
+  "Name": "UICompoChonDong",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 375,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MGBackGroundXeng.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 504,
+            "Scale9Height": 279,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 20.9811,
+              "Y": -5.0648
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -159.0189,
+            "RightMargin": -200.9811,
+            "TopMargin": -99.9352,
+            "BottomMargin": -110.0648,
+            "Tag": 977,
+            "ActionTag": 1642981386,
+            "Size": {
+              "X": 360.0,
+              "Y": 210.0
+            },
+            "Alpha": 204,
+            "Name": "MGBg1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MGBackGroundXengDuoi.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 502,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 21.6764,
+              "Y": 120.8557
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -158.3236,
+            "RightMargin": -201.6764,
+            "TopMargin": -143.3557,
+            "BottomMargin": 98.3557,
+            "Tag": 428,
+            "ActionTag": 842580901,
+            "Size": {
+              "X": 360.0,
+              "Y": 45.0
+            },
+            "Alpha": 204,
+            "Name": "MGBg2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundVienXeng.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 97,
+            "Scale9OriginY": 97,
+            "Scale9Width": 48,
+            "Scale9Height": 100,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 21.6535,
+              "Y": 13.2823
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -170.3465,
+            "RightMargin": -213.6535,
+            "TopMargin": -157.7823,
+            "BottomMargin": -131.2177,
+            "Tag": 978,
+            "ActionTag": -1393882716,
+            "Size": {
+              "X": 384.0,
+              "Y": 289.0
+            },
+            "Name": "MGBg3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.3907,
+              "Y": -85.6272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 159.3907,
+            "RightMargin": -159.3907,
+            "TopMargin": 85.6272,
+            "BottomMargin": -85.6272,
+            "Tag": 403,
+            "ActionTag": 942317444,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage20",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.3908,
+              "Y": -44.3535
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 159.3908,
+            "RightMargin": -159.3908,
+            "TopMargin": 44.3535,
+            "BottomMargin": -44.3535,
+            "Tag": 404,
+            "ActionTag": 153805707,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage16",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.3907,
+              "Y": -5.2245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 159.3907,
+            "RightMargin": -159.3907,
+            "TopMargin": 5.2245,
+            "BottomMargin": -5.2245,
+            "Tag": 405,
+            "ActionTag": 1478439347,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage12",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.3907,
+              "Y": 34.7654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 159.3907,
+            "RightMargin": -159.3907,
+            "TopMargin": -34.7654,
+            "BottomMargin": 34.7654,
+            "Tag": 406,
+            "ActionTag": -314361981,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage8",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.3907,
+              "Y": 73.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 159.3907,
+            "RightMargin": -159.3907,
+            "TopMargin": -73.8981,
+            "BottomMargin": 73.8981,
+            "Tag": 407,
+            "ActionTag": -1948201860,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 100.7447,
+              "Y": -85.6272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 100.7447,
+            "RightMargin": -100.7447,
+            "TopMargin": 85.6272,
+            "BottomMargin": -85.6272,
+            "Tag": 408,
+            "ActionTag": 598372004,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage19",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 100.5165,
+              "Y": -44.3535
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 100.5165,
+            "RightMargin": -100.5165,
+            "TopMargin": 44.3535,
+            "BottomMargin": -44.3535,
+            "Tag": 409,
+            "ActionTag": 1975320941,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage15",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 100.7447,
+              "Y": -5.2245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 100.7447,
+            "RightMargin": -100.7447,
+            "TopMargin": 5.2245,
+            "BottomMargin": -5.2245,
+            "Tag": 410,
+            "ActionTag": -1317189072,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage11",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 100.7447,
+              "Y": 34.7654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 100.7447,
+            "RightMargin": -100.7447,
+            "TopMargin": -34.7654,
+            "BottomMargin": 34.7654,
+            "Tag": 411,
+            "ActionTag": -1785953348,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage7",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 100.7447,
+              "Y": 73.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 100.7447,
+            "RightMargin": -100.7447,
+            "TopMargin": -73.8981,
+            "BottomMargin": 73.8981,
+            "Tag": 412,
+            "ActionTag": 1184033603,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 42.0987,
+              "Y": -85.6272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 42.0987,
+            "RightMargin": -42.0987,
+            "TopMargin": 85.6272,
+            "BottomMargin": -85.6272,
+            "Tag": 413,
+            "ActionTag": 674011623,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage18",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 41.6422,
+              "Y": -44.3535
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 41.6422,
+            "RightMargin": -41.6422,
+            "TopMargin": 44.3535,
+            "BottomMargin": -44.3535,
+            "Tag": 414,
+            "ActionTag": 1677257902,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage14",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 42.0987,
+              "Y": -5.2245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 42.0987,
+            "RightMargin": -42.0987,
+            "TopMargin": 5.2245,
+            "BottomMargin": -5.2245,
+            "Tag": 415,
+            "ActionTag": -376378013,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage10",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 42.0987,
+              "Y": 34.7654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 42.0987,
+            "RightMargin": -42.0987,
+            "TopMargin": -34.7654,
+            "BottomMargin": 34.7654,
+            "Tag": 416,
+            "ActionTag": 59903560,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 42.0987,
+              "Y": 73.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 42.0987,
+            "RightMargin": -42.0987,
+            "TopMargin": -73.8981,
+            "BottomMargin": 73.8981,
+            "Tag": 417,
+            "ActionTag": 1163477539,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -16.5473,
+              "Y": -85.6272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -16.5473,
+            "RightMargin": 16.5473,
+            "TopMargin": 85.6272,
+            "BottomMargin": -85.6272,
+            "Tag": 418,
+            "ActionTag": 1568318193,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage17",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -17.2321,
+              "Y": -44.3535
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -17.2321,
+            "RightMargin": 17.2321,
+            "TopMargin": 44.3535,
+            "BottomMargin": -44.3535,
+            "Tag": 419,
+            "ActionTag": -632146789,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage13",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -16.5473,
+              "Y": -5.2245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -16.5473,
+            "RightMargin": 16.5473,
+            "TopMargin": 5.2245,
+            "BottomMargin": -5.2245,
+            "Tag": 420,
+            "ActionTag": -1746122028,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage9",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -16.5473,
+              "Y": 34.7654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -16.5473,
+            "RightMargin": 16.5473,
+            "TopMargin": -34.7654,
+            "BottomMargin": 34.7654,
+            "Tag": 421,
+            "ActionTag": 723392544,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -16.5473,
+              "Y": 73.8981
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -16.5473,
+            "RightMargin": 16.5473,
+            "TopMargin": -73.8981,
+            "BottomMargin": 73.8981,
+            "Tag": 422,
+            "ActionTag": 1621297662,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_lineImage1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.5726,
+              "Y": -71.5165
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.5726,
+            "RightMargin": 98.5726,
+            "TopMargin": 71.5165,
+            "BottomMargin": -71.5165,
+            "Tag": 423,
+            "ActionTag": -1234429412,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_btnBoChon",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.5726,
+              "Y": -19.2096
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.5726,
+            "RightMargin": 98.5726,
+            "TopMargin": 19.2096,
+            "BottomMargin": -19.2096,
+            "Tag": 424,
+            "ActionTag": 1749810323,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_btnSelectLe",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.5728,
+              "Y": 25.886
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.5728,
+            "RightMargin": 98.5728,
+            "TopMargin": -25.886,
+            "BottomMargin": 25.886,
+            "Tag": 425,
+            "ActionTag": 361393962,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_btnSelectChan",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.5727,
+              "Y": 70.9816
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.5727,
+            "RightMargin": 98.5727,
+            "TopMargin": -70.9816,
+            "BottomMargin": 70.9816,
+            "Tag": 426,
+            "ActionTag": -784080264,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_btnTatCa",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textChonDong.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 9,
+            "Scale9Width": 13,
+            "Scale9Height": 3,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 17.8041,
+              "Y": 120.9568
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -27.6959,
+            "RightMargin": -63.3041,
+            "TopMargin": -131.4568,
+            "BottomMargin": 110.4568,
+            "Tag": 427,
+            "ActionTag": -2021716553,
+            "Size": {
+              "X": 91.0,
+              "Y": 21.0
+            },
+            "Name": "MGTitle",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "AtlasXengLuxury/atlasXengLuxury1.plist",
+        "AtlasXengLuxury/atlasXengLuxury1.png",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

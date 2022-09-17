@@ -1,0 +1,1555 @@
+{
+  "ID": "334ad00b-67be-48e5-8cf8-23d443a01fc7",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupSecurity",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 479,
+            "Scale9Height": 232,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 646.8749,
+              "Y": 370.0545
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5054,
+              "Y": 0.514
+            },
+            "PreSize": {
+              "X": 0.9219,
+              "Y": 0.9028
+            },
+            "LeftMargin": 56.8749,
+            "RightMargin": 43.125,
+            "TopMargin": 24.9454,
+            "BottomMargin": 45.0545,
+            "Tag": 90,
+            "ActionTag": -506218241,
+            "Size": {
+              "X": 1180.0,
+              "Y": 650.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 43,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1206.7769,
+              "Y": 666.1849
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9428,
+              "Y": 0.9253
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 1177.2769,
+            "RightMargin": 43.7231,
+            "TopMargin": 28.8151,
+            "BottomMargin": 641.1849,
+            "Tag": 89,
+            "ActionTag": -2121408091,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Bảo mật",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 632.576,
+              "Y": 653.2079
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.4942,
+              "Y": 0.9072
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0583
+            },
+            "LeftMargin": 572.576,
+            "RightMargin": 587.424,
+            "TopMargin": 45.7921,
+            "BottomMargin": 632.2079,
+            "Tag": 91,
+            "ActionTag": 1036220247,
+            "Size": {
+              "X": 120.0,
+              "Y": 42.0
+            },
+            "Name": "MGTittle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 13,
+            "Scale9Width": 53,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.0,
+              "Y": 596.6878
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5055,
+              "Y": 0.8287
+            },
+            "PreSize": {
+              "X": 0.8977,
+              "Y": 0.0583
+            },
+            "LeftMargin": 72.5,
+            "RightMargin": 58.5,
+            "TopMargin": 102.3122,
+            "BottomMargin": 575.6878,
+            "Tag": 92,
+            "ActionTag": 941264657,
+            "Size": {
+              "X": 1149.0,
+              "Y": 42.0
+            },
+            "Name": "MGBGHeader",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonTabOn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 56,
+            "Scale9OriginY": 17,
+            "Scale9Width": 60,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.7965,
+              "Y": 591.11
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.821
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0736
+            },
+            "LeftMargin": 552.7965,
+            "RightMargin": 555.2035,
+            "TopMargin": 102.39,
+            "BottomMargin": 564.61,
+            "Tag": 93,
+            "ActionTag": 384017933,
+            "Size": {
+              "X": 172.0,
+              "Y": 53.0
+            },
+            "Name": "MGSelectImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Thông tin bảo mật",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.3917,
+              "Y": 595.17
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4987,
+              "Y": 0.8266
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0542
+            },
+            "LeftMargin": 549.3917,
+            "RightMargin": 552.6083,
+            "TopMargin": 105.33,
+            "BottomMargin": 575.67,
+            "Tag": 94,
+            "ActionTag": 390958814,
+            "Size": {
+              "X": 178.0,
+              "Y": 39.0
+            },
+            "Name": "MGHeaderName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 19,
+            "LabelText": "Cập nhật chính sách thông tin bảo mật để đảm bảo các quyền lợi",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6678,
+              "Y": 495.5958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.6883
+            },
+            "PreSize": {
+              "X": 0.4883,
+              "Y": 0.0375
+            },
+            "LeftMargin": 607.6678,
+            "RightMargin": 47.3323,
+            "TopMargin": 210.9042,
+            "BottomMargin": 482.0958,
+            "Tag": 95,
+            "ActionTag": -2134367219,
+            "Size": {
+              "X": 625.0,
+              "Y": 27.0
+            },
+            "Name": "MGChinhSachText",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "* Xác thực tài khoản",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6678,
+              "Y": 463.8319
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.6442
+            },
+            "PreSize": {
+              "X": 0.4883,
+              "Y": 0.0375
+            },
+            "LeftMargin": 607.6678,
+            "RightMargin": 47.3323,
+            "TopMargin": 242.6681,
+            "BottomMargin": 450.3319,
+            "Tag": 96,
+            "ActionTag": -398190218,
+            "Size": {
+              "X": 625.0,
+              "Y": 27.0
+            },
+            "Name": "MGChinhSachText_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "* Hỗ trợ giải quyết khiếu nại nhanh chóng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6678,
+              "Y": 433.5681
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.6022
+            },
+            "PreSize": {
+              "X": 0.4883,
+              "Y": 0.0375
+            },
+            "LeftMargin": 607.6678,
+            "RightMargin": 47.3323,
+            "TopMargin": 272.9319,
+            "BottomMargin": 420.0681,
+            "Tag": 97,
+            "ActionTag": -1190505002,
+            "Size": {
+              "X": 625.0,
+              "Y": 27.0
+            },
+            "Name": "MGChinhSachText_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 927.0334,
+              "Y": 394.0732
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7242,
+              "Y": 0.5473
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 927.0334,
+            "RightMargin": 352.9666,
+            "TopMargin": 325.9268,
+            "BottomMargin": 394.0732,
+            "Tag": 98,
+            "ActionTag": -517431470,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGChinhSachText_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 19,
+            "LabelText": "Các bước thực hiện cập nhật thông tin",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6678,
+              "Y": 353.5938
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.4911
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0403
+            },
+            "LeftMargin": 607.6678,
+            "RightMargin": 72.3323,
+            "TopMargin": 351.9062,
+            "BottomMargin": 339.0938,
+            "Tag": 100,
+            "ActionTag": -997339863,
+            "Size": {
+              "X": 600.0,
+              "Y": 29.0
+            },
+            "Name": "MGChinhSachBelow",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "* Cập nhật thông tin (số CMND, số điện thoại)",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.668,
+              "Y": 321.8438
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.447
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0403
+            },
+            "LeftMargin": 607.668,
+            "RightMargin": 72.332,
+            "TopMargin": 383.6562,
+            "BottomMargin": 307.3438,
+            "Tag": 101,
+            "ActionTag": 677127201,
+            "Size": {
+              "X": 600.0,
+              "Y": 29.0
+            },
+            "Name": "MGChinhSachBelow_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "* Sau đó nhấn nút \"Cập nhật\"",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6679,
+              "Y": 291.5937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.405
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0403
+            },
+            "LeftMargin": 607.6679,
+            "RightMargin": 72.332,
+            "TopMargin": 413.9063,
+            "BottomMargin": 277.0937,
+            "Tag": 102,
+            "ActionTag": 696996427,
+            "Size": {
+              "X": 600.0,
+              "Y": 29.0
+            },
+            "Name": "MGChinhSachBelow_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "THÔNG TIN BẢO MẬT",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 230.3851,
+              "Y": 540.9465
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.18,
+              "Y": 0.7513
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0542
+            },
+            "LeftMargin": 107.3851,
+            "RightMargin": 926.6149,
+            "TopMargin": 159.5535,
+            "BottomMargin": 521.4465,
+            "Tag": 104,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconWhite.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 2,
+                "Scale9OriginY": 6,
+                "Scale9Width": 5,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -11.9447,
+                  "Y": 19.3731
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0486,
+                  "Y": 0.4967
+                },
+                "PreSize": {
+                  "X": 0.0366,
+                  "Y": 0.4872
+                },
+                "LeftMargin": -16.4447,
+                "RightMargin": 253.4447,
+                "TopMargin": 10.1269,
+                "BottomMargin": 9.8731,
+                "Tag": 105,
+                "ActionTag": -1516726778,
+                "Size": {
+                  "X": 9.0,
+                  "Y": 19.0
+                },
+                "Name": "MGHeaderIcon",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 718906823,
+            "Size": {
+              "X": 246.0,
+              "Y": 39.0
+            },
+            "Name": "MGHeaderInfo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 18,
+            "LabelText": "Tài khoản:",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 136.4405,
+              "Y": 506.3704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1066,
+              "Y": 0.7033
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.0417
+            },
+            "LeftMargin": 85.9405,
+            "RightMargin": 1093.0594,
+            "TopMargin": 198.6296,
+            "BottomMargin": 491.3704,
+            "Tag": 106,
+            "ActionTag": -284462735,
+            "Size": {
+              "X": 101.0,
+              "Y": 30.0
+            },
+            "Name": "MGAccount",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 18,
+            "LabelText": "mmmmmmmmmmmmmmm",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 312.8201,
+              "Y": 507.2595
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 239,
+              "G": 225,
+              "B": 52
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2444,
+              "Y": 0.7045
+            },
+            "PreSize": {
+              "X": 0.2109,
+              "Y": 0.0472
+            },
+            "LeftMargin": 177.8201,
+            "RightMargin": 832.1799,
+            "TopMargin": 195.7405,
+            "BottomMargin": 490.2595,
+            "Tag": 107,
+            "ActionTag": 92090089,
+            "Size": {
+              "X": 270.0,
+              "Y": 34.0
+            },
+            "Name": "MGAccountID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackgroundWhite.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 66,
+            "Scale9OriginY": 15,
+            "Scale9Width": 5,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 277.9073,
+              "Y": 460.3929
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2171,
+              "Y": 0.6394
+            },
+            "PreSize": {
+              "X": 0.282,
+              "Y": 0.0583
+            },
+            "LeftMargin": 97.4073,
+            "RightMargin": 821.5927,
+            "TopMargin": 238.6071,
+            "BottomMargin": 439.3929,
+            "Tag": 108,
+            "Children": [
+              {
+                "FontSize": 17,
+                "LabelText": "(*)",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.4596,
+                  "Y": 18.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 8,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0401,
+                  "Y": 0.4502
+                },
+                "PreSize": {
+                  "X": 0.0582,
+                  "Y": 0.4762
+                },
+                "LeftMargin": 364.9596,
+                "RightMargin": -24.9596,
+                "TopMargin": 13.09,
+                "BottomMargin": 8.91,
+                "Tag": 109,
+                "ActionTag": -2141876839,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 20.0
+                },
+                "Name": "MGBatBuocIcon",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1503406938,
+            "Size": {
+              "X": 361.0,
+              "Y": 42.0
+            },
+            "Name": "MGTxtBgCMND",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackgroundWhite.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 66,
+            "Scale9OriginY": 15,
+            "Scale9Width": 5,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 277.9073,
+              "Y": 395.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2171,
+              "Y": 0.5486
+            },
+            "PreSize": {
+              "X": 0.282,
+              "Y": 0.0583
+            },
+            "LeftMargin": 97.4073,
+            "RightMargin": 821.5927,
+            "TopMargin": 304.0,
+            "BottomMargin": 374.0,
+            "Tag": 112,
+            "Children": [
+              {
+                "FontSize": 17,
+                "LabelText": "(*)",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.4596,
+                  "Y": 18.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 8,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0401,
+                  "Y": 0.4502
+                },
+                "PreSize": {
+                  "X": 0.0582,
+                  "Y": 0.4762
+                },
+                "LeftMargin": 364.9596,
+                "RightMargin": -24.9596,
+                "TopMargin": 13.09,
+                "BottomMargin": 8.91,
+                "Tag": 113,
+                "ActionTag": -2045992898,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 20.0
+                },
+                "Name": "MGBatBuocIcon",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1482642309,
+            "Size": {
+              "X": 361.0,
+              "Y": 42.0
+            },
+            "Name": "MGTxtBgPhone",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 46,
+            "Scale9Height": 30,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 152.3888,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1191,
+              "Y": 0.4583
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.0583
+            },
+            "LeftMargin": 97.3888,
+            "RightMargin": 1072.6112,
+            "TopMargin": 369.0,
+            "BottomMargin": 309.0,
+            "Tag": 114,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "CẬP NHẬT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.2726,
+                  "Y": 22.2863
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5116,
+                  "Y": 0.5306
+                },
+                "PreSize": {
+                  "X": 1.0818,
+                  "Y": 1.0
+                },
+                "LeftMargin": -3.2274,
+                "RightMargin": -5.7726,
+                "TopMargin": -1.2863,
+                "BottomMargin": 1.2863,
+                "Tag": 115,
+                "ActionTag": 2037042667,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 42.0
+                },
+                "Name": "MGButtonUpdateTxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1223987338,
+            "Size": {
+              "X": 110.0,
+              "Y": 42.0
+            },
+            "Name": "MGButton_Update",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "FontSize": 15,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Số CMND",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.71,
+              "Y": 458.6725
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0849,
+              "Y": 0.637
+            },
+            "PreSize": {
+              "X": 0.243,
+              "Y": 0.025
+            },
+            "LeftMargin": 108.71,
+            "RightMargin": 860.29,
+            "TopMargin": 252.3275,
+            "BottomMargin": 449.6725,
+            "Tag": 116,
+            "ActionTag": 66884181,
+            "Size": {
+              "X": 311.0,
+              "Y": 18.0
+            },
+            "Name": "MGTxtCMND",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "FontSize": 15,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Số điện thoại",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.7099,
+              "Y": 395.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0849,
+              "Y": 0.5486
+            },
+            "PreSize": {
+              "X": 0.243,
+              "Y": 0.025
+            },
+            "LeftMargin": 108.7099,
+            "RightMargin": 860.2901,
+            "TopMargin": 316.0,
+            "BottomMargin": 386.0,
+            "Tag": 117,
+            "ActionTag": -1146341817,
+            "Size": {
+              "X": 311.0,
+              "Y": 18.0
+            },
+            "Name": "MGTxtPhone",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 15,
+            "LabelText": "Số CMND",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 109.0912,
+              "Y": 459.8635
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0852,
+              "Y": 0.6387
+            },
+            "PreSize": {
+              "X": 0.0523,
+              "Y": 0.0236
+            },
+            "LeftMargin": 109.0912,
+            "RightMargin": 1103.9088,
+            "TopMargin": 251.6365,
+            "BottomMargin": 451.3635,
+            "Tag": 130,
+            "ActionTag": 956850317,
+            "Size": {
+              "X": 67.0,
+              "Y": 17.0
+            },
+            "Name": "MGTxtCMNDNoTouch",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 15,
+            "LabelText": "Số CMND",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 109.09,
+              "Y": 394.81
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0852,
+              "Y": 0.5483
+            },
+            "PreSize": {
+              "X": 0.0523,
+              "Y": 0.0236
+            },
+            "LeftMargin": 109.09,
+            "RightMargin": 1103.91,
+            "TopMargin": 316.69,
+            "BottomMargin": 386.31,
+            "Tag": 131,
+            "ActionTag": 2088080168,
+            "Size": {
+              "X": 67.0,
+              "Y": 17.0
+            },
+            "Name": "MGTxtPhoneNoTouch",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "* Mỗi tài khoản chỉ được cập nhật thông tin 1 lần duy nhất",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 607.6678,
+              "Y": 261.3436
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4747,
+              "Y": 0.363
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0403
+            },
+            "LeftMargin": 607.6678,
+            "RightMargin": 72.3323,
+            "TopMargin": 444.1564,
+            "BottomMargin": 246.8436,
+            "Tag": 991,
+            "ActionTag": -1004220881,
+            "Size": {
+              "X": 600.0,
+              "Y": 29.0
+            },
+            "Name": "MGChinhSachBelow_2_0",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/arial.ttf",
+        "../Fonts/arialbd.ttf",
+        "../Fonts/RobotoMedium.ttf",
+        "../Fonts/tahomabd.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

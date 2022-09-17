@@ -1,0 +1,288 @@
+{
+  "ID": "2f2117ff-576a-4dce-a62f-56c3830c3864",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupTaiUngDung",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 63,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 164,
+            "Scale9OriginY": 83,
+            "Scale9Width": 171,
+            "Scale9Height": 86,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5375,
+              "Y": 0.5389
+            },
+            "LeftMargin": 296.0,
+            "RightMargin": 296.0,
+            "TopMargin": 166.0,
+            "BottomMargin": 166.0,
+            "Tag": 65,
+            "ActionTag": 784784457,
+            "Size": {
+              "X": 688.0,
+              "Y": 388.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 47,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 951.9562,
+              "Y": 526.5184
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7437,
+              "Y": 0.7313
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 922.4562,
+            "RightMargin": 298.5438,
+            "TopMargin": 168.4816,
+            "BottomMargin": 501.5184,
+            "Tag": 174,
+            "ActionTag": 1693732209,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Tải ứng dụng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.7311,
+              "Y": 528.1491
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4998,
+              "Y": 0.7335
+            },
+            "PreSize": {
+              "X": 0.15,
+              "Y": 0.0597
+            },
+            "LeftMargin": 543.7311,
+            "RightMargin": 544.2689,
+            "TopMargin": 170.3509,
+            "BottomMargin": 506.6491,
+            "Tag": 99,
+            "ActionTag": 2069906113,
+            "Size": {
+              "X": 192.0,
+              "Y": 43.0
+            },
+            "Name": "MGTitleTaiUD",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 505.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7014
+            },
+            "PreSize": {
+              "X": 0.5313,
+              "Y": 0.0014
+            },
+            "LeftMargin": 300.0,
+            "RightMargin": 300.0,
+            "TopMargin": 214.5,
+            "BottomMargin": 504.5,
+            "Tag": 101,
+            "ActionTag": 1211202870,
+            "Size": {
+              "X": 680.0,
+              "Y": 1.0
+            },
+            "Name": "MGLine1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 341.9056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4749
+            },
+            "PreSize": {
+              "X": 0.5313,
+              "Y": 0.0014
+            },
+            "LeftMargin": 299.9999,
+            "RightMargin": 300.0001,
+            "TopMargin": 377.5944,
+            "BottomMargin": 341.4056,
+            "Tag": 102,
+            "ActionTag": -921622033,
+            "Size": {
+              "X": 680.0,
+              "Y": 1.0
+            },
+            "Name": "MGLine2",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/RobotoMedium.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

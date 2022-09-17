@@ -1,0 +1,937 @@
+{
+  "ID": "710688f9-f8d1-4cd6-b82f-92c6a29e94b2",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupStore",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 380,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 479,
+            "Scale9Height": 232,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.3583,
+              "Y": 359.7221
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.4996
+            },
+            "PreSize": {
+              "X": 0.8609,
+              "Y": 0.8583
+            },
+            "LeftMargin": 90.3583,
+            "RightMargin": 87.6417,
+            "TopMargin": 51.2779,
+            "BottomMargin": 50.7221,
+            "Tag": 384,
+            "ActionTag": 70159533,
+            "Size": {
+              "X": 1102.0,
+              "Y": 618.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 43,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1162.0173,
+              "Y": 643.1835
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9078,
+              "Y": 0.8933
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 1132.5173,
+            "RightMargin": 88.4827,
+            "TopMargin": 51.8165,
+            "BottomMargin": 618.1835,
+            "Tag": 383,
+            "ActionTag": -472466803,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Cửa hàng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.208,
+              "Y": 639.7408
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.4986,
+              "Y": 0.8885
+            },
+            "PreSize": {
+              "X": 0.1203,
+              "Y": 0.0597
+            },
+            "LeftMargin": 561.208,
+            "RightMargin": 564.792,
+            "TopMargin": 58.7592,
+            "BottomMargin": 618.2408,
+            "Tag": 382,
+            "ActionTag": -92046986,
+            "Size": {
+              "X": 154.0,
+              "Y": 43.0
+            },
+            "Name": "MGTittle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgStore.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 346,
+            "Scale9OriginY": 20,
+            "Scale9Width": 357,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.0209,
+              "Y": 584.5236
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4985,
+              "Y": 0.8118
+            },
+            "PreSize": {
+              "X": 0.8195,
+              "Y": 0.0875
+            },
+            "LeftMargin": 113.5209,
+            "RightMargin": 117.4791,
+            "TopMargin": 103.9764,
+            "BottomMargin": 553.0236,
+            "Tag": 6,
+            "ActionTag": -1160770030,
+            "Size": {
+              "X": 1049.0,
+              "Y": 63.0
+            },
+            "Name": "MGStoreImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 13,
+            "Scale9Width": 53,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.4249,
+              "Y": 518.5386
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4996,
+              "Y": 0.7202
+            },
+            "PreSize": {
+              "X": 0.8203,
+              "Y": 0.0583
+            },
+            "LeftMargin": 114.4249,
+            "RightMargin": 115.5751,
+            "TopMargin": 180.4614,
+            "BottomMargin": 497.5386,
+            "Tag": 56,
+            "ActionTag": 918533692,
+            "Size": {
+              "X": 1050.0,
+              "Y": 42.0
+            },
+            "Name": "MGBGHeader",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.9054,
+              "Y": 518.5386
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5023,
+              "Y": 0.7202
+            },
+            "PreSize": {
+              "X": 0.082,
+              "Y": 0.0583
+            },
+            "LeftMargin": 590.4054,
+            "RightMargin": 584.5946,
+            "TopMargin": 180.4614,
+            "BottomMargin": 497.5386,
+            "Tag": 301,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 15.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.369
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2619
+                },
+                "BottomMargin": -11.0,
+                "Tag": 300,
+                "ActionTag": -997439969,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "MGHeaderSelected",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Nạp Xu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arial.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9143,
+                  "Y": 0.7619
+                },
+                "LeftMargin": 4.5,
+                "RightMargin": 4.5,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 303,
+                "ActionTag": -2137688875,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 32.0
+                },
+                "Name": "MGHeaderTxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1477815964,
+            "Size": {
+              "X": 105.0,
+              "Y": 42.0
+            },
+            "Name": "MGButton_NapXu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 747.5572,
+              "Y": 518.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.584,
+              "Y": 0.7202
+            },
+            "PreSize": {
+              "X": 0.082,
+              "Y": 0.0583
+            },
+            "LeftMargin": 695.0572,
+            "RightMargin": 479.9428,
+            "TopMargin": 180.46,
+            "BottomMargin": 497.54,
+            "Tag": 302,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 15.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.369
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2619
+                },
+                "BottomMargin": -11.0,
+                "Tag": 304,
+                "ActionTag": 1387741336,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "MGHeaderSelected",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Tiêu Xu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arial.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9143,
+                  "Y": 0.7619
+                },
+                "LeftMargin": 4.5,
+                "RightMargin": 4.5,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 305,
+                "ActionTag": 2034074246,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 32.0
+                },
+                "Name": "MGHeaderTxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1256435529,
+            "Size": {
+              "X": 105.0,
+              "Y": 42.0
+            },
+            "Name": "MGButton_TieuXu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 16,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 537.9051,
+              "Y": 518.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4202,
+              "Y": 0.7202
+            },
+            "PreSize": {
+              "X": 0.082,
+              "Y": 0.0583
+            },
+            "LeftMargin": 485.4051,
+            "RightMargin": 689.5949,
+            "TopMargin": 180.46,
+            "BottomMargin": 497.54,
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 15.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.369
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2619
+                },
+                "BottomMargin": -11.0,
+                "Tag": 21,
+                "ActionTag": -152688141,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "MGHeaderSelected",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Nạp IAP",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arial.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9143,
+                  "Y": 0.7619
+                },
+                "LeftMargin": 4.5,
+                "RightMargin": 4.5,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 22,
+                "ActionTag": -1462109208,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 32.0
+                },
+                "Name": "MGHeaderTxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1696529828,
+            "Size": {
+              "X": 105.0,
+              "Y": 42.0
+            },
+            "Name": "MGButton_NapIAP",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconStoreBack.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 4,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 111.6309,
+              "Y": 649.683
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0872,
+              "Y": 0.9023
+            },
+            "PreSize": {
+              "X": 0.0195,
+              "Y": 0.0347
+            },
+            "LeftMargin": 99.1309,
+            "RightMargin": 1155.8691,
+            "TopMargin": 57.817,
+            "BottomMargin": 637.183,
+            "Tag": 203,
+            "ActionTag": -990786997,
+            "Size": {
+              "X": 25.0,
+              "Y": 25.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGButton_Back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0247,
+              "Y": 271.2267
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3767
+            },
+            "PreSize": {
+              "X": 0.8438,
+              "Y": 0.5972
+            },
+            "LeftMargin": 100.0247,
+            "RightMargin": 99.9753,
+            "TopMargin": 233.7733,
+            "BottomMargin": 56.2267,
+            "Tag": 62,
+            "ActionTag": -1673725718,
+            "Size": {
+              "X": 1080.0,
+              "Y": 430.0
+            },
+            "Name": "MGPanelMain",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/arial.ttf",
+        "../Fonts/RobotoMedium.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

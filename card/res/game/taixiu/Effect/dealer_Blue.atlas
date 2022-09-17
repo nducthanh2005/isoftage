@@ -1,0 +1,97 @@
+
+dealer_Blue.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_n1
+  rotate: false
+  xy: 124, 65
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+Eye_n2
+  rotate: false
+  xy: 119, 55
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+Left_Arm_Blue
+  rotate: false
+  xy: 124, 103
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+Left_Hand_Blue
+  rotate: false
+  xy: 124, 75
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Left_shoulder_blue
+  rotate: false
+  xy: 93, 65
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+Mouth_blue01
+  rotate: false
+  xy: 221, 114
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Mouth_blue02
+  rotate: false
+  xy: 199, 95
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Right_Arm_Blue
+  rotate: false
+  xy: 178, 103
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+Right_Hand_blue
+  rotate: false
+  xy: 161, 76
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Right_Shoulder_Blue
+  rotate: false
+  xy: 60, 65
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Waist_Blue
+  rotate: false
+  xy: 60, 40
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+breast_blue
+  rotate: false
+  xy: 2, 2
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+head_blue
+  rotate: false
+  xy: 2, 36
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1

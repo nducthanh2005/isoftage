@@ -1,0 +1,325 @@
+{
+  "ID": "49ca9a17-f972-43c7-aa81-a6d0fc71c76a",
+  "Version": "3.10.0.0",
+  "Name": "MGXVPPopupMiniGame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 131,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengVanPhuc/BackGroundMiniGame.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 421,
+            "Scale9OriginY": 213,
+            "Scale9Width": 435,
+            "Scale9Height": 220,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.877,
+              "Y": 327.0504
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.377,
+            "RightMargin": -1278.377,
+            "TopMargin": -650.0504,
+            "BottomMargin": 4.0504,
+            "Tag": 1039,
+            "ActionTag": 62290381,
+            "Size": {
+              "X": 1277.0,
+              "Y": 646.0
+            },
+            "Name": "BackGroundMiniGame",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VongQuayMiniGame.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhuc.plist"
+            },
+            "Scale9OriginX": 210,
+            "Scale9OriginY": 210,
+            "Scale9Width": 218,
+            "Scale9Height": 219,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 653.8773,
+              "Y": 336.0561
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 334.8773,
+            "RightMargin": -972.8773,
+            "TopMargin": -655.5561,
+            "BottomMargin": 16.5561,
+            "Tag": 135,
+            "ActionTag": 905564636,
+            "Size": {
+              "X": 638.0,
+              "Y": 639.0
+            },
+            "Name": "MGListIcon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundVongMiniGame.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhuc.plist"
+            },
+            "Scale9OriginX": 209,
+            "Scale9OriginY": 201,
+            "Scale9Width": 218,
+            "Scale9Height": 209,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 654.8772,
+              "Y": 350.0539
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 336.8772,
+            "RightMargin": -972.8772,
+            "TopMargin": -655.5539,
+            "BottomMargin": 44.5539,
+            "Tag": 137,
+            "ActionTag": 1037104240,
+            "Size": {
+              "X": 636.0,
+              "Y": 611.0
+            },
+            "Name": "MGBackGroundIcon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundWin.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhuc.plist"
+            },
+            "Scale9OriginX": 83,
+            "Scale9OriginY": 105,
+            "Scale9Width": 86,
+            "Scale9Height": 109,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 652.1432,
+              "Y": 183.9071
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 526.1432,
+            "RightMargin": -778.1432,
+            "TopMargin": -343.4071,
+            "BottomMargin": 24.4071,
+            "Tag": 1038,
+            "ActionTag": -1532636376,
+            "Size": {
+              "X": 252.0,
+              "Y": 319.0
+            },
+            "Name": "MGCircleWin",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "KimQuayMiniGame.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhuc.plist"
+            },
+            "Scale9OriginX": 94,
+            "Scale9OriginY": 143,
+            "Scale9Width": 98,
+            "Scale9Height": 149,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 653.8777,
+              "Y": 217.7104
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 510.8777,
+            "RightMargin": -796.8777,
+            "TopMargin": -435.2104,
+            "BottomMargin": 0.2104,
+            "Tag": 136,
+            "ActionTag": 604224409,
+            "Size": {
+              "X": 286.0,
+              "Y": 435.0
+            },
+            "Name": "MGKimQuay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonQuayMiniGame.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhuc.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 179,
+            "Scale9Height": 184,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1013.2119,
+              "Y": 107.6895
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 908.7119,
+            "RightMargin": -1117.7119,
+            "TopMargin": -210.6895,
+            "BottomMargin": 4.6895,
+            "Tag": 138,
+            "ActionTag": 1242315202,
+            "Size": {
+              "X": 209.0,
+              "Y": 206.0
+            },
+            "Name": "MGButtonQuay",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/atlasXengVanPhuc.plist",
+        "Atlas/atlasXengVanPhuc.png",
+        "BackGroundMiniGame.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

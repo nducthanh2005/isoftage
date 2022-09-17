@@ -1,0 +1,207 @@
+{
+  "ID": "386956ca-1dd1-47bd-9b0a-7e231c231d8c",
+  "Version": "3.10.0.0",
+  "Name": "UIMGVQMMItemSelectPage",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 321,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BorderRect3.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BorderRect3.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -20.0,
+            "RightMargin": -20.0,
+            "TopMargin": -20.0,
+            "BottomMargin": -20.0,
+            "Tag": 170,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundLineHoTroKH.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 13,
+                "Scale9Width": 27,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.07,
+                  "Y": 20.0697
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5018,
+                  "Y": 0.5017
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 1.025
+                },
+                "LeftMargin": -0.43,
+                "RightMargin": -0.57,
+                "TopMargin": -0.5697,
+                "BottomMargin": -0.4303,
+                "Tag": 165,
+                "ActionTag": -13946927,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 41.0
+                },
+                "Name": "backGroundSelect",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "1",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 19.0698,
+                  "Y": 20.0702
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4767,
+                  "Y": 0.5018
+                },
+                "PreSize": {
+                  "X": 0.75,
+                  "Y": 0.75
+                },
+                "LeftMargin": 4.0698,
+                "RightMargin": 5.9302,
+                "TopMargin": 4.9298,
+                "BottomMargin": 5.0702,
+                "Tag": 323,
+                "ActionTag": -90400056,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "txtPageNum",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -859863360,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "buttonPage",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/Roboto-Medium.ttf",
+        "../../../main/atlas/AtlasPopups/AtlasPopups.plist",
+        "../../../main/atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

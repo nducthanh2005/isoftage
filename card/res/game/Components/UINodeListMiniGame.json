@@ -1,0 +1,360 @@
+{
+  "ID": "3e9a07df-8ecf-4f6d-b62a-ad528982374a",
+  "Version": "3.10.0.0",
+  "Name": "UINodeListMiniGame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 543,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -78,
+            "Scale9OriginY": -78,
+            "Scale9Width": 156,
+            "Scale9Height": 156,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -117.5,
+            "RightMargin": -117.5,
+            "TopMargin": -117.5,
+            "BottomMargin": -117.5,
+            "Tag": 544,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/Components/CompoMiniGame/BgMiniGameContain.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 78,
+                "Scale9OriginY": 78,
+                "Scale9Width": 200,
+                "Scale9Height": 200,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.5,
+                  "Y": 117.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.5149,
+                  "Y": 1.5149
+                },
+                "LeftMargin": -60.5,
+                "RightMargin": -60.5,
+                "TopMargin": -60.5,
+                "BottomMargin": -60.5,
+                "Tag": 552,
+                "ActionTag": 1526356133,
+                "Size": {
+                  "X": 356.0,
+                  "Y": 356.0
+                },
+                "Name": "Background",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 117.0975,
+                  "Y": 242.6021
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4983,
+                  "Y": 1.0323
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 117.0975,
+                "RightMargin": 117.9025,
+                "TopMargin": -7.6021,
+                "BottomMargin": 242.6021,
+                "Tag": 548,
+                "ActionTag": 445141033,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 242.4784,
+                  "Y": 117.5803
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 1.0318,
+                  "Y": 0.5003
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 242.4784,
+                "RightMargin": -7.4784,
+                "TopMargin": 117.4197,
+                "BottomMargin": 117.5803,
+                "Tag": 549,
+                "ActionTag": 1530003334,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 116.6104,
+                  "Y": -13.1079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4962,
+                  "Y": -0.0558
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 116.6104,
+                "RightMargin": 118.3896,
+                "TopMargin": 248.1079,
+                "BottomMargin": -13.1079,
+                "Tag": 550,
+                "ActionTag": -2077075009,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -16.2183,
+                  "Y": 118.7295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.069,
+                  "Y": 0.5052
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -16.2183,
+                "RightMargin": 251.2183,
+                "TopMargin": 116.2705,
+                "BottomMargin": 118.7295,
+                "Tag": 551,
+                "ActionTag": -271322718,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem3",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1708426209,
+            "Size": {
+              "X": 235.0,
+              "Y": 235.0
+            },
+            "Name": "MGContainListGame",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/Components/CompoMiniGame/BtnMiniGame.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 23,
+            "Scale9OriginY": 23,
+            "Scale9Width": 63,
+            "Scale9Height": 63,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -54.5,
+            "RightMargin": -54.5,
+            "TopMargin": -54.5,
+            "BottomMargin": -54.5,
+            "Tag": 546,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/Components/CompoMiniGame/CircleMiniGame.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 3,
+                "Scale9Width": 125,
+                "Scale9Height": 109,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.5,
+                  "Y": 54.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.2018,
+                  "Y": 1.0
+                },
+                "LeftMargin": -11.0,
+                "RightMargin": -11.0,
+                "Tag": 13,
+                "ActionTag": -616047439,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 109.0
+                },
+                "Name": "MGCircleMiniGame",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -2096131048,
+            "Size": {
+              "X": 109.0,
+              "Y": 109.0
+            },
+            "Name": "MGBtnMiniGame",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CompoMiniGame/BgMiniGameContain.png",
+        "CompoMiniGame/BtnMiniGame.png",
+        "CompoMiniGame/CircleMiniGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

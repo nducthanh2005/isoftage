@@ -1,0 +1,27 @@
+
+4dt.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 670, 5
+  size: 226, 47
+  orig: 226, 47
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 0, 0
+  size: 334, 52
+  orig: 334, 52
+  offset: 0, 0
+  index: -1
+77
+  rotate: false
+  xy: 335, 0
+  size: 334, 52
+  orig: 334, 52
+  offset: 0, 0
+  index: -1

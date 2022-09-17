@@ -1,0 +1,780 @@
+{
+  "ID": "6691be79-a195-4a42-92f5-851c90b0f5b3",
+  "Version": "3.10.0.0",
+  "Name": "UIFruitKongButton",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2,
+        "Children": [
+          {
+            "FontSize": 20,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_choi.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 262,
+            "Scale9Height": 21,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.1219,
+              "Y": 39.0931
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -145.8781,
+            "RightMargin": -146.1219,
+            "TopMargin": -60.5931,
+            "BottomMargin": 17.5931,
+            "Tag": 4,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "CHƠI",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 54,
+                  "G": 114,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.0,
+                  "Y": 27.4985
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 54,
+                  "G": 114,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6395
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.6977
+                },
+                "TopMargin": 0.5015,
+                "BottomMargin": 12.4985,
+                "Tag": 15,
+                "ActionTag": 950165364,
+                "Size": {
+                  "X": 292.0,
+                  "Y": 30.0
+                },
+                "Name": "MGButtonChoiText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -299455581,
+            "Size": {
+              "X": 292.0,
+              "Y": 43.0
+            },
+            "Name": "MGButtonChoi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "khung_cuoc.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.8762,
+              "Y": 0.9536
+            },
+            "Scale": {
+              "ScaleX": 1.0091,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -84.3762,
+            "RightMargin": -80.6238,
+            "TopMargin": -15.9536,
+            "BottomMargin": -14.0464,
+            "Tag": 5,
+            "ActionTag": -951060431,
+            "Size": {
+              "X": 165.0,
+              "Y": 30.0
+            },
+            "Name": "MGButtonRect",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_minmax.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5195,
+              "ScaleY": 0.5844
+            },
+            "Position": {
+              "X": -114.6166,
+              "Y": 2.252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -146.8256,
+            "RightMargin": 84.8256,
+            "TopMargin": -17.6292,
+            "BottomMargin": -19.3708,
+            "Tag": 7,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 40,
+                "LabelText": "-",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.6055,
+                  "ScaleY": 0.4413
+                },
+                "Position": {
+                  "X": 35.8256,
+                  "Y": 27.3703
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 141,
+                  "G": 73,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5778,
+                  "Y": 0.7397
+                },
+                "PreSize": {
+                  "X": 0.9677,
+                  "Y": 1.0811
+                },
+                "LeftMargin": -0.5041,
+                "RightMargin": 2.5041,
+                "TopMargin": -12.7181,
+                "BottomMargin": 9.7181,
+                "Tag": 17,
+                "ActionTag": 1306967892,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 40.0
+                },
+                "Name": "MGButtonTruText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 634408558,
+            "Size": {
+              "X": 62.0,
+              "Y": 37.0
+            },
+            "Name": "MGButtonTru",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_minmax.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 115.1138,
+              "Y": -1.0466
+            },
+            "Scale": {
+              "ScaleX": 1.0718,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 84.1138,
+            "RightMargin": -146.1138,
+            "TopMargin": -17.4534,
+            "BottomMargin": -19.5466,
+            "Tag": 8,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 40,
+                "LabelText": "+",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5128,
+                  "ScaleY": 0.4383
+                },
+                "Position": {
+                  "X": 30.692,
+                  "Y": 28.5462
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 141,
+                  "G": 73,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.495,
+                  "Y": 0.7715
+                },
+                "PreSize": {
+                  "X": 0.9677,
+                  "Y": 1.0811
+                },
+                "LeftMargin": -0.0751,
+                "RightMargin": 2.0751,
+                "TopMargin": -14.0131,
+                "BottomMargin": 11.0131,
+                "Tag": 21,
+                "ActionTag": -238120390,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 40.0
+                },
+                "Name": "MGButtonCongText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -687237652,
+            "Size": {
+              "X": 62.0,
+              "Y": 37.0
+            },
+            "Name": "MGButtonCong",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_vua_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_vua_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_vua.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.527,
+              "Y": -39.0581
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -46.473,
+            "RightMargin": -47.527,
+            "TopMargin": 20.5581,
+            "BottomMargin": -57.5581,
+            "Tag": 12,
+            "ActionTag": -1300644726,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Name": "MGButtonVua",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_de_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_de_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_de.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -99.7148,
+              "Y": -39.0583
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -146.7148,
+            "RightMargin": 52.7148,
+            "TopMargin": 20.5583,
+            "BottomMargin": -57.5583,
+            "Tag": 13,
+            "ActionTag": -1381281113,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Name": "MGButtonDe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_kho_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_kho_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nut_kho.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5273,
+              "ScaleY": 0.5912
+            },
+            "Position": {
+              "X": 102.7589,
+              "Y": -36.4912
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 53.1927,
+            "RightMargin": -147.1927,
+            "TopMargin": 21.3656,
+            "BottomMargin": -58.3656,
+            "Tag": 14,
+            "ActionTag": 1981906354,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Name": "MGButtonKho",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "100",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM HelveBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.9285,
+              "Y": 3.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 230,
+              "G": 201,
+              "B": 149
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -51.9285,
+            "RightMargin": -48.0715,
+            "TopMargin": -15.5,
+            "BottomMargin": -9.5,
+            "Tag": 23,
+            "ActionTag": -635259851,
+            "Size": {
+              "X": 100.0,
+              "Y": 25.0
+            },
+            "Name": "MGLabelMucCuoc",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM HelveBold.ttf",
+        "AtlasFruitKong/atlasFruitKong.plist",
+        "AtlasFruitKong/atlasFruitKong.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

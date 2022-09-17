@@ -1,0 +1,571 @@
+{
+  "ID": "6ace5f46-83a1-49c5-9d15-863922c44f95",
+  "Version": "3.10.0.0",
+  "Name": "UICaoThapComboSpinCard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 168,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ct_btnluotmoi.png",
+              "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ct_btnLuotMoiEnable.png",
+              "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 86,
+            "Scale9Height": 28,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 784.5425,
+              "Y": 294.813
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 726.5425,
+            "RightMargin": -842.5425,
+            "TopMargin": -313.813,
+            "BottomMargin": 275.813,
+            "Tag": 171,
+            "ActionTag": -2125178583,
+            "Size": {
+              "X": 116.0,
+              "Y": 38.0
+            },
+            "Name": "MGBtnLuotMoi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 517.48,
+              "Y": 374.95
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 517.48,
+            "RightMargin": -517.48,
+            "TopMargin": -374.95,
+            "BottomMargin": 374.95,
+            "Tag": 172,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_bgcCard.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9OriginX": 28,
+                "Scale9OriginY": 37,
+                "Scale9Width": 26,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -41.0,
+                "RightMargin": -41.0,
+                "TopMargin": -55.5,
+                "BottomMargin": -55.5,
+                "Tag": 173,
+                "ActionTag": -1301954112,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 111.0
+                },
+                "Name": "BG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Tag": 36,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "card_test.png",
+                      "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 155,
+                      "G": 155,
+                      "B": 155
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -32.0,
+                    "RightMargin": -32.0,
+                    "TopMargin": -42.5,
+                    "BottomMargin": -42.5,
+                    "Tag": 174,
+                    "ActionTag": 1328215959,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 85.0
+                    },
+                    "Name": "Card",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 99411581,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGSpriteCard",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -2140538177,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGLayOutCard",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 517.48,
+              "Y": 374.9492
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 517.48,
+            "RightMargin": -517.48,
+            "TopMargin": -374.9492,
+            "BottomMargin": 374.9492,
+            "Tag": 175,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_btcPlay.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9OriginX": 28,
+                "Scale9OriginY": 37,
+                "Scale9Width": 30,
+                "Scale9Height": 39,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -43.0,
+                "RightMargin": -43.0,
+                "TopMargin": -56.5,
+                "BottomMargin": -56.5,
+                "Tag": 176,
+                "ActionTag": -1501529845,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 113.0
+                },
+                "Name": "BG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ct_btnPlay.png",
+                  "Plist": "game/minigame/caothap/AtlasCaoThap/AtlasCaoThap.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 56,
+                "Scale9Height": 100,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -43.0,
+                "RightMargin": -43.0,
+                "TopMargin": -55.0,
+                "BottomMargin": -55.0,
+                "Tag": 177,
+                "ActionTag": -907092147,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 110.0
+                },
+                "Name": "BtnPlay",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1828483850,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGBtnPlay",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 40,
+            "LabelText": "A",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 834.6804,
+              "Y": 358.6199
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 819.6804,
+            "RightMargin": -849.6804,
+            "TopMargin": -381.6199,
+            "BottomMargin": 335.6199,
+            "Tag": 441,
+            "ActionTag": 1905868311,
+            "Size": {
+              "X": 30.0,
+              "Y": 46.0
+            },
+            "Name": "ItemA0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 40,
+            "LabelText": "A",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 780.8944,
+              "Y": 358.62
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 765.8944,
+            "RightMargin": -795.8944,
+            "TopMargin": -381.62,
+            "BottomMargin": 335.62,
+            "Tag": 442,
+            "ActionTag": 1396615312,
+            "Size": {
+              "X": 30.0,
+              "Y": 46.0
+            },
+            "Name": "ItemA1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 40,
+            "LabelText": "A",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 724.9552,
+              "Y": 358.62
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 709.9552,
+            "RightMargin": -739.9552,
+            "TopMargin": -381.62,
+            "BottomMargin": 335.62,
+            "Tag": 443,
+            "ActionTag": -1575702823,
+            "Size": {
+              "X": 30.0,
+              "Y": 46.0
+            },
+            "Name": "ItemA2",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "MGComboSpinCard",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "AtlasCaoThap/AtlasCaoThap.plist",
+        "AtlasCaoThap/AtlasCaoThap.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,83 @@
+
+rong_trang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 328
+  size: 178, 178
+  orig: 180, 180
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 0, 149
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+dauduoi
+  rotate: false
+  xy: 179, 264
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+dautren
+  rotate: false
+  xy: 0, 38
+  size: 185, 110
+  orig: 185, 110
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 179, 197
+  size: 119, 66
+  orig: 119, 66
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 0, 0
+  size: 48, 37
+  orig: 52, 43
+  offset: 0, 6
+  index: -1
+nc
+  rotate: false
+  xy: 179, 374
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+nc2
+  rotate: false
+  xy: 353, 400
+  size: 132, 106
+  orig: 173, 132
+  offset: 5, 0
+  index: -1
+rau
+  rotate: false
+  xy: 299, 235
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 179, 153
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+vt
+  rotate: false
+  xy: 353, 383
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1

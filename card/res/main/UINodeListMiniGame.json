@@ -1,0 +1,314 @@
+{
+  "ID": "3e9a07df-8ecf-4f6d-b62a-ad528982374a",
+  "Version": "3.10.0.0",
+  "Name": "UINodeListMiniGame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 543,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -78,
+            "Scale9OriginY": -78,
+            "Scale9Width": 156,
+            "Scale9Height": 156,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -117.5,
+            "RightMargin": -117.5,
+            "TopMargin": -117.5,
+            "BottomMargin": -117.5,
+            "Tag": 544,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BgMiniGameContain.png",
+                  "Plist": "atlas/CompoMenu/AtlasCompoMenu.plist"
+                },
+                "Scale9OriginX": 78,
+                "Scale9OriginY": 78,
+                "Scale9Width": 83,
+                "Scale9Height": 83,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.5,
+                  "Y": 117.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.017,
+                  "Y": 1.017
+                },
+                "LeftMargin": -2.0,
+                "RightMargin": -2.0,
+                "TopMargin": -2.0,
+                "BottomMargin": -2.0,
+                "Tag": 552,
+                "ActionTag": 1526356133,
+                "Size": {
+                  "X": 239.0,
+                  "Y": 239.0
+                },
+                "Alpha": 170,
+                "Name": "Background",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 117.0975,
+                  "Y": 194.6013
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4983,
+                  "Y": 0.8281
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 117.0975,
+                "RightMargin": 117.9025,
+                "TopMargin": 40.3987,
+                "BottomMargin": 194.6013,
+                "Tag": 548,
+                "ActionTag": 445141033,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 198.3867,
+                  "Y": 117.2773
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8442,
+                  "Y": 0.4991
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 198.3867,
+                "RightMargin": 36.6133,
+                "TopMargin": 117.7227,
+                "BottomMargin": 117.2773,
+                "Tag": 549,
+                "ActionTag": 1530003334,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 115.6104,
+                  "Y": 46.8923
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.492,
+                  "Y": 0.1995
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 115.6104,
+                "RightMargin": 119.3896,
+                "TopMargin": 188.1077,
+                "BottomMargin": 46.8923,
+                "Tag": 550,
+                "ActionTag": -2077075009,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 38.7818,
+                  "Y": 122.7294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.165,
+                  "Y": 0.5223
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 38.7818,
+                "RightMargin": 196.2182,
+                "TopMargin": 112.2706,
+                "BottomMargin": 122.7294,
+                "Tag": 551,
+                "ActionTag": -271322718,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGGameItem3",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1708426209,
+            "Size": {
+              "X": 235.0,
+              "Y": 235.0
+            },
+            "Name": "MGContainListGame",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnMiniGame.png",
+              "Plist": "atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 23,
+            "Scale9OriginY": 23,
+            "Scale9Width": 26,
+            "Scale9Height": 26,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -36.0,
+            "RightMargin": -36.0,
+            "TopMargin": -36.0,
+            "BottomMargin": -36.0,
+            "Tag": 546,
+            "ActionTag": -2096131048,
+            "Size": {
+              "X": 72.0,
+              "Y": 72.0
+            },
+            "Name": "MGBtnMiniGame",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "atlas/CompoMenu/AtlasCompoMenu.plist",
+        "atlas/CompoMenu/AtlasCompoMenu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

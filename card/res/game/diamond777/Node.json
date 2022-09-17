@@ -1,0 +1,78 @@
+{
+  "ID": "2ab46c87-cc70-4c19-afb4-6427adba4142",
+  "Version": "3.10.0.0",
+  "Name": "Node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 489,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundTextPopup.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 11.1216,
+              "Y": -3.7064
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -470.8784,
+            "RightMargin": -493.1216,
+            "TopMargin": -16.2936,
+            "BottomMargin": -23.7064,
+            "Tag": 490,
+            "ActionTag": -574207818,
+            "Size": {
+              "X": 964.0,
+              "Y": 40.0
+            },
+            "Name": "BackGroundTextPopup_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "AtlasDiamond777/atlasDiamond777.plist",
+        "AtlasDiamond777/atlasDiamond777.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

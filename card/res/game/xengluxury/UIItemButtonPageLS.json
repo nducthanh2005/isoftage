@@ -1,0 +1,162 @@
+{
+  "ID": "ac9a4222-3440-45af-b24f-b89f2220c132",
+  "Version": "3.10.0.0",
+  "Name": "UIItemButtonPageLS",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FontSize": 12,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundPage.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundPage.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 5,
+            "Scale9Width": 2,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -8.0,
+            "RightMargin": -8.0,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 9,
+            "Children": [
+              {
+                "FontSize": 12,
+                "LabelText": ">>",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.0002,
+                  "Y": 8.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7778
+                },
+                "LeftMargin": 0.0002,
+                "RightMargin": -0.0002,
+                "TopMargin": 2.0001,
+                "BottomMargin": 1.9999,
+                "Tag": 10,
+                "ActionTag": 1051653768,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTextPage",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1459009810,
+            "Size": {
+              "X": 16.0,
+              "Y": 18.0
+            },
+            "Name": "MGBackGroundButtonPage",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

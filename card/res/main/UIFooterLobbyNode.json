@@ -1,0 +1,214 @@
+{
+  "ID": "eaaf5f14-f4b7-481d-a88b-062a0549ec4c",
+  "Version": "3.10.0.0",
+  "Name": "UIFooterLobbyNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3210,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTextInput.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 49,
+            "Scale9OriginY": 13,
+            "Scale9Width": 53,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -436.5,
+            "RightMargin": -436.5,
+            "TopMargin": -21.0,
+            "BottomMargin": -21.0,
+            "Tag": 3301,
+            "ActionTag": -456851219,
+            "Size": {
+              "X": 873.0,
+              "Y": 42.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 12,
+            "ButtonText": "TẠO BÀN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 188,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.8531,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 344.8531,
+            "RightMargin": -424.8531,
+            "TopMargin": -15.0,
+            "BottomMargin": -15.0,
+            "Tag": 3302,
+            "ActionTag": -2077081434,
+            "Size": {
+              "X": 80.0,
+              "Y": 30.0
+            },
+            "Name": "MGBtnTaoBan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 12,
+            "ButtonText": "CHỌN BÀN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtChatBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 126,
+            "Scale9Height": 10,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 295.3701,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 255.3701,
+            "RightMargin": -335.3701,
+            "TopMargin": -15.0,
+            "BottomMargin": -15.0,
+            "Tag": 3303,
+            "ActionTag": -868572453,
+            "Size": {
+              "X": 80.0,
+              "Y": 30.0
+            },
+            "Name": "MGBtnChonBan",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/tahomabd.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png",
+        "atlas/CompoMenu/AtlasCompoMenu.plist",
+        "atlas/CompoMenu/AtlasCompoMenu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

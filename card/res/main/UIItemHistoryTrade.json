@@ -1,0 +1,493 @@
+{
+  "ID": "42436907-45e4-4331-bb65-371a93370d2e",
+  "Version": "3.10.0.0",
+  "Name": "UIItemHistoryTrade",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 270,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "SelectRect.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 65,
+            "Scale9OriginY": 10,
+            "Scale9Width": 68,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -487.5,
+            "RightMargin": -487.5,
+            "TopMargin": -18.5,
+            "BottomMargin": -18.5,
+            "Tag": 271,
+            "ActionTag": 1921461861,
+            "Size": {
+              "X": 975.0,
+              "Y": 37.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "#11950276754",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -425.0264,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -488.0264,
+            "RightMargin": 362.0264,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 278,
+            "ActionTag": -324882052,
+            "Size": {
+              "X": 126.0,
+              "Y": 37.0
+            },
+            "Name": "ItemMGD",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "01-08-2017 10:56:55",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -293.0238,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -363.0238,
+            "RightMargin": 223.0238,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 277,
+            "ActionTag": 647068566,
+            "Size": {
+              "X": 140.0,
+              "Y": 37.0
+            },
+            "Name": "ItemTG",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "Tài xỉu - Hoàn tiền",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -138.025,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -223.025,
+            "RightMargin": 53.025,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 276,
+            "ActionTag": -1828896707,
+            "Size": {
+              "X": 170.0,
+              "Y": 37.0
+            },
+            "Name": "ItemDV",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "100",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.0257,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 250,
+              "G": 93,
+              "B": 215
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -54.0257,
+            "RightMargin": -51.9743,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 275,
+            "ActionTag": 158655681,
+            "Size": {
+              "X": 106.0,
+              "Y": 37.0
+            },
+            "Name": "ItemPS",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "12.000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 110.9761,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 250,
+              "G": 93,
+              "B": 215
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 51.9761,
+            "RightMargin": -169.9761,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 274,
+            "ActionTag": -112004818,
+            "Size": {
+              "X": 118.0,
+              "Y": 37.0
+            },
+            "Name": "ItemSD",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "Test",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 277.9724,
+              "Y": 0.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 170.4724,
+            "RightMargin": -385.4724,
+            "TopMargin": -18.9639,
+            "BottomMargin": -18.0361,
+            "Tag": 273,
+            "ActionTag": -2088782912,
+            "Size": {
+              "X": 215.0,
+              "Y": 37.0
+            },
+            "Name": "ItemMT",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 13,
+            "LabelText": "Test",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.6146,
+              "Y": 1.4639
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 384.6146,
+            "RightMargin": -488.6146,
+            "TopMargin": -19.9639,
+            "BottomMargin": -17.0361,
+            "Tag": 272,
+            "ActionTag": 1684055431,
+            "Size": {
+              "X": 104.0,
+              "Y": 37.0
+            },
+            "Name": "ItemCT",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/RobotoMedium.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

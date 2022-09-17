@@ -1,0 +1,996 @@
+{
+  "ID": "c3570f37-34f2-49b5-869b-2ea9bbc1e4da",
+  "Version": "3.10.0.0",
+  "Name": "UIMGVQMMCompoSmallRound",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 78,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 1114,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_nennho_vqmm.png",
+                  "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                },
+                "Scale9OriginX": 113,
+                "Scale9OriginY": 111,
+                "Scale9Width": 117,
+                "Scale9Height": 117,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -171.5,
+                "RightMargin": -171.5,
+                "TopMargin": -169.5,
+                "BottomMargin": -169.5,
+                "Tag": 131,
+                "ActionTag": -1179983226,
+                "Size": {
+                  "X": 343.0,
+                  "Y": 339.0
+                },
+                "Name": "MGBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -25.8195,
+                  "Y": 58.9759
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -21.0,
+                "RotationSkewY": -21.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -25.8195,
+                "RightMargin": 25.8195,
+                "TopMargin": -58.9759,
+                "BottomMargin": 58.9759,
+                "Tag": 1103,
+                "ActionTag": -1105978097,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 21.9966,
+                  "Y": 62.0602
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 25.0,
+                "RotationSkewY": 25.0002,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 21.9966,
+                "RightMargin": -21.9966,
+                "TopMargin": -62.0602,
+                "BottomMargin": 62.0602,
+                "Tag": 2249,
+                "ActionTag": 1526571142,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 58.4698,
+                  "Y": 28.1108
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 70.0,
+                "RotationSkewY": 70.0005,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 58.4698,
+                "RightMargin": -58.4698,
+                "TopMargin": -28.1108,
+                "BottomMargin": 28.1108,
+                "Tag": 2250,
+                "ActionTag": 796060117,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 60.6487,
+                  "Y": -21.705
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 114.0,
+                "RotationSkewY": 114.0005,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 60.6487,
+                "RightMargin": -60.6487,
+                "TopMargin": 21.705,
+                "BottomMargin": -21.705,
+                "Tag": 2254,
+                "ActionTag": -982015748,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.7939,
+                  "Y": -59.1748
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 158.0,
+                "RotationSkewY": 158.0003,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 26.7939,
+                "RightMargin": -26.7939,
+                "TopMargin": 59.1748,
+                "BottomMargin": -59.1748,
+                "Tag": 2258,
+                "ActionTag": -1546200149,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item4",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -21.8838,
+                  "Y": -61.0906
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 204.0,
+                "RotationSkewY": 204.0004,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -21.8838,
+                "RightMargin": 21.8838,
+                "TopMargin": 61.0906,
+                "BottomMargin": -61.0906,
+                "Tag": 2262,
+                "ActionTag": 1902707384,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item5",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -57.2604,
+                  "Y": -26.2332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 248.0,
+                "RotationSkewY": 248.0007,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -57.2604,
+                "RightMargin": 57.2604,
+                "TopMargin": 26.2332,
+                "BottomMargin": -26.2332,
+                "Tag": 2266,
+                "ActionTag": -2036206896,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item6",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemOut.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -59.1669,
+                  "Y": 22.4903
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 293.0,
+                "RotationSkewY": 293.0005,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -59.1669,
+                "RightMargin": 59.1669,
+                "TopMargin": -22.4903,
+                "BottomMargin": 22.4903,
+                "Tag": 2270,
+                "ActionTag": -1814007334,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item7",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_nennho_trong_vqmm.png",
+                  "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                },
+                "Scale9OriginX": 73,
+                "Scale9OriginY": 73,
+                "Scale9Width": 78,
+                "Scale9Height": 78,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -112.0,
+                "RightMargin": -112.0,
+                "TopMargin": -112.0,
+                "BottomMargin": -112.0,
+                "Tag": 3176,
+                "ActionTag": 1250771661,
+                "Size": {
+                  "X": 224.0,
+                  "Y": 224.0
+                },
+                "Name": "MGBackgroundTrong",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -25.9032,
+                  "Y": 61.0603
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -23.0,
+                "RotationSkewY": -23.0,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -25.9032,
+                "RightMargin": 25.9032,
+                "TopMargin": -61.0603,
+                "BottomMargin": 61.0603,
+                "Tag": 2634,
+                "ActionTag": -1486819991,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item00",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 22.913,
+                  "Y": 62.1447
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 22.0,
+                "RotationSkewY": 22.0002,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 22.913,
+                "RightMargin": -22.913,
+                "TopMargin": -62.1447,
+                "BottomMargin": 62.1447,
+                "Tag": 2638,
+                "ActionTag": 1461257605,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item01",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 61.3868,
+                  "Y": 28.1952
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 66.9999,
+                "RotationSkewY": 67.0004,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 61.3868,
+                "RightMargin": -61.3868,
+                "TopMargin": -28.1952,
+                "BottomMargin": 28.1952,
+                "Tag": 2642,
+                "ActionTag": 1021696835,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item02",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 62.5674,
+                  "Y": -22.6206
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 112.0,
+                "RotationSkewY": 112.0003,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 62.5674,
+                "RightMargin": -62.5674,
+                "TopMargin": 22.6206,
+                "BottomMargin": -22.6206,
+                "Tag": 2646,
+                "ActionTag": -1490922307,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item03",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.7119,
+                  "Y": -62.09
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 156.9999,
+                "RotationSkewY": 157.0004,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 26.7119,
+                "RightMargin": -26.7119,
+                "TopMargin": 62.09,
+                "BottomMargin": -62.09,
+                "Tag": 2650,
+                "ActionTag": 1428654639,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item04",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -21.9672,
+                  "Y": -63.0064
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 203.0002,
+                "RotationSkewY": 203.0005,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -21.9672,
+                "RightMargin": 21.9672,
+                "TopMargin": 63.0064,
+                "BottomMargin": -63.0064,
+                "Tag": 2654,
+                "ActionTag": 432546372,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item05",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -61.3419,
+                  "Y": -26.1489
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 248.0,
+                "RotationSkewY": 248.0007,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -61.3419,
+                "RightMargin": 61.3419,
+                "TopMargin": 26.1489,
+                "BottomMargin": -26.1489,
+                "Tag": 2658,
+                "ActionTag": 623779217,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item06",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/minigame/vongquaymayman/UIMGVQMMSmallItemIn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -61.2507,
+                  "Y": 23.575
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 293.0,
+                "RotationSkewY": 293.0005,
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -61.2507,
+                "RightMargin": 61.2507,
+                "TopMargin": -23.575,
+                "BottomMargin": 23.575,
+                "Tag": 2662,
+                "ActionTag": 1180786296,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Item07",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -49271479,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGVongQuay",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_nentrongnho_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 51,
+            "Scale9OriginY": 51,
+            "Scale9Width": 55,
+            "Scale9Height": 55,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -78.5,
+            "RightMargin": -78.5,
+            "TopMargin": -78.5,
+            "BottomMargin": -78.5,
+            "Tag": 132,
+            "ActionTag": -851890471,
+            "Size": {
+              "X": 157.0,
+              "Y": 157.0
+            },
+            "Name": "MGBackgroundNumber",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_text_luotquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 42,
+            "Scale9OriginY": 18,
+            "Scale9Width": 46,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.2609,
+              "Y": 42.8574
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -62.7391,
+            "RightMargin": -67.2609,
+            "TopMargin": -70.8574,
+            "BottomMargin": 14.8574,
+            "Tag": 133,
+            "ActionTag": -153656238,
+            "Size": {
+              "X": 130.0,
+              "Y": 56.0
+            },
+            "Name": "MGLuotQuay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 52,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Facebook.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0002,
+              "Y": 6.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 160,
+              "G": 2,
+              "B": 2
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -111.9998,
+            "RightMargin": -112.0002,
+            "TopMargin": -44.5001,
+            "BottomMargin": -32.4999,
+            "Tag": 134,
+            "ActionTag": -624037128,
+            "Size": {
+              "X": 224.0,
+              "Y": 77.0
+            },
+            "Name": "MGTextLuotQuay",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/UTM Facebook.ttf",
+        "atlas/AtlasVongQuayMayMan.plist",
+        "atlas/AtlasVongQuayMayMan.png",
+        "UIMGVQMMSmallItemIn.json",
+        "UIMGVQMMSmallItemOut.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

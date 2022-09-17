@@ -1,0 +1,289 @@
+{
+  "ID": "8c6a7b44-685d-4c45-919b-e26ad0886ada",
+  "Version": "3.10.0.0",
+  "Name": "MGXALDNotification",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengAladin/footer.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 70,
+            "Scale9Width": 436,
+            "Scale9Height": 73,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 84.0
+            },
+            "Scale": {
+              "ScaleX": 0.87,
+              "ScaleY": 0.87
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -1280.0,
+            "TopMargin": -190.5,
+            "BottomMargin": -22.5,
+            "Tag": 45,
+            "ActionTag": -2107074932,
+            "Size": {
+              "X": 1280.0,
+              "Y": 213.0
+            },
+            "Name": "MGFooter",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "popupBoard.png",
+              "Plist": "game/xengAladin/Atlas/atlasXengAladinPopup.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 104,
+            "Scale9OriginY": 62,
+            "Scale9Width": 110,
+            "Scale9Height": 65,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 195.0,
+            "RightMargin": -1085.0,
+            "TopMargin": -585.0,
+            "BottomMargin": 135.0,
+            "Tag": 40,
+            "ActionTag": -114017990,
+            "Size": {
+              "X": 890.0,
+              "Y": 450.0
+            },
+            "Name": "MGBackGround",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "titleNoti.png",
+              "Plist": "game/xengAladin/Atlas/atlasXengAladinPopup.plist"
+            },
+            "Scale9OriginX": 80,
+            "Scale9OriginY": 15,
+            "Scale9Width": 85,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 532.1364
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 517.5,
+            "RightMargin": -762.5,
+            "TopMargin": -555.1364,
+            "BottomMargin": 509.1364,
+            "Tag": 41,
+            "ActionTag": -843994093,
+            "Size": {
+              "X": 245.0,
+              "Y": 46.0
+            },
+            "Name": "MGTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnX.png",
+              "Plist": "game/xengAladin/Atlas/atlasXengAladinPopup.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1022.0554,
+              "Y": 539.4431
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1003.0554,
+            "RightMargin": -1041.0554,
+            "TopMargin": -554.4431,
+            "BottomMargin": 524.4431,
+            "Tag": 42,
+            "ActionTag": 1920250219,
+            "Size": {
+              "X": 38.0,
+              "Y": 30.0
+            },
+            "Name": "MGButton_Exit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 111,
+              "G": 17,
+              "B": 120
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 239.1411,
+              "Y": 173.4846
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 111,
+              "G": 17,
+              "B": 120
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 239.1411,
+            "RightMargin": -1036.1411,
+            "TopMargin": -483.4846,
+            "BottomMargin": 173.4846,
+            "Tag": 44,
+            "ActionTag": -1427866474,
+            "Size": {
+              "X": 797.0,
+              "Y": 310.0
+            },
+            "Name": "MGListThongBao",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/atlasXengAladinPopup.plist",
+        "Atlas/atlasXengAladinPopup.png",
+        "footer.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

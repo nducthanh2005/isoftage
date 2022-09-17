@@ -1,0 +1,334 @@
+{
+  "ID": "03c5063f-b80b-44fa-bf16-1d6468a534a2",
+  "Version": "3.10.0.0",
+  "Name": "UISamButton",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FontSize": 23,
+            "ButtonText": "BỎ LƯỢT",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnDisable.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnLight.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnNormal.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -233.26,
+              "Y": 0.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -298.26,
+            "RightMargin": 168.26,
+            "TopMargin": -37.91,
+            "BottomMargin": -37.09,
+            "Tag": 4,
+            "ActionTag": -780719374,
+            "Size": {
+              "X": 130.0,
+              "Y": 75.0
+            },
+            "Name": "MGButtonBoLuot",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "BỎ CHỌN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnDisable.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnLight.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnNormal.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -77.03,
+              "Y": 0.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -142.03,
+            "RightMargin": 12.03,
+            "TopMargin": -37.91,
+            "BottomMargin": -37.09,
+            "Tag": 5,
+            "ActionTag": 315632178,
+            "Size": {
+              "X": 130.0,
+              "Y": 75.0
+            },
+            "Name": "MGButtonBoChon",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "XẾP BÀI",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnDisable.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnLight.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnNormal.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 79.21,
+              "Y": 0.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.21,
+            "RightMargin": -144.21,
+            "TopMargin": -37.91,
+            "BottomMargin": -37.09,
+            "Tag": 6,
+            "ActionTag": -957441367,
+            "Size": {
+              "X": 130.0,
+              "Y": 75.0
+            },
+            "Name": "MGButtonXepBai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 23,
+            "ButtonText": "ĐÁNH",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnDisable.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnLight.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnNormal.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.45,
+              "Y": 0.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 170.45,
+            "RightMargin": -300.45,
+            "TopMargin": -37.91,
+            "BottomMargin": -37.09,
+            "Tag": 7,
+            "ActionTag": 863063861,
+            "Size": {
+              "X": 130.0,
+              "Y": 75.0
+            },
+            "Name": "MGButtonDanh",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Swiss CondensedBold.ttf",
+        "../Components/AtlasTable/AtlasTable.plist",
+        "../Components/AtlasTable/AtlasTable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,369 @@
+{
+  "ID": "917f943a-3e57-4d06-8f9b-c88ec81023a9",
+  "Version": "3.10.0.0",
+  "Name": "UIItemHuZdo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 565,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundLineGiaoDich.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 136,
+            "Scale9OriginY": 8,
+            "Scale9Width": 46,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -159.0,
+            "RightMargin": -159.0,
+            "TopMargin": -10.0,
+            "BottomMargin": -10.0,
+            "Tag": 571,
+            "ActionTag": -698426335,
+            "Size": {
+              "X": 318.0,
+              "Y": 20.0
+            },
+            "Name": "MGBackGroundGiaoDich",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Thắng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 118.5657,
+              "Y": -2.2024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.0657,
+            "RightMargin": -139.0657,
+            "TopMargin": -4.7976,
+            "BottomMargin": -9.2024,
+            "Tag": 566,
+            "ActionTag": -336745171,
+            "Size": {
+              "X": 41.0,
+              "Y": 14.0
+            },
+            "Name": "MGTitleThang",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Hũ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 72.5641,
+              "Y": -2.2024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 61.5641,
+            "RightMargin": -83.5641,
+            "TopMargin": -4.7976,
+            "BottomMargin": -9.2024,
+            "Tag": 567,
+            "ActionTag": 775783094,
+            "Size": {
+              "X": 22.0,
+              "Y": 14.0
+            },
+            "Name": "MGTitleKetQua",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Tài Khoản",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 24.8036,
+              "Y": -2.2024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -4.6964,
+            "RightMargin": -54.3036,
+            "TopMargin": -4.7976,
+            "BottomMargin": -9.2024,
+            "Tag": 568,
+            "ActionTag": 32055528,
+            "Size": {
+              "X": 59.0,
+              "Y": 14.0
+            },
+            "Name": "MGTitleZdo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Phòng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -40.7517,
+              "Y": -2.2024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -62.2517,
+            "RightMargin": 19.2517,
+            "TopMargin": -4.7976,
+            "BottomMargin": -9.2024,
+            "Tag": 569,
+            "ActionTag": 1712096132,
+            "Size": {
+              "X": 43.0,
+              "Y": 14.0
+            },
+            "Name": "MGTitlePhong",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Thời gian",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -112.4802,
+              "Y": -2.2024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -142.9802,
+            "RightMargin": 81.9802,
+            "TopMargin": -4.7976,
+            "BottomMargin": -9.2024,
+            "Tag": 570,
+            "ActionTag": 267451309,
+            "Size": {
+              "X": 61.0,
+              "Y": 14.0
+            },
+            "Name": "MGTitleThoiGian",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/MyriadPro-Bold.ttf",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

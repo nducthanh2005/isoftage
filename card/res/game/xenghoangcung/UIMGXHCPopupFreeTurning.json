@@ -1,0 +1,258 @@
+{
+  "ID": "d68b5f73-27fc-49eb-9682-863fd1bd9469",
+  "Version": "3.10.0.0",
+  "Name": "UIMGXHCPopupFreeTurning",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -289971148,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -289971148,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 638.0242,
+                "Y": 323.349,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -289971148,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1115,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_popup_freeturning_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 357,
+            "Scale9OriginY": 213,
+            "Scale9Width": 369,
+            "Scale9Height": 221,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.0242,
+              "Y": 323.349
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 96.5242,
+            "RightMargin": -1179.5242,
+            "TopMargin": -646.849,
+            "BottomMargin": -0.151,
+            "Tag": 1117,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 100,
+                "LabelText": "8",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Impact.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.3311,
+                  "Y": 367.0492
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 251,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5054,
+                  "Y": 0.5673
+                },
+                "PreSize": {
+                  "X": 0.1644,
+                  "Y": 0.2751
+                },
+                "LeftMargin": 458.3311,
+                "RightMargin": 446.6689,
+                "TopMargin": 190.9508,
+                "BottomMargin": 278.0492,
+                "Tag": 1118,
+                "ActionTag": 1022085395,
+                "Size": {
+                  "X": 178.0,
+                  "Y": 178.0
+                },
+                "Name": "MGTextFreeNumber",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_start_freeturning_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 317,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 542.3996,
+                  "Y": 76.4286
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5008,
+                  "Y": 0.1181
+                },
+                "PreSize": {
+                  "X": 0.3204,
+                  "Y": 0.1267
+                },
+                "LeftMargin": 368.8996,
+                "RightMargin": 367.1004,
+                "TopMargin": 529.5714,
+                "BottomMargin": 35.4286,
+                "Tag": 1119,
+                "ActionTag": -2051696195,
+                "Size": {
+                  "X": 347.0,
+                  "Y": 82.0
+                },
+                "Name": "MGButtonStart",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -289971148,
+            "Size": {
+              "X": 1083.0,
+              "Y": 647.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Impact.ttf",
+        "atlas/AtlasXHC/AtlasXHC.plist",
+        "atlas/AtlasXHC/AtlasXHC.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

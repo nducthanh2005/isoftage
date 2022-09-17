@@ -1,0 +1,1234 @@
+{
+  "ID": "f5decfba-8fa2-42bc-b38d-07e74606c747",
+  "Version": "3.10.0.0",
+  "Name": "UIItemLayerBangThuong",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 327,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundBangThuong.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 50,
+            "Scale9OriginY": 50,
+            "Scale9Width": 107,
+            "Scale9Height": 51,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 8.3317,
+              "Y": 154.3411
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -241.6683,
+            "RightMargin": -258.3317,
+            "TopMargin": -288.3411,
+            "BottomMargin": 20.3411,
+            "Tag": 362,
+            "ActionTag": 1056980805,
+            "Size": {
+              "X": 500.0,
+              "Y": 268.0
+            },
+            "Name": "MGBackGroundBangThuong",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Car.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 30,
+            "Scale9Width": 13,
+            "Scale9Height": 10,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -86.5331,
+              "Y": 150.276
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -133.0331,
+            "RightMargin": 40.0331,
+            "TopMargin": -185.276,
+            "BottomMargin": 115.276,
+            "Tag": 363,
+            "ActionTag": 1755015345,
+            "Size": {
+              "X": 93.0,
+              "Y": 70.0
+            },
+            "Name": "IconCar",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Plane.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 35,
+            "Scale9Width": 13,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 63.8849,
+              "Y": 228.842
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 17.3849,
+            "RightMargin": -110.3849,
+            "TopMargin": -269.842,
+            "BottomMargin": 187.842,
+            "Tag": 364,
+            "ActionTag": 1129749093,
+            "Size": {
+              "X": 93.0,
+              "Y": 82.0
+            },
+            "Name": "IconPlane",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Boat.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 35,
+            "Scale9Width": 13,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -195.6279,
+              "Y": 148.0157
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -242.1279,
+            "RightMargin": 149.1279,
+            "TopMargin": -189.0157,
+            "BottomMargin": 107.0157,
+            "Tag": 365,
+            "ActionTag": 580009914,
+            "Size": {
+              "X": 93.0,
+              "Y": 82.0
+            },
+            "Name": "IconBoat",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_10.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 24,
+            "Scale9Width": 11,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 178.0588,
+              "Y": 154.9565
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 141.5588,
+            "RightMargin": -214.5588,
+            "TopMargin": -182.9565,
+            "BottomMargin": 126.9565,
+            "Tag": 366,
+            "ActionTag": 2078734073,
+            "Size": {
+              "X": 73.0,
+              "Y": 56.0
+            },
+            "Name": "Icon10",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_9.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 30,
+            "Scale9Width": 8,
+            "Scale9Height": 10,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 178.0586,
+              "Y": 233.0429
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 150.0586,
+            "RightMargin": -206.0586,
+            "TopMargin": -268.0429,
+            "BottomMargin": 198.0429,
+            "Tag": 367,
+            "ActionTag": 1729734543,
+            "Size": {
+              "X": 56.0,
+              "Y": 70.0
+            },
+            "Name": "Icon9",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Q.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 35,
+            "Scale9Height": 53,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -86.5337,
+              "Y": 78.2699
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -119.0337,
+            "RightMargin": 54.0337,
+            "TopMargin": -119.7699,
+            "BottomMargin": 36.7699,
+            "Tag": 368,
+            "ActionTag": 1060462643,
+            "Size": {
+              "X": 65.0,
+              "Y": 83.0
+            },
+            "Name": "IconQ",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Scatter.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 43,
+            "Scale9OriginY": 29,
+            "Scale9Width": 16,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -86.533,
+              "Y": 233.392
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -137.533,
+            "RightMargin": 35.533,
+            "TopMargin": -267.892,
+            "BottomMargin": 198.892,
+            "Tag": 369,
+            "ActionTag": -1400306779,
+            "Size": {
+              "X": 102.0,
+              "Y": 69.0
+            },
+            "Name": "IconScatter",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_Wild.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 40,
+            "Scale9Width": 14,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -195.6279,
+              "Y": 224.9919
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -242.6279,
+            "RightMargin": 148.6279,
+            "TopMargin": -271.4919,
+            "BottomMargin": 178.4919,
+            "Tag": 370,
+            "ActionTag": -600148894,
+            "Size": {
+              "X": 94.0,
+              "Y": 93.0
+            },
+            "Name": "IconWild",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_J.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 27,
+            "Scale9OriginY": 31,
+            "Scale9Width": 9,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 63.885,
+              "Y": 84.1101
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 32.385,
+            "RightMargin": -95.385,
+            "TopMargin": -119.6101,
+            "BottomMargin": 48.6101,
+            "Tag": 371,
+            "ActionTag": -766178531,
+            "Size": {
+              "X": 63.0,
+              "Y": 71.0
+            },
+            "Name": "IconJ",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_A.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 29,
+            "Scale9Width": 12,
+            "Scale9Height": 10,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 63.885,
+              "Y": 154.9565
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 23.885,
+            "RightMargin": -103.885,
+            "TopMargin": -188.9565,
+            "BottomMargin": 120.9565,
+            "Tag": 372,
+            "ActionTag": 645530491,
+            "Size": {
+              "X": 80.0,
+              "Y": 68.0
+            },
+            "Name": "IconA",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_K.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 29,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -195.6277,
+              "Y": 81.056
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -231.1277,
+            "RightMargin": 160.1277,
+            "TopMargin": -115.556,
+            "BottomMargin": 46.556,
+            "Tag": 373,
+            "ActionTag": -2107933157,
+            "Size": {
+              "X": 71.0,
+              "Y": 69.0
+            },
+            "Name": "IconK",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonCloseXeng.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 4,
+            "Scale9Height": 24,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 245.9882,
+              "Y": 280.5708
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 228.9882,
+            "RightMargin": -262.9882,
+            "TopMargin": -297.5708,
+            "BottomMargin": 263.5708,
+            "Tag": 3607,
+            "ActionTag": -377745358,
+            "Size": {
+              "X": 34.0,
+              "Y": 34.0
+            },
+            "Name": "MGButtonCloseBangThuong",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 5000 \n4: 500\n3: 50\n2: 5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.6263,
+              "Y": 225.5063
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -162.1263,
+            "RightMargin": 119.1263,
+            "TopMargin": -253.5063,
+            "BottomMargin": 197.5063,
+            "Tag": 18,
+            "ActionTag": -711821307,
+            "Size": {
+              "X": 43.0,
+              "Y": 56.0
+            },
+            "Name": "TextKimCuong",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 1000 \n4: 100\n3: 5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.6263,
+              "Y": 150.8006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -162.1263,
+            "RightMargin": 119.1263,
+            "TopMargin": -171.8006,
+            "BottomMargin": 129.8006,
+            "Tag": 19,
+            "ActionTag": -1451588886,
+            "Size": {
+              "X": 43.0,
+              "Y": 42.0
+            },
+            "Name": "TextBoat",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 100 (free x 8)   \n4: 25 (free x 8)\n3: 5 (free x 8)",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -10.7306,
+              "Y": 232.5062
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -53.2306,
+            "RightMargin": -31.7694,
+            "TopMargin": -253.5062,
+            "BottomMargin": 211.5062,
+            "Tag": 20,
+            "ActionTag": -871776111,
+            "Size": {
+              "X": 85.0,
+              "Y": 42.0
+            },
+            "Name": "TextScatter",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 300 \n4: 30\n3: 3",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -144.1263,
+              "Y": 79.6349
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -162.1263,
+            "RightMargin": 126.1263,
+            "TopMargin": -100.6349,
+            "BottomMargin": 58.6349,
+            "Tag": 62,
+            "ActionTag": -1566891102,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "TextK",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 300 \n4: 30\n3: 3",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -34.7306,
+              "Y": 150.8006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.7306,
+            "RightMargin": 16.7306,
+            "TopMargin": -171.8006,
+            "BottomMargin": 129.8006,
+            "Tag": 63,
+            "ActionTag": -1909716884,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "TextCar",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 100 \n4: 10 \n3: 1.5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -34.7306,
+              "Y": 79.6349
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.7306,
+            "RightMargin": 16.7306,
+            "TopMargin": -100.6349,
+            "BottomMargin": 58.6349,
+            "Tag": 64,
+            "ActionTag": -1205515403,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "TextQ",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 1000 \n4: 100\n3: 5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 119.3607,
+              "Y": 232.5062
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.8607,
+            "RightMargin": -140.8607,
+            "TopMargin": -253.5062,
+            "BottomMargin": 211.5062,
+            "Tag": 65,
+            "ActionTag": 1682366731,
+            "Size": {
+              "X": 43.0,
+              "Y": 42.0
+            },
+            "Name": "TextPlane",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 300 \n4: 30\n3: 3",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 115.8607,
+              "Y": 150.8006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.8607,
+            "RightMargin": -133.8607,
+            "TopMargin": -171.8006,
+            "BottomMargin": 129.8006,
+            "Tag": 66,
+            "ActionTag": 475592742,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "TextA",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 100 \n4: 10\n3: 1.5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 115.8607,
+              "Y": 79.6349
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.8607,
+            "RightMargin": -133.8607,
+            "TopMargin": -100.6349,
+            "BottomMargin": 58.6349,
+            "Tag": 67,
+            "ActionTag": 217720924,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "TextJ",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 100 \n4: 10\n3: 1.5  ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 221.9263,
+              "Y": 233.0429
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 203.9263,
+            "RightMargin": -239.9263,
+            "TopMargin": -254.0429,
+            "BottomMargin": 212.0429,
+            "Tag": 68,
+            "ActionTag": -159114410,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "Text9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "5: 100 \n4: 10\n3: 1.5",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 221.9263,
+              "Y": 150.8006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 203.9263,
+            "RightMargin": -239.9263,
+            "TopMargin": -171.8006,
+            "BottomMargin": 129.8006,
+            "Tag": 69,
+            "ActionTag": -636759803,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "Text10",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/MyriadPro-Bold.ttf",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

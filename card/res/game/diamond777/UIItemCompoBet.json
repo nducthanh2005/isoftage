@@ -1,0 +1,847 @@
+{
+  "ID": "a193750b-cc87-4de6-9256-8df3c1f51f59",
+  "Version": "3.10.0.0",
+  "Name": "UIItemCompoBet",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 370,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "10-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "10.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -263.5781,
+              "Y": -0.5638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -294.5781,
+            "RightMargin": 232.5781,
+            "TopMargin": -31.4362,
+            "BottomMargin": -32.5638,
+            "Tag": 372,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.7383,
+                  "Y": 32.6038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4796,
+                  "Y": 0.5094
+                },
+                "PreSize": {
+                  "X": 0.6452,
+                  "Y": 0.25
+                },
+                "LeftMargin": 9.7383,
+                "RightMargin": 12.2617,
+                "TopMargin": 23.3962,
+                "BottomMargin": 24.6038,
+                "Tag": 52,
+                "ActionTag": -1148414105,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1532624312,
+            "Size": {
+              "X": 62.0,
+              "Y": 64.0
+            },
+            "Name": "MGButtonBet0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "100-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "100.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -184.9067,
+              "Y": -0.5638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -215.9067,
+            "RightMargin": 153.9067,
+            "TopMargin": -31.4362,
+            "BottomMargin": -32.5638,
+            "Tag": 373,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.49,
+                  "Y": 32.6038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4918,
+                  "Y": 0.5094
+                },
+                "PreSize": {
+                  "X": 0.6452,
+                  "Y": 0.25
+                },
+                "LeftMargin": 10.49,
+                "RightMargin": 11.51,
+                "TopMargin": 23.3962,
+                "BottomMargin": 24.6038,
+                "Tag": 53,
+                "ActionTag": 1841556173,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1454947622,
+            "Size": {
+              "X": 62.0,
+              "Y": 64.0
+            },
+            "Name": "MGButtonBet1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "1K-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "1K.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 31,
+            "Scale9Height": 39,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -106.7353,
+              "Y": -0.5638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -137.2353,
+            "RightMargin": 76.2353,
+            "TopMargin": -29.9362,
+            "BottomMargin": -31.0638,
+            "Tag": 374,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.7386,
+                  "Y": 30.1038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5039,
+                  "Y": 0.4935
+                },
+                "PreSize": {
+                  "X": 0.6557,
+                  "Y": 0.2623
+                },
+                "LeftMargin": 10.7386,
+                "RightMargin": 10.2614,
+                "TopMargin": 22.8962,
+                "BottomMargin": 22.1038,
+                "Tag": 54,
+                "ActionTag": -1496079684,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -815624738,
+            "Size": {
+              "X": 61.0,
+              "Y": 61.0
+            },
+            "Name": "MGButtonBet2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "10K-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "10K.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.3751,
+              "Y": -0.5638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 61.3751,
+            "RightMargin": -123.3751,
+            "TopMargin": -31.4362,
+            "BottomMargin": -32.5638,
+            "Tag": 375,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.7385,
+                  "Y": 32.6038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4797,
+                  "Y": 0.5094
+                },
+                "PreSize": {
+                  "X": 0.6452,
+                  "Y": 0.25
+                },
+                "LeftMargin": 9.7385,
+                "RightMargin": 12.2615,
+                "TopMargin": 23.3962,
+                "BottomMargin": 24.6038,
+                "Tag": 55,
+                "ActionTag": 1918418152,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2016233118,
+            "Size": {
+              "X": 62.0,
+              "Y": 64.0
+            },
+            "Name": "MGButtonBet3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "50k-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "50K.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 31,
+            "Scale9Height": 39,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 177.2744,
+              "Y": 0.9359
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 146.7744,
+            "RightMargin": -207.7744,
+            "TopMargin": -31.4359,
+            "BottomMargin": -29.5641,
+            "Tag": 376,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.2399,
+                  "Y": 29.6041
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4793,
+                  "Y": 0.4853
+                },
+                "PreSize": {
+                  "X": 0.6557,
+                  "Y": 0.2623
+                },
+                "LeftMargin": 9.2399,
+                "RightMargin": 11.7601,
+                "TopMargin": 23.3959,
+                "BottomMargin": 21.6041,
+                "Tag": 56,
+                "ActionTag": -554775812,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1335318363,
+            "Size": {
+              "X": 61.0,
+              "Y": 61.0
+            },
+            "Name": "MGButtonBet4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "100k-act.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "100k.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 31,
+            "Scale9Height": 39,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 261.6744,
+              "Y": 0.9359
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 231.1744,
+            "RightMargin": -292.1744,
+            "TopMargin": -31.4359,
+            "BottomMargin": -29.5641,
+            "Tag": 377,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.7391,
+                  "Y": 29.6041
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5039,
+                  "Y": 0.4853
+                },
+                "PreSize": {
+                  "X": 0.6557,
+                  "Y": 0.2623
+                },
+                "LeftMargin": 10.7391,
+                "RightMargin": 10.2609,
+                "TopMargin": 23.3959,
+                "BottomMargin": 21.6041,
+                "Tag": 57,
+                "ActionTag": 225433084,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 16.0
+                },
+                "Name": "MGTextTien",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1238957927,
+            "Size": {
+              "X": 61.0,
+              "Y": 61.0
+            },
+            "Name": "MGButtonBet5",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/Roboto-Bold.ttf",
+        "AtlasDiamond777/atlasDiamond777.plist",
+        "AtlasDiamond777/atlasDiamond777.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

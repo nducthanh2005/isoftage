@@ -1,0 +1,145 @@
+{
+  "ID": "ff32f8b7-631d-4e93-8b42-0214aeb05c38",
+  "Version": "3.10.0.0",
+  "Name": "UIItemTextTienThang",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1032,
+        "Children": [
+          {
+            "FontSize": 30,
+            "LabelText": "THẮNG",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RussellSquare.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -96.2643,
+              "Y": -0.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -146.2643,
+            "RightMargin": 46.2643,
+            "TopMargin": -12.4998,
+            "BottomMargin": -12.5002,
+            "Tag": 1034,
+            "ActionTag": 441902796,
+            "Size": {
+              "X": 100.0,
+              "Y": 25.0
+            },
+            "Name": "MGTextThang",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "1.800.000.000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RussellSquare.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 86.3022,
+              "Y": 1.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -39.1978,
+            "RightMargin": -211.8022,
+            "TopMargin": -16.9997,
+            "BottomMargin": -13.0003,
+            "Tag": 1035,
+            "ActionTag": -927711266,
+            "Size": {
+              "X": 251.0,
+              "Y": 30.0
+            },
+            "Name": "MGTextTienThang",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/RussellSquare.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

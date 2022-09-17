@@ -1,0 +1,711 @@
+{
+  "ID": "7e2a73c5-6101-48ca-9a7c-39294cec9c3c",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupChangeAvatar",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 42,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 164,
+            "Scale9OriginY": 83,
+            "Scale9Width": 171,
+            "Scale9Height": 86,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.8109,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4164,
+              "Y": 0.6583
+            },
+            "LeftMargin": 373.3109,
+            "RightMargin": 373.6891,
+            "TopMargin": 123.0,
+            "BottomMargin": 123.0,
+            "Tag": 56,
+            "ActionTag": -1801707689,
+            "Size": {
+              "X": 533.0,
+              "Y": 474.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 47,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 876.2333,
+              "Y": 570.3052
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6846,
+              "Y": 0.7921
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 846.7333,
+            "RightMargin": 374.2667,
+            "TopMargin": 124.6948,
+            "BottomMargin": 545.3052,
+            "Tag": 44,
+            "ActionTag": 830478724,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Icon",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9999,
+              "Y": 566.6476
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.787
+            },
+            "PreSize": {
+              "X": 0.068,
+              "Y": 0.0583
+            },
+            "LeftMargin": 596.4999,
+            "RightMargin": 596.5001,
+            "TopMargin": 132.3524,
+            "BottomMargin": 545.6476,
+            "Tag": 45,
+            "ActionTag": -2026726373,
+            "Size": {
+              "X": 87.0,
+              "Y": 42.0
+            },
+            "Name": "MGTittle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundLineHoTroKH.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 13,
+            "Scale9Width": 27,
+            "Scale9Height": 14,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.3828,
+              "Y": 0.4806
+            },
+            "LeftMargin": 395.0,
+            "RightMargin": 395.0,
+            "TopMargin": 187.0,
+            "BottomMargin": 187.0,
+            "Tag": 55,
+            "ActionTag": -1285085321,
+            "Size": {
+              "X": 490.0,
+              "Y": 346.0
+            },
+            "Name": "MGImageBackBlack",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "CHỌN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0001,
+              "Y": 154.4435
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2145
+            },
+            "PreSize": {
+              "X": 0.068,
+              "Y": 0.0583
+            },
+            "LeftMargin": 596.5001,
+            "RightMargin": 596.4999,
+            "TopMargin": 544.5565,
+            "BottomMargin": 133.4435,
+            "Tag": 57,
+            "ActionTag": -1723871747,
+            "Size": {
+              "X": 87.0,
+              "Y": 42.0
+            },
+            "Name": "MGBtnChon",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 461.9,
+              "Y": 468.6087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3609,
+              "Y": 0.6508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 461.9,
+            "RightMargin": 818.1,
+            "TopMargin": 251.3913,
+            "BottomMargin": 468.6087,
+            "Tag": 3055,
+            "ActionTag": 1645503872,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 581.4089,
+              "Y": 468.6087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4542,
+              "Y": 0.6508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 581.4089,
+            "RightMargin": 698.5911,
+            "TopMargin": 251.3913,
+            "BottomMargin": 468.6087,
+            "Tag": 3057,
+            "ActionTag": -1022443366,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 700.9177,
+              "Y": 468.6087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5476,
+              "Y": 0.6508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 700.9177,
+            "RightMargin": 579.0823,
+            "TopMargin": 251.3913,
+            "BottomMargin": 468.6087,
+            "Tag": 3067,
+            "ActionTag": 676012214,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 820.4266,
+              "Y": 468.6087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.641,
+              "Y": 0.6508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 820.4266,
+            "RightMargin": 459.5734,
+            "TopMargin": 251.3913,
+            "BottomMargin": 468.6087,
+            "Tag": 3058,
+            "ActionTag": -577896427,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 461.9,
+              "Y": 359.7537
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3609,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 461.9,
+            "RightMargin": 818.1,
+            "TopMargin": 360.2463,
+            "BottomMargin": 359.7537,
+            "Tag": 3059,
+            "ActionTag": 676074629,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 581.4089,
+              "Y": 359.7537
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4542,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 581.4089,
+            "RightMargin": 698.5911,
+            "TopMargin": 360.2463,
+            "BottomMargin": 359.7537,
+            "Tag": 3060,
+            "ActionTag": 427908590,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 700.9177,
+              "Y": 359.7537
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5476,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 700.9177,
+            "RightMargin": 579.0823,
+            "TopMargin": 360.2463,
+            "BottomMargin": 359.7537,
+            "Tag": 3061,
+            "ActionTag": 900161621,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_7",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 820.4266,
+              "Y": 359.7537
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.641,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 820.4266,
+            "RightMargin": 459.5734,
+            "TopMargin": 360.2463,
+            "BottomMargin": 359.7537,
+            "Tag": 3062,
+            "ActionTag": 382670174,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_8",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 461.9,
+              "Y": 250.8986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3609,
+              "Y": 0.3485
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 461.9,
+            "RightMargin": 818.1,
+            "TopMargin": 469.1014,
+            "BottomMargin": 250.8986,
+            "Tag": 3063,
+            "ActionTag": -926923267,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_9",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 581.4089,
+              "Y": 250.8986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4542,
+              "Y": 0.3485
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 581.4089,
+            "RightMargin": 698.5911,
+            "TopMargin": 469.1014,
+            "BottomMargin": 250.8986,
+            "Tag": 3064,
+            "ActionTag": 486908630,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_10",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 700.9177,
+              "Y": 250.8986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5476,
+              "Y": 0.3485
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 700.9177,
+            "RightMargin": 579.0823,
+            "TopMargin": 469.1014,
+            "BottomMargin": 250.8986,
+            "Tag": 3065,
+            "ActionTag": -630923908,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_11",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 820.4266,
+              "Y": 250.8986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.641,
+              "Y": 0.3485
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 820.4266,
+            "RightMargin": 459.5734,
+            "TopMargin": 469.1014,
+            "BottomMargin": 250.8986,
+            "Tag": 3056,
+            "ActionTag": -742775816,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGImgAvatar_12",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/RobotoMedium.ttf",
+        "../Fonts/tahomabd.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

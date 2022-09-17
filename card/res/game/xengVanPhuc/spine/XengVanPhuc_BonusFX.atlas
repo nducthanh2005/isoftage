@@ -1,0 +1,118 @@
+
+XengVanPhuc_BonusFX.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bitmap/b&g
+  rotate: false
+  xy: 2, 163
+  size: 161, 165
+  orig: 164, 167
+  offset: 1, 0
+  index: -1
+bitmap/b&g_hands
+  rotate: false
+  xy: 2, 2
+  size: 106, 40
+  orig: 164, 167
+  offset: 31, 84
+  index: -1
+bitmap/bonus_FX0020
+  rotate: true
+  xy: 125, 38
+  size: 110, 117
+  orig: 227, 170
+  offset: 55, 25
+  index: -1
+bitmap/bonus_FX0022
+  rotate: true
+  xy: 291, 263
+  size: 114, 116
+  orig: 227, 170
+  offset: 53, 29
+  index: -1
+bitmap/bonus_FX0024
+  rotate: true
+  xy: 244, 30
+  size: 114, 115
+  orig: 227, 170
+  offset: 53, 31
+  index: -1
+bitmap/bonus_FX0026
+  rotate: false
+  xy: 361, 29
+  size: 114, 115
+  orig: 227, 170
+  offset: 53, 30
+  index: -1
+bitmap/bonus_FX0028
+  rotate: true
+  xy: 288, 146
+  size: 115, 119
+  orig: 227, 170
+  offset: 53, 29
+  index: -1
+bitmap/bonus_FX0030
+  rotate: true
+  xy: 168, 263
+  size: 112, 121
+  orig: 227, 170
+  offset: 55, 28
+  index: -1
+bitmap/bonus_FX0032
+  rotate: true
+  xy: 165, 150
+  size: 111, 121
+  orig: 227, 170
+  offset: 55, 28
+  index: -1
+bitmap/bonus_FX0034
+  rotate: false
+  xy: 290, 379
+  size: 117, 118
+  orig: 227, 170
+  offset: 52, 29
+  index: -1
+bitmap/bonus_FX0036
+  rotate: false
+  xy: 2, 44
+  size: 121, 117
+  orig: 227, 170
+  offset: 50, 29
+  index: -1
+bitmap/bonus_bandroll
+  rotate: true
+  xy: 409, 234
+  size: 133, 68
+  orig: 133, 121
+  offset: 0, 9
+  index: -1
+bitmap/bonus_circle
+  rotate: false
+  xy: 168, 377
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bitmap/bonus_circle_box
+  rotate: false
+  xy: 409, 169
+  size: 52, 63
+  orig: 120, 120
+  offset: 36, 0
+  index: -1
+bitmap/bonus_text_screen
+  rotate: true
+  xy: 409, 369
+  size: 128, 70
+  orig: 133, 121
+  offset: 2, 10
+  index: -1
+bitmap/fullBonusGlow
+  rotate: false
+  xy: 2, 330
+  size: 164, 167
+  orig: 164, 167
+  offset: 0, 0
+  index: -1

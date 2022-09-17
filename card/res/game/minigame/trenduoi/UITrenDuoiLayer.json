@@ -1,0 +1,816 @@
+{
+  "ID": "9982caf2-13c8-43f3-8378-097062b16f2a",
+  "Version": "3.10.0.0",
+  "Name": "UITrenDuoiLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UIButtonBetTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 637.6635,
+              "Y": 270.8638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.3762
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 637.6635,
+            "RightMargin": 642.3365,
+            "TopMargin": 449.1362,
+            "BottomMargin": 270.8638,
+            "Tag": 86,
+            "ActionTag": -2098078200,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoButtonBet",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "background.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 514,
+            "Scale9Height": 221,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0002,
+              "Y": 401.9189
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5582
+            },
+            "PreSize": {
+              "X": 0.425,
+              "Y": 0.3486
+            },
+            "LeftMargin": 368.0002,
+            "RightMargin": 367.9998,
+            "TopMargin": 192.5811,
+            "BottomMargin": 276.4189,
+            "Tag": 2,
+            "ActionTag": -721780099,
+            "Size": {
+              "X": 544.0,
+              "Y": 251.0
+            },
+            "Name": "MGTaiXiuBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_header_td.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9OriginX": 58,
+            "Scale9OriginY": 44,
+            "Scale9Width": 61,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.7895,
+              "Y": 576.6568
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.503,
+              "Y": 0.8009
+            },
+            "PreSize": {
+              "X": 0.1383,
+              "Y": 0.1889
+            },
+            "LeftMargin": 555.2895,
+            "RightMargin": 547.7105,
+            "TopMargin": 75.3432,
+            "BottomMargin": 508.6568,
+            "Tag": 788,
+            "ActionTag": 856867770,
+            "Size": {
+              "X": 177.0,
+              "Y": 136.0
+            },
+            "Name": "MGHeader",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UIButtonSupportTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 638.8091,
+              "Y": 400.84
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5567
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 638.8091,
+            "RightMargin": 641.1909,
+            "TopMargin": 319.16,
+            "BottomMargin": 400.84,
+            "Tag": 13,
+            "ActionTag": -1192375862,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoButtonSupport",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UIHubTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 638.5344,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4989,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 638.5344,
+            "RightMargin": 641.4656,
+            "TopMargin": 320.0,
+            "BottomMargin": 400.0,
+            "Tag": 234,
+            "ActionTag": 1281203669,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoHub",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UICompoChatTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 198.3931,
+              "Y": 439.2893
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.155,
+              "Y": 0.6101
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 198.3931,
+            "RightMargin": 1081.6069,
+            "TopMargin": 280.7107,
+            "BottomMargin": 439.2893,
+            "Tag": 477,
+            "ActionTag": 1696188966,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoChat",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UICompoInfoTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 682.2072,
+              "Y": 415.5314
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.533,
+              "Y": 0.5771
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 682.2072,
+            "RightMargin": 597.7928,
+            "TopMargin": 304.4686,
+            "BottomMargin": 415.5314,
+            "Tag": 485,
+            "ActionTag": -1300264523,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoInfo",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UICompoHistoryTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 685.4693,
+              "Y": 419.2845
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5355,
+              "Y": 0.5823
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 685.4693,
+            "RightMargin": 594.5307,
+            "TopMargin": 300.7155,
+            "BottomMargin": 419.2845,
+            "Tag": 505,
+            "ActionTag": 2041331350,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoHistory",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UICompoTopWinTrenDuoi.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 685.9431,
+              "Y": 420.0636
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5359,
+              "Y": 0.5834
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 685.9431,
+            "RightMargin": 594.0569,
+            "TopMargin": 299.9364,
+            "BottomMargin": 420.0636,
+            "Tag": 528,
+            "ActionTag": -792485307,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoTopWin",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/trenduoi/UICompoAnalytics.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1206.6349,
+              "Y": 385.24
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.9427,
+              "Y": 0.5351
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1206.6349,
+            "RightMargin": 73.3651,
+            "TopMargin": 334.76,
+            "BottomMargin": 385.24,
+            "Tag": 685,
+            "ActionTag": -845386288,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGCompoAnalytics",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 477.4325,
+              "Y": 472.3541
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.373,
+              "Y": 0.656
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 477.4325,
+            "RightMargin": 802.5675,
+            "TopMargin": 247.6459,
+            "BottomMargin": 472.3541,
+            "Tag": 547,
+            "ActionTag": -1804150389,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextTren",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 794.3739,
+              "Y": 471.4585
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6206,
+              "Y": 0.6548
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 794.3739,
+            "RightMargin": 485.6261,
+            "TopMargin": 248.5415,
+            "BottomMargin": 471.4585,
+            "Tag": 548,
+            "ActionTag": -3280909,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextDuoi",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 593,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 639.9,
+                  "Y": 395.4555
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 639.9,
+                "RightMargin": -639.9,
+                "TopMargin": -395.4555,
+                "BottomMargin": 395.4555,
+                "Tag": 594,
+                "ActionTag": 1324936217,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffectWinLose",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 615.0468,
+                  "Y": 415.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 615.0468,
+                "RightMargin": -615.0468,
+                "TopMargin": -415.44,
+                "BottomMargin": 415.44,
+                "Tag": 787,
+                "ActionTag": -1822184184,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Dice_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 627.5035,
+                  "Y": 373.1539
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 627.5035,
+                "RightMargin": -627.5035,
+                "TopMargin": -373.1539,
+                "BottomMargin": 373.1539,
+                "Tag": 788,
+                "ActionTag": 1627754395,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Dice_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 665.9686,
+                  "Y": 400.5288
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 665.9686,
+                "RightMargin": -665.9686,
+                "TopMargin": -400.5288,
+                "BottomMargin": 400.5288,
+                "Tag": 789,
+                "ActionTag": 311207482,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Dice_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 478.9144,
+                  "Y": 472.6843
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 478.9144,
+                "RightMargin": -478.9144,
+                "TopMargin": -472.6843,
+                "BottomMargin": 472.6843,
+                "Tag": 299,
+                "ActionTag": 907798744,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffectTren",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 794.1619,
+                  "Y": 473.2849
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 794.1619,
+                "RightMargin": -794.1619,
+                "TopMargin": -473.2849,
+                "BottomMargin": 473.2849,
+                "Tag": 300,
+                "ActionTag": -667981724,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffectDuoi",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "+100.000.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 637.2858,
+                  "Y": 400.0537
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 469.7858,
+                "RightMargin": -804.7858,
+                "TopMargin": -421.5537,
+                "BottomMargin": 378.5537,
+                "Tag": 302,
+                "ActionTag": 569300547,
+                "Size": {
+                  "X": 335.0,
+                  "Y": 43.0
+                },
+                "Name": "MGLabelNhanThuong",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -907978885,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoEffect",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "AtlasTrenDuoi/atlasTrenDuoi.plist",
+        "AtlasTrenDuoi/atlasTrenDuoi.png",
+        "UIButtonBetTrenDuoi.json",
+        "UIButtonSupportTrenDuoi.json",
+        "UICompoAnalytics.json",
+        "UICompoChatTrenDuoi.json",
+        "UICompoHistoryTrenDuoi.json",
+        "UICompoInfoTrenDuoi.json",
+        "UICompoTopWinTrenDuoi.json",
+        "UIHubTrenDuoi.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,1726 @@
+{
+  "ID": "3c400d3c-754e-4b37-8396-9835e397bccd",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupTradeHistory",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 140,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 202,
+            "Scale9OriginY": 64,
+            "Scale9Width": 95,
+            "Scale9Height": 124,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7789,
+              "Y": 0.7597
+            },
+            "LeftMargin": 141.5,
+            "RightMargin": 141.5,
+            "TopMargin": 86.5,
+            "BottomMargin": 86.5,
+            "Tag": 150,
+            "ActionTag": 1967271527,
+            "Size": {
+              "X": 997.0,
+              "Y": 547.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 43,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1107.2925,
+              "Y": 606.9394
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8651,
+              "Y": 0.843
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 1077.7925,
+            "RightMargin": 143.2075,
+            "TopMargin": 88.0606,
+            "BottomMargin": 581.9394,
+            "Tag": 149,
+            "ActionTag": -26870169,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Lịch sử giao dịch",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 604.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8389
+            },
+            "PreSize": {
+              "X": 0.1922,
+              "Y": 0.0653
+            },
+            "LeftMargin": 517.0,
+            "RightMargin": 517.0,
+            "TopMargin": 92.4999,
+            "BottomMargin": 580.5001,
+            "Tag": 234,
+            "ActionTag": 356155031,
+            "Size": {
+              "X": 246.0,
+              "Y": 47.0
+            },
+            "Name": "MGTittle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": -302,
+            "Scale9OriginY": 13,
+            "Scale9Width": 681,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.0,
+              "Y": 562.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.7806
+            },
+            "PreSize": {
+              "X": 0.7758,
+              "Y": 0.0514
+            },
+            "LeftMargin": 142.5,
+            "RightMargin": 144.5,
+            "TopMargin": 139.5,
+            "BottomMargin": 543.5,
+            "Tag": 233,
+            "ActionTag": 770999048,
+            "Size": {
+              "X": 993.0,
+              "Y": 37.0
+            },
+            "Name": "MGBGHeader",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGHeaderTrade.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 12,
+            "Scale9Width": 15,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.7633,
+              "Y": 0.0542
+            },
+            "LeftMargin": 150.5,
+            "RightMargin": 152.5,
+            "TopMargin": 185.5,
+            "BottomMargin": 495.5,
+            "Tag": 254,
+            "ActionTag": -152494943,
+            "Size": {
+              "X": 977.0,
+              "Y": 39.0
+            },
+            "Name": "BGHeaderTrade",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Mã GD",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 214.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1672,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.0984,
+              "Y": 0.0514
+            },
+            "LeftMargin": 151.0,
+            "RightMargin": 1003.0,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 255,
+            "ActionTag": 1976068383,
+            "Size": {
+              "X": 126.0,
+              "Y": 37.0
+            },
+            "Name": "TitleMGD",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Thời gian",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 346.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2703,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0514
+            },
+            "LeftMargin": 276.0,
+            "RightMargin": 864.0,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 258,
+            "ActionTag": 314284377,
+            "Size": {
+              "X": 140.0,
+              "Y": 37.0
+            },
+            "Name": "TitleTG",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Dịch vụ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 501.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3914,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.1328,
+              "Y": 0.0514
+            },
+            "LeftMargin": 416.0,
+            "RightMargin": 694.0,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 260,
+            "ActionTag": 1974238068,
+            "Size": {
+              "X": 170.0,
+              "Y": 37.0
+            },
+            "Name": "TitleDV",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Phát sinh",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4984,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.0828,
+              "Y": 0.0514
+            },
+            "LeftMargin": 585.0,
+            "RightMargin": 589.0,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 262,
+            "ActionTag": 1232430407,
+            "Size": {
+              "X": 106.0,
+              "Y": 37.0
+            },
+            "Name": "TitlePS",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Số dư",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 750.0,
+              "Y": 515.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5859,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.0922,
+              "Y": 0.0514
+            },
+            "LeftMargin": 691.0,
+            "RightMargin": 471.0,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 264,
+            "ActionTag": 453175683,
+            "Size": {
+              "X": 118.0,
+              "Y": 37.0
+            },
+            "Name": "TitleSD",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Mô tả",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 916.9999,
+              "Y": 514.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7164,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.168,
+              "Y": 0.0514
+            },
+            "LeftMargin": 809.4999,
+            "RightMargin": 255.5001,
+            "TopMargin": 186.5001,
+            "BottomMargin": 496.4999,
+            "Tag": 266,
+            "ActionTag": 886091466,
+            "Size": {
+              "X": 215.0,
+              "Y": 37.0
+            },
+            "Name": "TitleMT",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 21,
+            "LabelText": "Chi tiết",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RobotoMedium.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4503,
+              "ScaleY": 0.6199
+            },
+            "Position": {
+              "X": 1070.4702,
+              "Y": 519.4373
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8363,
+              "Y": 0.7214
+            },
+            "PreSize": {
+              "X": 0.0812,
+              "Y": 0.0514
+            },
+            "LeftMargin": 1023.6388,
+            "RightMargin": 152.3612,
+            "TopMargin": 186.5,
+            "BottomMargin": 496.5,
+            "Tag": 268,
+            "ActionTag": 357018879,
+            "Size": {
+              "X": 104.0,
+              "Y": 37.0
+            },
+            "Name": "TitleCT",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 151.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.118,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 151.0,
+            "RightMargin": 720.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 257,
+            "ActionTag": 1000002756,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 277.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2164,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 277.0,
+            "RightMargin": 594.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 256,
+            "ActionTag": 1700882819,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 416.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.325,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 416.0,
+            "RightMargin": 455.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 259,
+            "ActionTag": -1547140506,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4578,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 586.0,
+            "RightMargin": 285.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 261,
+            "ActionTag": 669381141,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 691.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5398,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 691.0,
+            "RightMargin": 180.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 263,
+            "ActionTag": 293922987,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 809.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.632,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 809.0,
+            "RightMargin": 62.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 265,
+            "ActionTag": 1659353750,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1024.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 1024.0,
+            "RightMargin": -153.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 267,
+            "ActionTag": -2129232888,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV7",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1127.0,
+              "Y": 534.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8805,
+              "Y": 0.7417
+            },
+            "PreSize": {
+              "X": 0.3195,
+              "Y": 0.0014
+            },
+            "LeftMargin": 1127.0,
+            "RightMargin": -256.0,
+            "TopMargin": 185.5,
+            "BottomMargin": 533.5,
+            "Tag": 269,
+            "ActionTag": -1351685971,
+            "Size": {
+              "X": 409.0,
+              "Y": 1.0
+            },
+            "Name": "LineV8",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineOpacity.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.0001,
+              "Y": 126.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.175
+            },
+            "PreSize": {
+              "X": 0.7633,
+              "Y": 0.0014
+            },
+            "LeftMargin": 150.5001,
+            "RightMargin": 152.4999,
+            "TopMargin": 593.5,
+            "BottomMargin": 125.5,
+            "Tag": 331,
+            "ActionTag": -527949601,
+            "Size": {
+              "X": 977.0,
+              "Y": 1.0
+            },
+            "Name": "LineH",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 544.9999,
+              "Y": 561.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4258,
+              "Y": 0.7806
+            },
+            "PreSize": {
+              "X": 0.0734,
+              "Y": 0.0514
+            },
+            "LeftMargin": 497.9999,
+            "RightMargin": 688.0001,
+            "TopMargin": 139.5001,
+            "BottomMargin": 543.4999,
+            "Tag": 111,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2429,
+                  "Y": 13.6393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.3686
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2703
+                },
+                "LeftMargin": 0.2429,
+                "RightMargin": -0.2429,
+                "TopMargin": -0.1393,
+                "BottomMargin": -9.8607,
+                "Tag": 235,
+                "ActionTag": -1812002879,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 47.0
+                },
+                "Name": "TabSelectChoiXu",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "Chơi Xu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/RobotoMedium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2428,
+                  "Y": 17.6395
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.4767
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.2428,
+                "RightMargin": -0.2428,
+                "TopMargin": 0.8605,
+                "BottomMargin": -0.8605,
+                "Tag": 242,
+                "ActionTag": -425233615,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 37.0
+                },
+                "Name": "txtChoiXu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1810591044,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Alpha": 232,
+            "Name": "ButtonChoiXu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.9999,
+              "Y": 561.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.7806
+            },
+            "PreSize": {
+              "X": 0.0734,
+              "Y": 0.0514
+            },
+            "LeftMargin": 591.9999,
+            "RightMargin": 594.0001,
+            "TopMargin": 139.5001,
+            "BottomMargin": 543.4999,
+            "Tag": 112,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2429,
+                  "Y": 13.6393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.3686
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2703
+                },
+                "LeftMargin": 0.2429,
+                "RightMargin": -0.2429,
+                "TopMargin": -0.1393,
+                "BottomMargin": -9.8607,
+                "Tag": 113,
+                "ActionTag": -1144565869,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 47.0
+                },
+                "Name": "TabSelectNapXu",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "Nạp Xu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/RobotoMedium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2428,
+                  "Y": 17.6395
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.4767
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.2428,
+                "RightMargin": -0.2428,
+                "TopMargin": 0.8605,
+                "BottomMargin": -0.8605,
+                "Tag": 114,
+                "ActionTag": -414449593,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 37.0
+                },
+                "Name": "txtNapXu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -828435619,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Alpha": 232,
+            "Name": "ButtonNapXu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundTab.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 20,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 733.0,
+              "Y": 561.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5727,
+              "Y": 0.7806
+            },
+            "PreSize": {
+              "X": 0.0734,
+              "Y": 0.0514
+            },
+            "LeftMargin": 686.0,
+            "RightMargin": 500.0,
+            "TopMargin": 139.5001,
+            "BottomMargin": 543.4999,
+            "Tag": 115,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonTabOn.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2429,
+                  "Y": 13.6393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.3686
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.2703
+                },
+                "LeftMargin": 0.2429,
+                "RightMargin": -0.2429,
+                "TopMargin": -0.1393,
+                "BottomMargin": -9.8607,
+                "Tag": 116,
+                "ActionTag": 1532504639,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 47.0
+                },
+                "Name": "TabSelectDoiXu",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "Tiêu Xu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/RobotoMedium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.2428,
+                  "Y": 17.6395
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.4767
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.2428,
+                "RightMargin": -0.2428,
+                "TopMargin": 0.8605,
+                "BottomMargin": -0.8605,
+                "Tag": 117,
+                "ActionTag": -1526040576,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 37.0
+                },
+                "Name": "txtDoiXu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1069252622,
+            "Size": {
+              "X": 94.0,
+              "Y": 37.0
+            },
+            "Alpha": 232,
+            "Name": "ButtonDoiXu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 643.6913,
+              "Y": 497.5191
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5029,
+              "Y": 0.691
+            },
+            "PreSize": {
+              "X": 0.7617,
+              "Y": 0.5139
+            },
+            "LeftMargin": 156.1913,
+            "RightMargin": 148.8087,
+            "TopMargin": 222.4809,
+            "BottomMargin": 127.5191,
+            "Tag": 164,
+            "ActionTag": -263593239,
+            "Size": {
+              "X": 975.0,
+              "Y": 370.0
+            },
+            "Name": "panelGiaoDich",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 113.0
+            },
+            "Scale": {
+              "ScaleX": 1.05,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1569
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 607.0,
+            "BottomMargin": 113.0,
+            "Tag": 45,
+            "ActionTag": -1020850087,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "PageNum",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/RobotoMedium.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

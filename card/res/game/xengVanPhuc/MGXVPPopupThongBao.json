@@ -1,0 +1,247 @@
+{
+  "ID": "26db6093-d52c-43d1-900e-5602498dfed4",
+  "Version": "3.10.0.0",
+  "Name": "MGXVPPopupThongBao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 624,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Group-2.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucPopup.plist"
+            },
+            "Scale9OriginX": 358,
+            "Scale9OriginY": 214,
+            "Scale9Width": 371,
+            "Scale9Height": 223,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 646.0591,
+              "Y": 364.4145
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 102.5591,
+            "RightMargin": -1189.5591,
+            "TopMargin": -689.9145,
+            "BottomMargin": 38.9145,
+            "Tag": 680,
+            "ActionTag": 777925663,
+            "Size": {
+              "X": 1087.0,
+              "Y": 651.0
+            },
+            "Name": "MGBackgroundTL",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "textThongBao.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucPopup.plist"
+            },
+            "Scale9OriginX": 80,
+            "Scale9OriginY": 14,
+            "Scale9Width": 85,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.0129,
+              "Y": 639.7999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 524.5129,
+            "RightMargin": -769.5129,
+            "TopMargin": -662.2999,
+            "BottomMargin": 617.2999,
+            "Tag": 681,
+            "ActionTag": -62276095,
+            "Size": {
+              "X": 245.0,
+              "Y": 45.0
+            },
+            "Name": "MGTitleThongBao",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 99,
+              "G": 1,
+              "B": 22
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 145.7388,
+              "Y": 598.0361
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 99,
+              "G": 1,
+              "B": 22
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 145.7388,
+            "RightMargin": -1145.7388,
+            "TopMargin": -598.0361,
+            "BottomMargin": 148.0361,
+            "Tag": 677,
+            "ActionTag": -416029044,
+            "Size": {
+              "X": 1000.0,
+              "Y": 450.0
+            },
+            "Name": "MGListThongBao",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnBackToGame.png",
+              "Plist": "game/xengVanPhuc/Atlas/atlasXengVanPhucPopup.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 525,
+            "Scale9Height": 104,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 646.058,
+              "Y": 90.1013
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 462.058,
+            "RightMargin": -830.058,
+            "TopMargin": -131.1013,
+            "BottomMargin": 49.1013,
+            "Tag": 678,
+            "ActionTag": -1314042894,
+            "Size": {
+              "X": 368.0,
+              "Y": 82.0
+            },
+            "Name": "MGButtonBackGame",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/atlasXengVanPhucPopup.plist",
+        "Atlas/atlasXengVanPhucPopup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

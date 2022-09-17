@@ -1,0 +1,313 @@
+{
+  "ID": "0643637c-1d06-4557-ab80-87b45309dd9e",
+  "Version": "3.10.0.0",
+  "Name": "UICompoInfoTrenDuoi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 482,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_chat_background.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 113,
+            "Scale9OriginY": 113,
+            "Scale9Width": 118,
+            "Scale9Height": 117,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.6262,
+              "Y": -0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -389.8738,
+            "RightMargin": -393.1262,
+            "TopMargin": -235.4999,
+            "BottomMargin": -235.5001,
+            "Tag": 483,
+            "ActionTag": 1016122397,
+            "Size": {
+              "X": 783.0,
+              "Y": 471.0
+            },
+            "Name": "MGCompoInfoBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_close.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 21,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 386.9581,
+              "Y": 230.0035
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 365.4581,
+            "RightMargin": -408.4581,
+            "TopMargin": -251.5035,
+            "BottomMargin": 208.5035,
+            "Tag": 484,
+            "ActionTag": 359361668,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "Name": "MGCompoInfoButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "HƯỚNG DẪN",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.8985,
+              "Y": 204.9234
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 248,
+              "G": 189,
+              "B": 8
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -95.1015,
+            "RightMargin": -96.8985,
+            "TopMargin": -229.9234,
+            "BottomMargin": 179.9234,
+            "Tag": 489,
+            "ActionTag": -1541723159,
+            "Size": {
+              "X": 192.0,
+              "Y": 50.0
+            },
+            "Name": "MGCompoInfoTitle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 760,
+              "Height": 400
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -383.0,
+              "Y": -216.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -383.0,
+            "RightMargin": -377.0,
+            "TopMargin": -184.0,
+            "BottomMargin": -216.0,
+            "Tag": 146,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 15,
+                "LabelText": "Game Trên Dưới có nguồn gốc từ Trung Quốc, là trò chơi dựa trên 3 viên xí ngầu - mỗi viên xí ngầu có 6 mặt (1, 2, 3, 4, 5, 6), người chơi sẽ đặt cược kết quả của những viên xí ngầu sau mỗi lần quay. Cụ thể, nếu tổng số trên 3 mặt xí ngầu từ 3 - 10 điểm thì đó là Dưới, còn từ 11 - 18 điểm là Trên.\n\n1. Cách chơi\n- Bước 1: Chọn \"Đặt cược\" ở bên Trên hoặc Dưới\n- Bước 2: Chọn số Xu muốn dự đoán\n- Bước 3: Theo dõi kết quả để biết thắng hoặc thua\n\n2. Cách tính tiền thắng thua:\n- Số tiền nhận được khi chiến thắng được tính như sau:\n   Tiền thắng = Tiền cược x 2 - Tiền thắng x % phế",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 378.9199,
+                  "Y": 198.5454
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4986,
+                  "Y": 0.4964
+                },
+                "PreSize": {
+                  "X": 0.9474,
+                  "Y": 0.4854
+                },
+                "LeftMargin": 18.9199,
+                "RightMargin": 21.0801,
+                "TopMargin": 1.4546,
+                "BottomMargin": -1.4546,
+                "Tag": 147,
+                "ActionTag": -1345084866,
+                "Size": {
+                  "X": 720.0,
+                  "Y": 400.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1506997487,
+            "Size": {
+              "X": 760.0,
+              "Y": 400.0
+            },
+            "Name": "ScrollView_1",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "AtlasTrenDuoi/atlasTrenDuoi.plist",
+        "AtlasTrenDuoi/atlasTrenDuoi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,298 @@
+{
+  "ID": "c8d3ce87-4d30-43f6-8d30-d5355f64844e",
+  "Version": "3.10.0.0",
+  "Name": "MGDMNodeHistory",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 60,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RectBorder2.png",
+              "Plist": "game/minigame/daoMo/Atlas/atlasDaoMo.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 14,
+            "Scale9Width": 17,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -300.0,
+            "RightMargin": -300.0,
+            "TopMargin": -20.0,
+            "BottomMargin": -20.0,
+            "Tag": 62,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "000000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.8777,
+                  "Y": 19.9398
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0948,
+                  "Y": 0.4985
+                },
+                "PreSize": {
+                  "X": 0.1133,
+                  "Y": 0.575
+                },
+                "LeftMargin": 22.8777,
+                "RightMargin": 509.1223,
+                "TopMargin": 8.5602,
+                "BottomMargin": 8.4398,
+                "Tag": 64,
+                "ActionTag": 2010358792,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_Phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "20-02-2020",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 192.044,
+                  "Y": 19.9397
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3201,
+                  "Y": 0.4985
+                },
+                "PreSize": {
+                  "X": 0.17,
+                  "Y": 0.575
+                },
+                "LeftMargin": 141.044,
+                "RightMargin": 356.956,
+                "TopMargin": 8.5603,
+                "BottomMargin": 8.4397,
+                "Tag": 65,
+                "ActionTag": 445497996,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_Time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "30.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 347.5582,
+                  "Y": 19.9398
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5793,
+                  "Y": 0.4985
+                },
+                "PreSize": {
+                  "X": 0.17,
+                  "Y": 0.575
+                },
+                "LeftMargin": 296.5582,
+                "RightMargin": 201.4418,
+                "TopMargin": 8.5602,
+                "BottomMargin": 8.4398,
+                "Tag": 66,
+                "ActionTag": -722968586,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_Bet",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "30.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 518.5208,
+                  "Y": 19.9397
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8642,
+                  "Y": 0.4985
+                },
+                "PreSize": {
+                  "X": 0.17,
+                  "Y": 0.575
+                },
+                "LeftMargin": 467.5208,
+                "RightMargin": 30.4792,
+                "TopMargin": 8.5603,
+                "BottomMargin": 8.4397,
+                "Tag": 67,
+                "ActionTag": -2090845807,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_Win",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 567609488,
+            "Size": {
+              "X": 600.0,
+              "Y": 40.0
+            },
+            "Name": "Image_BG",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "Atlas/atlasDaoMo.plist",
+        "Atlas/atlasDaoMo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

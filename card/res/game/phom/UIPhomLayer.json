@@ -1,0 +1,1853 @@
+{
+  "ID": "842905d2-23b0-4f93-ba23-10794f1b20e2",
+  "Version": "3.10.0.0",
+  "Name": "UIPhomLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tablePlay.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 354,
+            "Scale9OriginY": 164,
+            "Scale9Width": 366,
+            "Scale9Height": 169,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8391,
+              "Y": 0.6903
+            },
+            "LeftMargin": 103.0,
+            "RightMargin": 103.0,
+            "TopMargin": 111.5,
+            "BottomMargin": 111.5,
+            "Tag": 35,
+            "ActionTag": -1160518211,
+            "Size": {
+              "X": 1074.0,
+              "Y": 497.0
+            },
+            "Name": "MGBackGround",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "PHỎM",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 623.0922,
+              "Y": 329.2428
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 52,
+              "G": 33,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4868,
+              "Y": 0.4573
+            },
+            "PreSize": {
+              "X": 0.0711,
+              "Y": 0.0694
+            },
+            "LeftMargin": 577.5922,
+            "RightMargin": 611.4078,
+            "TopMargin": 365.7572,
+            "BottomMargin": 304.2428,
+            "Tag": 36,
+            "ActionTag": 345967267,
+            "Size": {
+              "X": 91.0,
+              "Y": 50.0
+            },
+            "Alpha": 51,
+            "Name": "MGTitle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 3,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 261.4,
+                  "Y": 205.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 261.4,
+                "RightMargin": -261.4,
+                "TopMargin": -205.71,
+                "BottomMargin": 205.71,
+                "Tag": 4,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 109.4,
+                      "Y": -13.71
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 109.4,
+                    "RightMargin": -109.4,
+                    "TopMargin": 13.71,
+                    "BottomMargin": -13.71,
+                    "Tag": 19,
+                    "ActionTag": 1127639082,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCard",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 205.84,
+                      "Y": 105.34
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 205.84,
+                    "RightMargin": -205.84,
+                    "TopMargin": -105.34,
+                    "BottomMargin": 105.34,
+                    "Tag": 14,
+                    "ActionTag": 1887306834,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCarDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 547.02,
+                      "Y": 43.73
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 547.02,
+                    "RightMargin": -547.02,
+                    "TopMargin": -43.73,
+                    "BottomMargin": 43.73,
+                    "Tag": 24,
+                    "ActionTag": 2064334367,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxPhomDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 19,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.6098,
+                      "Y": 66.5902
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 254,
+                      "G": 243,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 30.1098,
+                    "RightMargin": -181.1098,
+                    "TopMargin": -78.5902,
+                    "BottomMargin": 54.5902,
+                    "Tag": 41,
+                    "ActionTag": -159999235,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 24.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "MGTxtScore",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 355439907,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1159.1,
+                  "Y": 390.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1159.1,
+                "RightMargin": -1159.1,
+                "TopMargin": -390.71,
+                "BottomMargin": 390.71,
+                "Tag": 5,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -100.8198,
+                      "Y": -68.1304
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.8198,
+                    "RightMargin": 100.8198,
+                    "TopMargin": 68.1304,
+                    "BottomMargin": -68.1304,
+                    "Tag": 20,
+                    "ActionTag": 2119757261,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCard",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -326.1,
+                      "Y": 3.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -326.1,
+                    "RightMargin": 326.1,
+                    "TopMargin": -3.5,
+                    "BottomMargin": 3.5,
+                    "Tag": 15,
+                    "ActionTag": 863481199,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCarDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -130.2926,
+                      "Y": 57.0999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -130.2926,
+                    "RightMargin": 130.2926,
+                    "TopMargin": -57.0999,
+                    "BottomMargin": 57.0999,
+                    "Tag": 25,
+                    "ActionTag": 1030832389,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxPhomDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 19,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -156.2225,
+                      "Y": -3.3898
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 254,
+                      "G": 243,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -231.7225,
+                    "RightMargin": 80.7225,
+                    "TopMargin": -8.6102,
+                    "BottomMargin": -15.3898,
+                    "Tag": 42,
+                    "ActionTag": 384533223,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 24.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "MGTxtScore",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 262027596,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1043.91,
+                  "Y": 581.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1043.91,
+                "RightMargin": -1043.91,
+                "TopMargin": -581.66,
+                "BottomMargin": 581.66,
+                "Tag": 6,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -110.1,
+                      "Y": 8.14
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -110.1,
+                    "RightMargin": 110.1,
+                    "TopMargin": -8.14,
+                    "BottomMargin": 8.14,
+                    "Tag": 21,
+                    "ActionTag": -1853277084,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCard",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -409.33,
+                      "Y": -78.75
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -409.33,
+                    "RightMargin": 409.33,
+                    "TopMargin": 78.75,
+                    "BottomMargin": -78.75,
+                    "Tag": 16,
+                    "ActionTag": -1346941252,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCarDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -230.52,
+                      "Y": -65.22
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -230.52,
+                    "RightMargin": 230.52,
+                    "TopMargin": 65.22,
+                    "BottomMargin": -65.22,
+                    "Tag": 26,
+                    "ActionTag": 167441107,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxPhomDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 19,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -137.96,
+                      "Y": 71.8504
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 254,
+                      "G": 243,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -213.46,
+                    "RightMargin": 62.46,
+                    "TopMargin": -83.8504,
+                    "BottomMargin": 59.8504,
+                    "Tag": 43,
+                    "ActionTag": 1281370996,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 24.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "MGTxtScore",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -398056011,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 163.15,
+                  "Y": 532.88
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 163.15,
+                "RightMargin": -163.15,
+                "TopMargin": -532.88,
+                "BottomMargin": 532.88,
+                "Tag": 7,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 99.87,
+                      "Y": -61.72
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 99.87,
+                    "RightMargin": -99.87,
+                    "TopMargin": 61.72,
+                    "BottomMargin": -61.72,
+                    "Tag": 22,
+                    "ActionTag": -97361616,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCard",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 253.38,
+                      "Y": -71.01
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 253.38,
+                    "RightMargin": -253.38,
+                    "TopMargin": 71.01,
+                    "BottomMargin": -71.01,
+                    "Tag": 17,
+                    "ActionTag": 1617801666,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxCarDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 96.75,
+                      "Y": -179.71
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 96.75,
+                    "RightMargin": -96.75,
+                    "TopMargin": 179.71,
+                    "BottomMargin": -179.71,
+                    "Tag": 27,
+                    "ActionTag": 151033849,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "MGBoxPhomDown",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 19,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.1614,
+                      "Y": 1.4007
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 254,
+                      "G": 243,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 51.6614,
+                    "RightMargin": -202.6614,
+                    "TopMargin": -13.4007,
+                    "BottomMargin": -10.5993,
+                    "Tag": 44,
+                    "ActionTag": -787685302,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 24.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "MGTxtScore",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1067338623,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_4",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 724695016,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGContainUser",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 8,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 261.4,
+                  "Y": 205.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 261.4,
+                "RightMargin": -261.4,
+                "TopMargin": -205.71,
+                "BottomMargin": 205.71,
+                "Tag": 9,
+                "ActionTag": 485213382,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "EffectPos1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1159.1,
+                  "Y": 390.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1159.1,
+                "RightMargin": -1159.1,
+                "TopMargin": -390.71,
+                "BottomMargin": 390.71,
+                "Tag": 10,
+                "ActionTag": 1291758044,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "EffectPos2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1043.91,
+                  "Y": 581.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1043.91,
+                "RightMargin": -1043.91,
+                "TopMargin": -581.66,
+                "BottomMargin": 581.66,
+                "Tag": 11,
+                "ActionTag": -1234058696,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "EffectPos3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 163.15,
+                  "Y": 532.88
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 163.15,
+                "RightMargin": -163.15,
+                "TopMargin": -532.88,
+                "BottomMargin": 532.88,
+                "Tag": 12,
+                "ActionTag": 1914125749,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "EffectPos4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 641.212,
+                  "Y": 500.1006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 641.212,
+                "RightMargin": -641.212,
+                "TopMargin": -500.1006,
+                "BottomMargin": 500.1006,
+                "Tag": 253,
+                "ActionTag": -1035768023,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "BaseEffectPos",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 429265813,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGEffectPhom",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 18,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 623.9999,
+                  "Y": 397.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 623.9999,
+                "RightMargin": -623.9999,
+                "TopMargin": -397.05,
+                "BottomMargin": 397.05,
+                "Tag": 28,
+                "ActionTag": 1243726348,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCardRoot",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 598.55
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": -640.0,
+                "TopMargin": -598.55,
+                "BottomMargin": 598.55,
+                "Tag": 29,
+                "ActionTag": -797284347,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGDealer",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -2026860534,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGBoxCardNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 30,
+            "Children": [
+              {
+                "FontSize": 23,
+                "ButtonText": "Ù",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btnLight.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 687.6198,
+                  "Y": 64.28
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 622.6198,
+                "RightMargin": -752.6198,
+                "TopMargin": -101.78,
+                "BottomMargin": 26.78,
+                "Tag": 37,
+                "ActionTag": -1330598636,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_U",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "ĂN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btnLight.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1136.2406,
+                  "Y": 66.2799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1071.2406,
+                "RightMargin": -1201.2406,
+                "TopMargin": -103.7799,
+                "BottomMargin": 28.7799,
+                "Tag": 38,
+                "ActionTag": -1672073526,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_An",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "XẾP BÀI",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.6959,
+                  "Y": 66.2799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 921.6959,
+                "RightMargin": -1051.6959,
+                "TopMargin": -103.7799,
+                "BottomMargin": 28.7799,
+                "Tag": 39,
+                "ActionTag": -649225573,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_XepBai",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "ĐÁNH",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1136.2406,
+                  "Y": 66.2799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1071.2406,
+                "RightMargin": -1201.2406,
+                "TopMargin": -103.7799,
+                "BottomMargin": 28.7799,
+                "Tag": 40,
+                "ActionTag": -801289902,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_Danh",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "GỬI",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 837.1598,
+                  "Y": 66.2799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 772.1598,
+                "RightMargin": -902.1598,
+                "TopMargin": -103.7799,
+                "BottomMargin": 28.7799,
+                "Tag": 41,
+                "ActionTag": -254488331,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_Gui",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "BỐC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 837.1598,
+                  "Y": 64.28
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 772.1598,
+                "RightMargin": -902.1598,
+                "TopMargin": -101.78,
+                "BottomMargin": 26.78,
+                "Tag": 42,
+                "ActionTag": -587721680,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_Boc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "HẠ TỰ ĐỘNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.6998,
+                  "Y": 64.28
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 921.6998,
+                "RightMargin": -1051.6998,
+                "TopMargin": -101.78,
+                "BottomMargin": 26.78,
+                "Tag": 43,
+                "ActionTag": -1551705833,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_HaTuDong",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 23,
+                "ButtonText": "HẠ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss CondensedBold_0.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnDisable.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BtnNormal.png",
+                  "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 100,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1136.2406,
+                  "Y": 64.28
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1071.2406,
+                "RightMargin": -1201.2406,
+                "TopMargin": -101.78,
+                "BottomMargin": 26.78,
+                "Tag": 44,
+                "ActionTag": -287573085,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 75.0
+                },
+                "Name": "MGButton_Ha",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1811392353,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonCombo",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Swiss CondensedBold_0.ttf",
+        "../Components/AtlasTable/AtlasTable.plist",
+        "../Components/AtlasTable/AtlasTable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,297 @@
+{
+  "ID": "b65a845b-8408-4280-9bf9-b1293c7e0482",
+  "Version": "3.10.0.0",
+  "Name": "UIDataCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 42,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "cell-dark.png",
+              "Plist": "game/sheep/Atlas/AtlastSheep.plist"
+            },
+            "Scale9OriginX": 84,
+            "Scale9OriginY": 5,
+            "Scale9Width": 88,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.2817
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -128.0,
+            "RightMargin": -128.0,
+            "TopMargin": -9.2817,
+            "BottomMargin": -8.7183,
+            "Tag": 43,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 10,
+                "LabelText": "73",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.2148,
+                  "Y": 8.4294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1141,
+                  "Y": 0.4683
+                },
+                "PreSize": {
+                  "X": 0.1953,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 4.2148,
+                "RightMargin": 201.7852,
+                "TopMargin": 2.0706,
+                "BottomMargin": 0.9294,
+                "Tag": 44,
+                "ActionTag": -2976562,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 15.0
+                },
+                "Name": "Text_Phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 10,
+                "LabelText": "12445",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.9102,
+                  "Y": 8.4294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3434,
+                  "Y": 0.4683
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.7222
+                },
+                "LeftMargin": 72.9102,
+                "RightMargin": 153.0898,
+                "TopMargin": 3.0706,
+                "BottomMargin": 1.9294,
+                "Tag": 45,
+                "ActionTag": 396357442,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 13.0
+                },
+                "Name": "Text_Bet",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 10,
+                "LabelText": "10.000.000",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.8765,
+                  "Y": 9.1052
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6089,
+                  "Y": 0.5058
+                },
+                "PreSize": {
+                  "X": 0.2109,
+                  "Y": 0.7222
+                },
+                "LeftMargin": 128.8765,
+                "RightMargin": 73.1235,
+                "TopMargin": 2.3948,
+                "BottomMargin": 2.6052,
+                "Tag": 46,
+                "ActionTag": 1145737953,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 13.0
+                },
+                "Name": "Text_Win",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 10,
+                "LabelText": "12445",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.0655,
+                  "Y": 8.4294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8753,
+                  "Y": 0.4683
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.7222
+                },
+                "LeftMargin": 209.0655,
+                "RightMargin": 16.9345,
+                "TopMargin": 3.0706,
+                "BottomMargin": 1.9294,
+                "Tag": 47,
+                "ActionTag": 1134571907,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 13.0
+                },
+                "Name": "Text_Step",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1858456636,
+            "Size": {
+              "X": 256.0,
+              "Y": 18.0
+            },
+            "Name": "MGbackGround",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/AtlastSheep.plist",
+        "Atlas/AtlastSheep.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

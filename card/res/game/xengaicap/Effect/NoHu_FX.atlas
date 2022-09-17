@@ -1,0 +1,90 @@
+
+NoHu_FX.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Coin0001
+  rotate: false
+  xy: 2, 61
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+images/Coin0002
+  rotate: false
+  xy: 374, 172
+  size: 69, 77
+  orig: 77, 77
+  offset: 1, 0
+  index: -1
+images/Coin0003
+  rotate: false
+  xy: 229, 61
+  size: 40, 77
+  orig: 77, 77
+  offset: 15, 0
+  index: -1
+images/Coin0004
+  rotate: true
+  xy: 297, 151
+  size: 19, 77
+  orig: 77, 77
+  offset: 31, 0
+  index: -1
+images/Coin0005
+  rotate: true
+  xy: 2, 2
+  size: 57, 77
+  orig: 77, 77
+  offset: 14, 0
+  index: -1
+images/Coin0006
+  rotate: false
+  xy: 297, 172
+  size: 75, 77
+  orig: 77, 77
+  offset: 2, 0
+  index: -1
+images/Coin0007
+  rotate: false
+  xy: 81, 61
+  size: 75, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+images/Coin0008
+  rotate: false
+  xy: 445, 172
+  size: 57, 77
+  orig: 77, 77
+  offset: 6, 0
+  index: -1
+images/Coin0009
+  rotate: false
+  xy: 271, 61
+  size: 19, 77
+  orig: 77, 77
+  offset: 27, 0
+  index: -1
+images/Coin0010
+  rotate: true
+  xy: 81, 19
+  size: 40, 77
+  orig: 77, 77
+  offset: 22, 0
+  index: -1
+images/Coin0011
+  rotate: false
+  xy: 158, 61
+  size: 69, 77
+  orig: 77, 77
+  offset: 7, 0
+  index: -1
+images/nohu
+  rotate: false
+  xy: 2, 140
+  size: 293, 109
+  orig: 293, 109
+  offset: 0, 0
+  index: -1

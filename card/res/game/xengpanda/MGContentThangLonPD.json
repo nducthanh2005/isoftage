@@ -1,0 +1,385 @@
+{
+  "ID": "e06024d1-7093-4d4d-a6fa-aca5bb9ca65e",
+  "Version": "3.10.0.0",
+  "Name": "MGContentThangLonPD",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 299,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGThangLonPD.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 280,
+            "Scale9OriginY": 14,
+            "Scale9Width": 301,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -430.5,
+            "RightMargin": -430.5,
+            "TopMargin": -22.0,
+            "BottomMargin": -22.0,
+            "Tag": 307,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "STT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 7,
+                  "B": 66
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.7874,
+                  "Y": 21.507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0752,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.1463,
+                  "Y": 0.5909
+                },
+                "LeftMargin": 1.7874,
+                "RightMargin": 733.2126,
+                "TopMargin": 9.493,
+                "BottomMargin": 8.507,
+                "Tag": 308,
+                "ActionTag": 645577551,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 26.0
+                },
+                "Name": "TextSTTPanda",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "MTK",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 7,
+                  "B": 66
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 227.3198,
+                  "Y": 21.507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.264,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.2311,
+                  "Y": 0.5227
+                },
+                "LeftMargin": 127.8198,
+                "RightMargin": 534.1802,
+                "TopMargin": 10.993,
+                "BottomMargin": 10.007,
+                "Tag": 309,
+                "ActionTag": 2104546203,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 23.0
+                },
+                "Name": "TextMTKPanda",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "NICKNAME",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 7,
+                  "B": 66
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 418.3096,
+                  "Y": 21.507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4858,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.2091,
+                  "Y": 0.5
+                },
+                "LeftMargin": 328.3096,
+                "RightMargin": 352.6904,
+                "TopMargin": 11.493,
+                "BottomMargin": 10.507,
+                "Tag": 310,
+                "ActionTag": 1285877132,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 22.0
+                },
+                "Name": "TextNickNamePanda",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "KET QUA",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 7,
+                  "B": 66
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 587.5649,
+                  "Y": 21.507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6824,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.1754,
+                  "Y": 0.5
+                },
+                "LeftMargin": 512.0649,
+                "RightMargin": 197.9351,
+                "TopMargin": 11.493,
+                "BottomMargin": 10.507,
+                "Tag": 311,
+                "ActionTag": 1716814758,
+                "Size": {
+                  "X": 151.0,
+                  "Y": 22.0
+                },
+                "Name": "TextDongTrungPanda",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "TIEN THANG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 762.7573,
+                  "Y": 21.507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 23,
+                  "G": 164,
+                  "B": 222
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8859,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.2207,
+                  "Y": 0.5
+                },
+                "LeftMargin": 667.7573,
+                "RightMargin": 3.2427,
+                "TopMargin": 11.493,
+                "BottomMargin": 10.507,
+                "Tag": 312,
+                "ActionTag": -1798516705,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 22.0
+                },
+                "Name": "TextTienTrungPanda",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1592510256,
+            "Size": {
+              "X": 861.0,
+              "Y": 44.0
+            },
+            "Name": "BackGroundContentTLPD",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "Atlas/AtlasXengPanda.plist",
+        "Atlas/AtlasXengPanda.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

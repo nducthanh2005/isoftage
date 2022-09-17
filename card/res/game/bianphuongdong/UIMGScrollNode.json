@@ -1,0 +1,303 @@
+{
+  "ID": "2b0907eb-b2d2-4223-96cc-baa20584a2ef",
+  "Version": "3.10.0.0",
+  "Name": "UIMGScrollNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5409,
+              "Y": 972.1401
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0409,
+            "RightMargin": -180.0409,
+            "TopMargin": -1060.1401,
+            "BottomMargin": 884.1401,
+            "Tag": 1178,
+            "ActionTag": -1529457612,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5409,
+              "Y": 801.5612
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0409,
+            "RightMargin": -180.0409,
+            "TopMargin": -889.5612,
+            "BottomMargin": 713.5612,
+            "Tag": 1179,
+            "ActionTag": 579565856,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5408,
+              "Y": 623.4023
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0408,
+            "RightMargin": -180.0408,
+            "TopMargin": -711.4023,
+            "BottomMargin": 535.4023,
+            "Tag": 1180,
+            "ActionTag": 77412894,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5409,
+              "Y": 427.6701
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0409,
+            "RightMargin": -180.0409,
+            "TopMargin": -515.6701,
+            "BottomMargin": 339.6701,
+            "Tag": 9,
+            "ActionTag": -855951500,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5409,
+              "Y": 257.0914
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0409,
+            "RightMargin": -180.0409,
+            "TopMargin": -345.0914,
+            "BottomMargin": 169.0914,
+            "Tag": 10,
+            "ActionTag": -1382848553,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Item1.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasItem/AtlasItemsBAPD.plist"
+            },
+            "Scale9OriginX": 61,
+            "Scale9OriginY": 64,
+            "Scale9Width": 45,
+            "Scale9Height": 48,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.5409,
+              "Y": 78.9301
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 13.0409,
+            "RightMargin": -180.0409,
+            "TopMargin": -166.9301,
+            "BottomMargin": -9.0699,
+            "Tag": 11,
+            "ActionTag": -2006598927,
+            "Size": {
+              "X": 167.0,
+              "Y": 176.0
+            },
+            "Name": "Item0",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "atlas/AtlasItem/AtlasItemsBAPD.plist",
+        "atlas/AtlasItem/AtlasItemsBAPD.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

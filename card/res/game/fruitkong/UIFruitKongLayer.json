@@ -1,0 +1,1300 @@
+{
+  "ID": "1f3ec0f4-be77-41a3-9ca6-f01896c152d9",
+  "Version": "3.10.0.0",
+  "Name": "UIFruitKongLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "gameboard.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9OriginX": 427,
+            "Scale9OriginY": 237,
+            "Scale9Width": 442,
+            "Scale9Height": 246,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 634.707,
+              "Y": 360.3715
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4959,
+              "Y": 0.5005
+            },
+            "PreSize": {
+              "X": 1.0125,
+              "Y": 1.0
+            },
+            "LeftMargin": -13.293,
+            "RightMargin": -2.707,
+            "TopMargin": -0.3715,
+            "BottomMargin": 0.3715,
+            "Tag": 1187,
+            "ActionTag": 886801938,
+            "Size": {
+              "X": 1296.0,
+              "Y": 720.0
+            },
+            "Name": "MGGameBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -2.7816,
+              "Y": 9.3353
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": -0.0022,
+              "Y": 0.013
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -2.7816,
+            "RightMargin": 1282.7816,
+            "TopMargin": 710.6647,
+            "BottomMargin": 9.3353,
+            "Tag": 463,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/fruitkong/UIButton3Collumn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 628.9177,
+                  "Y": 361.1541
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 628.9177,
+                "RightMargin": -628.9177,
+                "TopMargin": -361.1541,
+                "BottomMargin": 361.1541,
+                "Tag": 139,
+                "ActionTag": -1864097362,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGButtonChon3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/fruitkong/UIButton2Collumn.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 628.9177,
+                  "Y": 361.1541
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 628.9177,
+                "RightMargin": -628.9177,
+                "TopMargin": -361.1541,
+                "BottomMargin": 361.1541,
+                "Tag": 275,
+                "ActionTag": -1679442215,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGButtonChon2",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -1652536641,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGGameBoard",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIFruitKongButton.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 627.4667,
+              "Y": 116.5943
+            },
+            "Scale": {
+              "ScaleX": 0.96,
+              "ScaleY": 0.96
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4902,
+              "Y": 0.1619
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 627.4667,
+            "RightMargin": 652.5333,
+            "TopMargin": 603.4057,
+            "BottomMargin": 116.5943,
+            "Tag": 198,
+            "ActionTag": 46851641,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGButtonCompo",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 19,
+            "LabelText": "9.000.000.000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM HelveBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 156.9365,
+              "Y": 586.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 253,
+              "G": 240,
+              "B": 135
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1226,
+              "Y": 0.8146
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0292
+            },
+            "LeftMargin": 86.9365,
+            "RightMargin": 1053.0635,
+            "TopMargin": 122.96,
+            "BottomMargin": 576.04,
+            "Tag": 213,
+            "ActionTag": -1675731951,
+            "Size": {
+              "X": 140.0,
+              "Y": 21.0
+            },
+            "Name": "MGTextGold",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 19,
+            "LabelText": "#99999999",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM HelveBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 312.6603,
+              "Y": 586.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 254,
+              "G": 241,
+              "B": 217
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2443,
+              "Y": 0.8146
+            },
+            "PreSize": {
+              "X": 0.1172,
+              "Y": 0.0292
+            },
+            "LeftMargin": 237.6603,
+            "RightMargin": 892.3397,
+            "TopMargin": 122.96,
+            "BottomMargin": 576.04,
+            "Tag": 214,
+            "ActionTag": -232090538,
+            "Size": {
+              "X": 150.0,
+              "Y": 21.0
+            },
+            "Name": "MGTextTableNumber",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/fruitkong/UIButtonPhien.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1017.4452,
+              "Y": 577.6003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7949,
+              "Y": 0.8022
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1017.4452,
+            "RightMargin": 262.5548,
+            "TopMargin": 142.3997,
+            "BottomMargin": 577.6003,
+            "Tag": 317,
+            "ActionTag": -580288440,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGSessionInfo",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0001,
+              "Y": 3.9991
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0056
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.0001,
+            "RightMargin": 1280.0001,
+            "TopMargin": 716.0009,
+            "BottomMargin": 3.9991,
+            "Tag": 751,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 628.5115,
+                  "Y": 148.7599
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 628.5115,
+                "RightMargin": -628.5115,
+                "TopMargin": -148.7599,
+                "BottomMargin": 148.7599,
+                "Tag": 752,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/UTM HelveBold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {},
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 54,
+                      "G": 114,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -150.0,
+                    "RightMargin": -150.0,
+                    "TopMargin": -22.5,
+                    "BottomMargin": -22.5,
+                    "Tag": 1520,
+                    "ActionTag": -776945801,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 45.0
+                    },
+                    "Name": "MGLabelNhanThuong",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -242171556,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffectReceiveCoin",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -1779994687,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGEffectFruitKong",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 256.2757,
+              "Y": 307.9288
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2002,
+              "Y": 0.4277
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 256.2757,
+            "RightMargin": 1023.7242,
+            "TopMargin": 412.0712,
+            "BottomMargin": 307.9288,
+            "Tag": 3088,
+            "Children": [
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -164.7288,
+                  "Y": -184.2041
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -164.7288,
+                "RightMargin": -151.2712,
+                "TopMargin": -183.7959,
+                "BottomMargin": -184.2041,
+                "Tag": 2097,
+                "ActionTag": -317537308,
+                "Size": {
+                  "X": 316.0,
+                  "Y": 368.0
+                },
+                "Name": "MGListViewThongBao",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "ButtonText": "HƯỚNG DẪN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 112,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -91.1178,
+                  "Y": 218.5792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -165.1178,
+                "RightMargin": 17.1178,
+                "TopMargin": -242.0792,
+                "BottomMargin": 195.0792,
+                "Tag": 2099,
+                "ActionTag": 900534614,
+                "Size": {
+                  "X": 148.0,
+                  "Y": 47.0
+                },
+                "Name": "MGButtonHuongDan",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 22,
+                "ButtonText": "THÔNG BÁO",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 5,
+                "Scale9Width": 112,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.6605,
+                  "Y": 218.9558
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -4.3395,
+                "RightMargin": -143.6605,
+                "TopMargin": -242.4558,
+                "BottomMargin": 195.4558,
+                "Tag": 2100,
+                "ActionTag": -1982032684,
+                "Size": {
+                  "X": 148.0,
+                  "Y": 47.0
+                },
+                "Name": "MGButtonThongBao",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 316,
+                  "Height": 368
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -164.298,
+                  "Y": -182.675
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -164.298,
+                "RightMargin": -151.702,
+                "TopMargin": -185.325,
+                "BottomMargin": -182.675,
+                "Tag": 4457,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "- Người chơi cần dự đoán ô nào có trái cây và ô nào không có trái cây.\n- Nếu chọn đúng ô có trái cây bạn sẽ được khỉ Kong tặng thưởng.\n- Có 3 mức độ:\n   + Dễ: 2 trong 3 ô có trái cây\n   + Vừa: 1 trong 2 ô có trái cây\n   + Khó: 1 trong 3 ô có trái cây\n- Sau mỗi lần đoán đúng, người chơi có thể rút tiền về hoặc chơi tiếp để nhân số thắng của mình lên gấp nhiều lần.",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 157.4029,
+                      "Y": 182.6789
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 141,
+                      "G": 73,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4981,
+                      "Y": 0.4964
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": -0.5971,
+                    "RightMargin": 0.5971,
+                    "TopMargin": 1.3211,
+                    "BottomMargin": -1.3211,
+                    "Tag": 4458,
+                    "ActionTag": -460581766,
+                    "Size": {
+                      "X": 316.0,
+                      "Y": 368.0
+                    },
+                    "Name": "Text_140",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1045844249,
+                "Size": {
+                  "X": 316.0,
+                  "Y": 368.0
+                },
+                "Name": "MGListViewHuongDan",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": -1487840034,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGThongBaoFruitKong",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 706,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "MD5 bước hiện tại:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 191,
+                  "G": 191,
+                  "B": 191
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 189.3658,
+                  "Y": 96.8796
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 77.8658,
+                "RightMargin": -300.8658,
+                "TopMargin": -107.3796,
+                "BottomMargin": 86.3796,
+                "Tag": 707,
+                "ActionTag": 2089184897,
+                "Size": {
+                  "X": 223.0,
+                  "Y": 21.0
+                },
+                "Name": "MGMd5Text",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "Key:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 191,
+                  "G": 191,
+                  "B": 191
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 189.3658,
+                  "Y": 55.5316
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 77.8658,
+                "RightMargin": -300.8658,
+                "TopMargin": -66.0316,
+                "BottomMargin": 45.0316,
+                "Tag": 1710,
+                "ActionTag": 672265475,
+                "Size": {
+                  "X": 223.0,
+                  "Y": 21.0
+                },
+                "Name": "MGKeyText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "MD5 bước trước:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 191,
+                  "G": 191,
+                  "B": 191
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.145,
+                  "Y": 95.9415
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 874.645,
+                "RightMargin": -1097.645,
+                "TopMargin": -106.4415,
+                "BottomMargin": 85.4415,
+                "Tag": 1712,
+                "ActionTag": -660330171,
+                "Size": {
+                  "X": 223.0,
+                  "Y": 21.0
+                },
+                "Name": "MGMd5Text",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "Key:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 191,
+                  "G": 191,
+                  "B": 191
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 985.0465,
+                  "Y": 53.4115
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 873.5465,
+                "RightMargin": -1096.5465,
+                "TopMargin": -63.9115,
+                "BottomMargin": 42.9115,
+                "Tag": 1714,
+                "ActionTag": -998738290,
+                "Size": {
+                  "X": 223.0,
+                  "Y": 21.0
+                },
+                "Name": "MGKeyText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 14,
+                "IsCustomSize": true,
+                "LabelText": "df sdfsd sdf sdf sdf sdf sdf",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.1891,
+                  "Y": 75.2055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 79.1891,
+                "RightMargin": -383.1891,
+                "TopMargin": -86.7055,
+                "BottomMargin": 63.7055,
+                "Tag": 382,
+                "ActionTag": 1472390284,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 23.0
+                },
+                "Name": "MGMd5TextLabel",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 12,
+                "IsCustomSize": true,
+                "LabelText": "[[0,1,1],[0,1,1],[1,0,1],[1,0,1],[0,1,1],[0,1,1],[0,1,1],[1,1,0],[1,0,1]]_6ad352ba5968a56df17c49ed0b5c0a1b",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 228.7346,
+                  "Y": 23.0058
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 76.7346,
+                "RightMargin": -380.7346,
+                "TopMargin": -43.5058,
+                "BottomMargin": 2.5058,
+                "Tag": 383,
+                "ActionTag": -817594573,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 41.0
+                },
+                "Name": "MGKeyTextLabel",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 14,
+                "IsCustomSize": true,
+                "LabelText": "df sdfsd sdf sdf sdf sdf sdf",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1028.4911,
+                  "Y": 74.7873
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 876.4911,
+                "RightMargin": -1180.4911,
+                "TopMargin": -86.2873,
+                "BottomMargin": 63.2873,
+                "Tag": 384,
+                "ActionTag": -370574162,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 23.0
+                },
+                "Name": "MGMd5PreTextLabel",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Helve.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 12,
+                "IsCustomSize": true,
+                "LabelText": "[[0,1,1],[0,1,1],[1,0,1],[1,0,1],[0,1,1],[0,1,1],[0,1,1],[1,1,0],[1,0,1]]_6ad352ba5968a56df17c49ed0b5c0a1b",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1026.0372,
+                  "Y": 23.5876
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 874.0372,
+                "RightMargin": -1178.0372,
+                "TopMargin": -44.0876,
+                "BottomMargin": 3.0876,
+                "Tag": 385,
+                "ActionTag": 495502367,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 41.0
+                },
+                "Name": "MGKeyPreTextLabel",
+                "ctype": "TextFieldObjectData"
+              }
+            ],
+            "ActionTag": -1755581289,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGMd5Label",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "MGFruitKongLayer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Helve.ttf",
+        "../../Fonts/UTM HelveBold.ttf",
+        "AtlasFruitKong/atlasFruitKong.plist",
+        "AtlasFruitKong/atlasFruitKong.png",
+        "UIButton2Collumn.json",
+        "UIButton3Collumn.json",
+        "UIButtonPhien.json",
+        "UIFruitKongButton.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

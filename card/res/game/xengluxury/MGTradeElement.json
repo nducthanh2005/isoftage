@@ -1,0 +1,357 @@
+{
+  "ID": "52bd4634-89d3-4330-9edb-4876a56f3b37",
+  "Version": "3.10.0.0",
+  "Name": "MGTradeElement",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 76,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -200.0,
+            "RightMargin": -200.0,
+            "TopMargin": -10.0,
+            "BottomMargin": -10.0,
+            "Tag": 77,
+            "Children": [
+              {
+                "FontSize": 12,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.4708,
+                  "Y": 10.6704
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0937,
+                  "Y": 0.5335
+                },
+                "PreSize": {
+                  "X": 0.1525,
+                  "Y": 0.7
+                },
+                "LeftMargin": 6.9708,
+                "RightMargin": 332.0292,
+                "TopMargin": 2.3296,
+                "BottomMargin": 3.6704,
+                "Tag": 78,
+                "ActionTag": 1761548322,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTxtTime",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 12,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.2926,
+                  "Y": 10.6704
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2982,
+                  "Y": 0.5335
+                },
+                "PreSize": {
+                  "X": 0.1525,
+                  "Y": 0.7
+                },
+                "LeftMargin": 88.7926,
+                "RightMargin": 250.2074,
+                "TopMargin": 2.3296,
+                "BottomMargin": 3.6704,
+                "Tag": 79,
+                "ActionTag": -599264028,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTxtPhong",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 12,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 201.1143,
+                  "Y": 10.6704
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5028,
+                  "Y": 0.5335
+                },
+                "PreSize": {
+                  "X": 0.1525,
+                  "Y": 0.7
+                },
+                "LeftMargin": 170.6143,
+                "RightMargin": 168.3857,
+                "TopMargin": 2.3296,
+                "BottomMargin": 3.6704,
+                "Tag": 80,
+                "ActionTag": 840747085,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTxtXu",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 12,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 282.9359,
+                  "Y": 10.6704
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7073,
+                  "Y": 0.5335
+                },
+                "PreSize": {
+                  "X": 0.1525,
+                  "Y": 0.7
+                },
+                "LeftMargin": 252.4359,
+                "RightMargin": 86.5641,
+                "TopMargin": 2.3296,
+                "BottomMargin": 3.6704,
+                "Tag": 81,
+                "ActionTag": -1854149686,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTxtKetQua",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 12,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 364.7576,
+                  "Y": 10.6704
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9119,
+                  "Y": 0.5335
+                },
+                "PreSize": {
+                  "X": 0.1525,
+                  "Y": 0.7
+                },
+                "LeftMargin": 334.2576,
+                "RightMargin": 4.7424,
+                "TopMargin": 2.3296,
+                "BottomMargin": 3.6704,
+                "Tag": 82,
+                "ActionTag": 1799215426,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 14.0
+                },
+                "Name": "MGTxtWinLose",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2035702620,
+            "Size": {
+              "X": 400.0,
+              "Y": 20.0
+            },
+            "Name": "MGPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

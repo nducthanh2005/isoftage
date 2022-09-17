@@ -1,0 +1,957 @@
+{
+  "ID": "bb70b608-a0d1-4dbf-ba6b-1203933d54f3",
+  "Version": "3.10.0.0",
+  "Name": "UILayerDiamond777",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 378,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/BackGroundDiamond777.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.5638,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0004,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.5638,
+            "RightMargin": -0.5638,
+            "Tag": 389,
+            "ActionTag": -342998377,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "MGBackGroundDiamond",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemCompoBet.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 478.246,
+              "Y": 30.7147
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3736,
+              "Y": 0.0427
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 478.246,
+            "RightMargin": 801.754,
+            "TopMargin": 689.2853,
+            "BottomMargin": 30.7147,
+            "Tag": 380,
+            "ActionTag": -586233692,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboBet",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemSelectLine.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 910.3185,
+              "Y": 37.6035
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7112,
+              "Y": 0.0522
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 910.3185,
+            "RightMargin": 369.6815,
+            "TopMargin": 682.3965,
+            "BottomMargin": 37.6035,
+            "Tag": 445,
+            "ActionTag": 253016015,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeSelectLine",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageNumber.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 23,
+            "Scale9OriginY": 23,
+            "Scale9Width": 25,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.9647,
+              "Y": 38.3695
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7117,
+              "Y": 0.0533
+            },
+            "PreSize": {
+              "X": 0.0492,
+              "Y": 0.0875
+            },
+            "LeftMargin": 879.4647,
+            "RightMargin": 337.5353,
+            "TopMargin": 650.1305,
+            "BottomMargin": 6.8695,
+            "Tag": 1346,
+            "ActionTag": 878475230,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "ImagBGNumber",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "1",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/Roboto-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.9647,
+              "Y": 38.3695
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7117,
+              "Y": 0.0533
+            },
+            "PreSize": {
+              "X": 0.0172,
+              "Y": 0.0778
+            },
+            "LeftMargin": 899.9647,
+            "RightMargin": 358.0353,
+            "TopMargin": 653.6305,
+            "BottomMargin": 10.3695,
+            "Tag": 489,
+            "ActionTag": -1913056446,
+            "Size": {
+              "X": 22.0,
+              "Y": 56.0
+            },
+            "Name": "MGTextDongCuoc",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemComboElement.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 808.1776,
+              "Y": 403.4864
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6314,
+              "Y": 0.5604
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 808.1776,
+            "RightMargin": 471.8224,
+            "TopMargin": 316.5136,
+            "BottomMargin": 403.4864,
+            "Tag": 563,
+            "ActionTag": 429820788,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeElement",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemCompoLine.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 809.58,
+              "Y": 380.2776
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6325,
+              "Y": 0.5282
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 809.58,
+            "RightMargin": 470.42,
+            "TopMargin": 339.7224,
+            "BottomMargin": 380.2776,
+            "Tag": 39,
+            "ActionTag": 1665692909,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeComboLine",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "9.999.999",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RussellSquare.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.9714,
+              "Y": 80.4085
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2453,
+              "Y": 0.1117
+            },
+            "PreSize": {
+              "X": 0.1187,
+              "Y": 0.0347
+            },
+            "LeftMargin": 237.9714,
+            "RightMargin": 890.0286,
+            "TopMargin": 627.0915,
+            "BottomMargin": 67.9085,
+            "Tag": 48,
+            "ActionTag": 727464152,
+            "Size": {
+              "X": 152.0,
+              "Y": 25.0
+            },
+            "Name": "MGTextCuoc",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemComboButton.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1121.7932,
+              "Y": 199.9234
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8764,
+              "Y": 0.2777
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1121.7932,
+            "RightMargin": 158.2068,
+            "TopMargin": 520.0766,
+            "BottomMargin": 199.9234,
+            "Tag": 195,
+            "ActionTag": -1508160579,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeComboButton",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 400,
+            "ActionTag": 1291035651,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodePopup",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 27,
+            "LabelText": "9.999.999.999",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/RussellSquare.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 687.6367,
+              "Y": 80.4085
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5372,
+              "Y": 0.1117
+            },
+            "PreSize": {
+              "X": 0.1547,
+              "Y": 0.0319
+            },
+            "LeftMargin": 588.6367,
+            "RightMargin": 493.3633,
+            "TopMargin": 628.0915,
+            "BottomMargin": 68.9085,
+            "Tag": 642,
+            "ActionTag": 2106044604,
+            "Size": {
+              "X": 198.0,
+              "Y": 23.0
+            },
+            "Name": "MGTextThang",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/diamond777/UIItemTextTienThang.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 831.3036,
+              "Y": 139.4655
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6495,
+              "Y": 0.1937
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 831.3036,
+            "RightMargin": 448.6964,
+            "TopMargin": 580.5345,
+            "BottomMargin": 139.4655,
+            "Tag": 1151,
+            "ActionTag": 578666344,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeTextThang",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 831.3036,
+              "Y": 138.4655
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6495,
+              "Y": 0.1923
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 831.3036,
+            "RightMargin": 448.6964,
+            "TopMargin": 581.5345,
+            "BottomMargin": 138.4655,
+            "Tag": 1371,
+            "ActionTag": 1877106372,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGPosTextThang",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 512.81,
+              "Y": 667.68
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4006,
+              "Y": 0.9273
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 512.81,
+            "RightMargin": 767.19,
+            "TopMargin": 52.32,
+            "BottomMargin": 667.68,
+            "Tag": 73,
+            "Children": [
+              {
+                "FontSize": 21,
+                "LabelText": "#99999999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/RussellSquare.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 3.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -59.5,
+                "RightMargin": -59.5,
+                "TopMargin": -12.0,
+                "BottomMargin": -6.0,
+                "Tag": 73,
+                "ActionTag": 1181215026,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 18.0
+                },
+                "Name": "TextMatchID",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "frame_match_id.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 41,
+                "Scale9OriginY": 14,
+                "Scale9Width": 44,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -63.0,
+                "RightMargin": -63.0,
+                "TopMargin": -22.0,
+                "BottomMargin": -22.0,
+                "Tag": 150,
+                "ActionTag": 606955819,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 44.0
+                },
+                "Name": "Frame",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 5455221,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboMatchID",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1106.52,
+              "Y": 667.68
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8645,
+              "Y": 0.9273
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1106.52,
+            "RightMargin": 173.48,
+            "TopMargin": 52.32,
+            "BottomMargin": 667.68,
+            "Tag": 74,
+            "Children": [
+              {
+                "FontSize": 21,
+                "LabelText": "9.999.999.999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/RussellSquare.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.0,
+                  "Y": 3.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -64.5,
+                "RightMargin": -88.5,
+                "TopMargin": -12.0,
+                "BottomMargin": -6.0,
+                "Tag": 50,
+                "ActionTag": -1252986896,
+                "Size": {
+                  "X": 153.0,
+                  "Y": 18.0
+                },
+                "Name": "MGTextTongTien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "frame_tk.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 65,
+                "Scale9OriginY": 14,
+                "Scale9Width": 69,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -99.5,
+                "RightMargin": -99.5,
+                "TopMargin": -22.0,
+                "BottomMargin": -22.0,
+                "Tag": 151,
+                "ActionTag": 1043173033,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 44.0
+                },
+                "Name": "Frame",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 647881987,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboTongTK",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 512.81,
+              "Y": 133.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4006,
+              "Y": 0.1847
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 512.81,
+            "RightMargin": 767.19,
+            "TopMargin": 587.0,
+            "BottomMargin": 133.0,
+            "Tag": 152,
+            "ActionTag": -773978822,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboMatchID_M",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1116.52,
+              "Y": 133.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8723,
+              "Y": 0.1847
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1116.52,
+            "RightMargin": 163.48,
+            "TopMargin": 587.0,
+            "BottomMargin": 133.0,
+            "Tag": 153,
+            "ActionTag": -1325347503,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboTongTK_M",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/Roboto-Bold.ttf",
+        "../../Fonts/RussellSquare.ttf",
+        "AtlasDiamond777/atlasDiamond777.plist",
+        "AtlasDiamond777/atlasDiamond777.png",
+        "BackGroundDiamond777.jpg",
+        "UIItemComboButton.json",
+        "UIItemComboElement.json",
+        "UIItemCompoBet.json",
+        "UIItemCompoLine.json",
+        "UIItemSelectLine.json",
+        "UIItemTextTienThang.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

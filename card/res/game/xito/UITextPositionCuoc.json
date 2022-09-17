@@ -1,0 +1,164 @@
+{
+  "ID": "8d58605c-fd0e-4ffc-8ad2-cd4fc2b1c0e9",
+  "Version": "3.10.0.0",
+  "Name": "UITextPositionCuoc",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 350,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 351,
+            "ActionTag": -1566150581,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MG_Position",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bgRectText.png",
+              "Plist": "game/xito/AtlasXiTo/AtlasXiTo.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -23.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.14
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -38.5,
+            "RightMargin": -38.5,
+            "TopMargin": 13.5,
+            "BottomMargin": -32.5,
+            "Tag": 362,
+            "ActionTag": 462687386,
+            "Size": {
+              "X": 77.0,
+              "Y": 19.0
+            },
+            "Name": "bgRectText_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "99.999.999\n\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -24.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -33.5,
+            "RightMargin": -33.5,
+            "TopMargin": 14.0001,
+            "BottomMargin": -34.0001,
+            "Tag": 363,
+            "ActionTag": -648807633,
+            "Size": {
+              "X": 67.0,
+              "Y": 20.0
+            },
+            "Name": "MGCoinText",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Swiss CondensedBold.ttf",
+        "AtlasXiTo/AtlasXiTo.plist",
+        "AtlasXiTo/AtlasXiTo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

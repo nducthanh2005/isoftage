@@ -1,0 +1,443 @@
+{
+  "ID": "b3a90632-8482-4ac9-aaca-d5b06ea6d187",
+  "Version": "3.10.0.0",
+  "Name": "UIXTHPopupThongBao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 450,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengthamhiem/atlas/BackGround/BackGroundPopup.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 324,
+            "Scale9OriginY": 231,
+            "Scale9Width": 336,
+            "Scale9Height": 241,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -492.0,
+            "RightMargin": -492.0,
+            "TopMargin": -351.5,
+            "BottomMargin": -351.5,
+            "Tag": 452,
+            "ActionTag": -1679767794,
+            "Size": {
+              "X": 984.0,
+              "Y": 703.0
+            },
+            "Name": "BackGroundTBTH",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 40,
+            "LabelText": "Thông Báo",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Aristote.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -18.7811,
+              "Y": 271.706
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 155,
+              "G": 5,
+              "B": 5
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -165.7811,
+            "RightMargin": -128.2189,
+            "TopMargin": -303.206,
+            "BottomMargin": 240.206,
+            "Tag": 453,
+            "ActionTag": -569429293,
+            "Size": {
+              "X": 294.0,
+              "Y": 63.0
+            },
+            "Name": "TitleThongBaoTH",
+            "ctype": "TextObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -424.8744,
+              "Y": -64.6096
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -424.8744,
+            "RightMargin": -428.1256,
+            "TopMargin": -188.3904,
+            "BottomMargin": -64.6096,
+            "Tag": 454,
+            "ActionTag": -2063649948,
+            "Size": {
+              "X": 853.0,
+              "Y": 253.0
+            },
+            "Name": "ListViewTBTH",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconLinePopup.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 64,
+            "Scale9Width": 3,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.1202,
+              "Y": 188.3876
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.6202,
+            "RightMargin": -3.6202,
+            "TopMargin": -616.3876,
+            "BottomMargin": -239.6124,
+            "Tag": 455,
+            "ActionTag": 1591587214,
+            "Size": {
+              "X": 3.0,
+              "Y": 856.0
+            },
+            "Name": "Line_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconLinePopup.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 64,
+            "Scale9Width": 3,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.1202,
+              "Y": -64.6127
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.6202,
+            "RightMargin": -3.6202,
+            "TopMargin": -363.3873,
+            "BottomMargin": -492.6127,
+            "Tag": 456,
+            "ActionTag": -1489641973,
+            "Size": {
+              "X": 3.0,
+              "Y": 856.0
+            },
+            "Name": "Line_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconLinePopup.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 64,
+            "Scale9Width": 3,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -424.873,
+              "Y": 62.3899
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -426.373,
+            "RightMargin": 423.373,
+            "TopMargin": -190.3899,
+            "BottomMargin": -65.6101,
+            "Tag": 457,
+            "ActionTag": -683701262,
+            "Size": {
+              "X": 3.0,
+              "Y": 256.0
+            },
+            "Name": "Line_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconLinePopup.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 64,
+            "Scale9Width": 3,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 428.5549,
+              "Y": 62.3899
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 427.0549,
+            "RightMargin": -430.0549,
+            "TopMargin": -190.3899,
+            "BottomMargin": -65.6101,
+            "Tag": 458,
+            "ActionTag": -472301402,
+            "Size": {
+              "X": 3.0,
+              "Y": 256.0
+            },
+            "Name": "Line_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "buttonTroVeGame.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 288,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -13.6163,
+              "Y": -229.9219
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -172.6163,
+            "RightMargin": -145.3837,
+            "TopMargin": 175.9219,
+            "BottomMargin": -283.9219,
+            "Tag": 460,
+            "ActionTag": -31159686,
+            "Size": {
+              "X": 318.0,
+              "Y": 108.0
+            },
+            "Name": "ButtonBackGameTBTH",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Aristote.ttf",
+        "atlas/AtlasXengThamHiem.plist",
+        "atlas/AtlasXengThamHiem.png",
+        "atlas/BackGround/BackGroundPopup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

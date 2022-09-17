@@ -1,0 +1,1183 @@
+{
+  "ID": "22a1045f-d6da-49e2-a086-af4e99c87c79",
+  "Version": "3.10.0.0",
+  "Name": "UIPopupThangLon",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 186,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 35,
+              "G": 10,
+              "B": 3
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -514.5738,
+              "Y": 269.8755
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -514.5738,
+            "RightMargin": -505.4262,
+            "TopMargin": -269.8755,
+            "BottomMargin": -265.1245,
+            "Tag": 210,
+            "ActionTag": -346433147,
+            "Size": {
+              "X": 1020.0,
+              "Y": 535.0
+            },
+            "Name": "MGBackGroundLS",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 27,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -486.4482,
+              "Y": 157.6131
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -486.4482,
+            "RightMargin": -480.5518,
+            "TopMargin": -157.6131,
+            "BottomMargin": -212.3869,
+            "Tag": 203,
+            "ActionTag": -209481636,
+            "Size": {
+              "X": 967.0,
+              "Y": 370.0
+            },
+            "Name": "MGListThangLon",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonClosePopupDiamond.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 10,
+            "Scale9Height": 21,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 476.2627,
+              "Y": 239.9657
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 456.2627,
+            "RightMargin": -496.2627,
+            "TopMargin": -261.4657,
+            "BottomMargin": 218.4657,
+            "Tag": 204,
+            "ActionTag": -20162925,
+            "Size": {
+              "X": 40.0,
+              "Y": 43.0
+            },
+            "Name": "MGButtonCloseTL",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TextThangLon.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 57,
+            "Scale9OriginY": 17,
+            "Scale9Width": 134,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.2935,
+              "Y": 238.1739
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -123.7065,
+            "RightMargin": -124.2935,
+            "TopMargin": -266.6739,
+            "BottomMargin": 209.6739,
+            "Tag": 205,
+            "ActionTag": -586291668,
+            "Size": {
+              "X": 248.0,
+              "Y": 57.0
+            },
+            "Name": "MGTitleLichSu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineTrenBG.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 336,
+            "Scale9OriginY": 3,
+            "Scale9Width": 348,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -4.0001,
+              "Y": 268.8934
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -523.0001,
+            "RightMargin": -514.9999,
+            "TopMargin": -273.8934,
+            "BottomMargin": 263.8934,
+            "Tag": 206,
+            "ActionTag": 931312921,
+            "Size": {
+              "X": 1038.0,
+              "Y": 10.0
+            },
+            "Name": "Line4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineDuoiBG.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 336,
+            "Scale9OriginY": 4,
+            "Scale9Width": 348,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -4.1894,
+              "Y": -267.9283
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -521.1894,
+            "RightMargin": -512.8106,
+            "TopMargin": 261.4283,
+            "BottomMargin": -274.4283,
+            "Tag": 207,
+            "ActionTag": 1546142939,
+            "Size": {
+              "X": 1034.0,
+              "Y": 13.0
+            },
+            "Name": "Line3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LinePhaiBG.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 171,
+            "Scale9Width": 11,
+            "Scale9Height": 178,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.6866,
+              "Y": 0.3471
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 490.1866,
+            "RightMargin": -521.1866,
+            "TopMargin": -265.3471,
+            "BottomMargin": -264.6529,
+            "Tag": 208,
+            "ActionTag": -1799577221,
+            "Size": {
+              "X": 31.0,
+              "Y": 530.0
+            },
+            "Name": "Line2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "LineTraiBG.png",
+              "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 171,
+            "Scale9Width": 5,
+            "Scale9Height": 178,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -512.1703,
+              "Y": 0.3471
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -518.6703,
+            "RightMargin": 505.6703,
+            "TopMargin": -265.3471,
+            "BottomMargin": -264.6529,
+            "Tag": 209,
+            "ActionTag": 1889824247,
+            "Size": {
+              "X": 13.0,
+              "Y": 530.0
+            },
+            "Name": "Line1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -4.9993,
+              "Y": 178.1026
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -4.9993,
+            "RightMargin": 4.9993,
+            "TopMargin": -178.1026,
+            "BottomMargin": 178.1026,
+            "Tag": 1055,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTextPopup.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 318,
+                "Scale9OriginY": 14,
+                "Scale9Width": 328,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.1733,
+                  "Y": 0.7177
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -482.3267,
+                "RightMargin": -482.6733,
+                "TopMargin": -22.2177,
+                "BottomMargin": -20.7823,
+                "Tag": 1069,
+                "ActionTag": 276750772,
+                "Size": {
+                  "X": 965.0,
+                  "Y": 43.0
+                },
+                "Name": "MGBackGroundTitle",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2.0905,
+                  "Y": -18.8494
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.4095,
+                "RightMargin": -4.5905,
+                "TopMargin": -464.4006,
+                "BottomMargin": -502.0994,
+                "Tag": 1056,
+                "ActionTag": 40058153,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 966.5
+                },
+                "Name": "Line8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2.0905,
+                  "Y": 21.4122
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.4095,
+                "RightMargin": -4.5905,
+                "TopMargin": -504.6622,
+                "BottomMargin": -461.8378,
+                "Tag": 1057,
+                "ActionTag": 576402026,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 966.5
+                },
+                "Name": "Line7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.118,
+                  "ScaleY": 0.5474
+                },
+                "Position": {
+                  "X": -482.6229,
+                  "Y": 2.8799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -483.2129,
+                "RightMargin": 478.2129,
+                "TopMargin": -21.8891,
+                "BottomMargin": -20.1109,
+                "Tag": 1058,
+                "ActionTag": 235596481,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -411.7381,
+                  "Y": 0.9004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -414.2381,
+                "RightMargin": 409.2381,
+                "TopMargin": -21.9004,
+                "BottomMargin": -20.0996,
+                "Tag": 1059,
+                "ActionTag": 1527783223,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -273.114,
+                  "Y": 0.9061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -275.614,
+                "RightMargin": 270.614,
+                "TopMargin": -21.9061,
+                "BottomMargin": -20.0939,
+                "Tag": 1060,
+                "ActionTag": -1103766347,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -79.7769,
+                  "Y": 0.9089
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -82.2769,
+                "RightMargin": 77.2769,
+                "TopMargin": -21.9089,
+                "BottomMargin": -20.0911,
+                "Tag": 1061,
+                "ActionTag": -814598925,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 211.443,
+                  "Y": 0.9104
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 208.943,
+                "RightMargin": -213.943,
+                "TopMargin": -21.9104,
+                "BottomMargin": -20.0896,
+                "Tag": 1062,
+                "ActionTag": 1304771607,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IconLine.png",
+                  "Plist": "game/diamond777/AtlasDiamond777/atlasDiamond777.plist"
+                },
+                "Scale9OriginX": 1,
+                "Scale9OriginY": 103,
+                "Scale9Width": 3,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 482.5531,
+                  "Y": 0.9104
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 480.0531,
+                "RightMargin": -485.0531,
+                "TopMargin": -21.9104,
+                "BottomMargin": -20.0896,
+                "Tag": 1063,
+                "ActionTag": 1002801973,
+                "Size": {
+                  "X": 5.0,
+                  "Y": 42.0
+                },
+                "Name": "Line6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "STT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -446.7255,
+                  "Y": 0.8891
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 205,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -470.2255,
+                "RightMargin": 423.2255,
+                "TopMargin": -10.3891,
+                "BottomMargin": -8.6109,
+                "Tag": 1064,
+                "ActionTag": -678450052,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 19.0
+                },
+                "Name": "TextSTT",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Mã Tài Khoản",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -342.4261,
+                  "Y": 0.9004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 205,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -404.9261,
+                "RightMargin": 279.9261,
+                "TopMargin": -10.4004,
+                "BottomMargin": -8.5996,
+                "Tag": 1065,
+                "ActionTag": 415182038,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 19.0
+                },
+                "Name": "TextMaTK",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Tên hiển thị",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -176.4454,
+                  "Y": 0.9061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 205,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -244.4454,
+                "RightMargin": 108.4454,
+                "TopMargin": -10.4061,
+                "BottomMargin": -8.5939,
+                "Tag": 1066,
+                "ActionTag": 411488321,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 19.0
+                },
+                "Name": "TextTenHienThi",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Dòng trúng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.8331,
+                  "Y": 0.909
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 205,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 10.3331,
+                "RightMargin": -121.3331,
+                "TopMargin": -10.409,
+                "BottomMargin": -8.591,
+                "Tag": 1067,
+                "ActionTag": -394453194,
+                "Size": {
+                  "X": 111.0,
+                  "Y": 19.0
+                },
+                "Name": "TextDongTrung",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Tiền trúng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 346.9981,
+                  "Y": 0.9103
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 205,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 284.4981,
+                "RightMargin": -409.4981,
+                "TopMargin": -10.4103,
+                "BottomMargin": -8.5897,
+                "Tag": 1068,
+                "ActionTag": -1507527996,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 19.0
+                },
+                "Name": "TextTienTrung",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -263708555,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeTitleTL",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/Roboto-Bold.ttf",
+        "AtlasDiamond777/atlasDiamond777.plist",
+        "AtlasDiamond777/atlasDiamond777.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

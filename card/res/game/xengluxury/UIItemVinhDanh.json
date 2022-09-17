@@ -1,0 +1,1033 @@
+{
+  "ID": "3c1c198c-67be-4f51-8ea8-57869a33afcd",
+  "Version": "3.10.0.0",
+  "Name": "UIItemVinhDanh",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 60,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MGBackGroundXeng.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 504,
+            "Scale9Height": 279,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.3119,
+              "Y": -17.3677
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -182.3119,
+            "RightMargin": -177.6881,
+            "TopMargin": -90.1323,
+            "BottomMargin": -124.8677,
+            "Tag": 1015,
+            "ActionTag": -718171036,
+            "Size": {
+              "X": 360.0,
+              "Y": 215.0
+            },
+            "Alpha": 204,
+            "Name": "MGBg1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "MGBackGroundXengDuoi.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 502,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.2802,
+              "Y": 109.3409
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -182.2802,
+            "RightMargin": -177.7198,
+            "TopMargin": -130.3409,
+            "BottomMargin": 88.3409,
+            "Tag": 1014,
+            "ActionTag": 598259689,
+            "Size": {
+              "X": 360.0,
+              "Y": 42.0
+            },
+            "Alpha": 204,
+            "Name": "MGBg2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundVienXeng.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 60,
+            "Scale9OriginY": 60,
+            "Scale9Width": 122,
+            "Scale9Height": 174,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.1666,
+              "Y": 0.2958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -191.8334,
+            "RightMargin": -192.1666,
+            "TopMargin": -144.7958,
+            "BottomMargin": -144.2042,
+            "Tag": 1013,
+            "ActionTag": -992093267,
+            "Size": {
+              "X": 384.0,
+              "Y": 289.0
+            },
+            "Name": "MGBg3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -5,
+            "Scale9Width": 30,
+            "Scale9Height": 10,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -108.6118,
+              "Y": 107.7669
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -170.6118,
+            "RightMargin": 46.6118,
+            "TopMargin": -126.7669,
+            "BottomMargin": 88.7669,
+            "Tag": 64,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "GiaoDich.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 9,
+                "Scale9Width": 12,
+                "Scale9Height": 3,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.7153,
+                  "Y": 18.9371
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5219,
+                  "Y": 0.4983
+                },
+                "PreSize": {
+                  "X": 0.629,
+                  "Y": 0.5526
+                },
+                "LeftMargin": 25.7153,
+                "RightMargin": 20.2847,
+                "TopMargin": 8.5629,
+                "BottomMargin": 8.4371,
+                "Tag": 65,
+                "ActionTag": 1047211233,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 21.0
+                },
+                "Name": "MGTextOn",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "textGiaoDich.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 9,
+                "Scale9Width": 12,
+                "Scale9Height": 3,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.7153,
+                  "Y": 18.9371
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5219,
+                  "Y": 0.4983
+                },
+                "PreSize": {
+                  "X": 0.629,
+                  "Y": 0.5526
+                },
+                "LeftMargin": 25.7153,
+                "RightMargin": 20.2847,
+                "TopMargin": 8.5629,
+                "BottomMargin": 8.4371,
+                "Tag": 66,
+                "ActionTag": 400850525,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "MGTextOff",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1731506001,
+            "Size": {
+              "X": 124.0,
+              "Y": 38.0
+            },
+            "Name": "MGButtonGiaoDich",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -5,
+            "Scale9Width": 30,
+            "Scale9Height": 10,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 15.1514,
+              "Y": 107.7669
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -43.8486,
+            "RightMargin": -74.1514,
+            "TopMargin": -126.7669,
+            "BottomMargin": 88.7669,
+            "Tag": 544,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "VinhDanh.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 5,
+                "Scale9Width": 19,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.3291,
+                  "Y": 20.4061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5028,
+                  "Y": 0.537
+                },
+                "PreSize": {
+                  "X": 0.7203,
+                  "Y": 0.4474
+                },
+                "LeftMargin": 16.8291,
+                "RightMargin": 16.1709,
+                "TopMargin": 9.0939,
+                "BottomMargin": 11.9061,
+                "Tag": 545,
+                "ActionTag": 1112756264,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 17.0
+                },
+                "VisibleForFrame": false,
+                "Name": "MGTextOn",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "textVinhDanh.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 5,
+                "Scale9Width": 19,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.3291,
+                  "Y": 20.4061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5028,
+                  "Y": 0.537
+                },
+                "PreSize": {
+                  "X": 0.7203,
+                  "Y": 0.4474
+                },
+                "LeftMargin": 16.8291,
+                "RightMargin": 16.1709,
+                "TopMargin": 9.0939,
+                "BottomMargin": 11.9061,
+                "Tag": 546,
+                "ActionTag": 682648443,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 17.0
+                },
+                "Name": "MGTextOff",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1718304298,
+            "Size": {
+              "X": 118.0,
+              "Y": 38.0
+            },
+            "Name": "MGButtonVinhDanh",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -5,
+            "Scale9Width": 30,
+            "Scale9Height": 10,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 124.4145,
+              "Y": 107.7669
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 76.9145,
+            "RightMargin": -171.9145,
+            "TopMargin": -126.7669,
+            "BottomMargin": 88.7669,
+            "Tag": 547,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "textHuZdo_click.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 16,
+                "Scale9OriginY": 5,
+                "Scale9Width": 17,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 45.3803,
+                  "Y": 19.7601
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4777,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.5158,
+                  "Y": 0.4474
+                },
+                "LeftMargin": 20.8803,
+                "RightMargin": 25.1197,
+                "TopMargin": 9.7399,
+                "BottomMargin": 11.2601,
+                "Tag": 548,
+                "ActionTag": 1949219944,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 17.0
+                },
+                "VisibleForFrame": false,
+                "Name": "MGTextOn",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "HuZdoD.png",
+                  "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+                },
+                "Scale9OriginX": 16,
+                "Scale9OriginY": 5,
+                "Scale9Width": 17,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.3813,
+                  "Y": 18.7599
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.4937
+                },
+                "PreSize": {
+                  "X": 0.5158,
+                  "Y": 0.4474
+                },
+                "LeftMargin": 22.8813,
+                "RightMargin": 23.1187,
+                "TopMargin": 10.7401,
+                "BottomMargin": 10.2599,
+                "Tag": 549,
+                "ActionTag": -1996353547,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 17.0
+                },
+                "Name": "MGTextOff",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1843670862,
+            "Size": {
+              "X": 95.0,
+              "Y": 38.0
+            },
+            "Name": "MGButtonHuZdo",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconRow.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginY": 15,
+            "Scale9Width": 1,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -44.5522,
+              "Y": 108.2065
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -45.0522,
+            "RightMargin": 44.0522,
+            "TopMargin": -125.2065,
+            "BottomMargin": 91.2065,
+            "Tag": 551,
+            "ActionTag": -1692814227,
+            "Size": {
+              "X": 1.0,
+              "Y": 34.0
+            },
+            "Name": "MGLineLeft",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "iconRow.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury2.plist"
+            },
+            "Scale9OriginY": 15,
+            "Scale9Width": 1,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.531,
+              "Y": 108.2065
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 75.031,
+            "RightMargin": -76.031,
+            "TopMargin": -125.2065,
+            "BottomMargin": 91.2065,
+            "Tag": 555,
+            "ActionTag": 206418956,
+            "Size": {
+              "X": 1.0,
+              "Y": 34.0
+            },
+            "Name": "MGLineRight",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengluxury/UIItemGiaoDich.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.2908,
+              "Y": 71.0114
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.2908,
+            "RightMargin": 1.2908,
+            "TopMargin": -71.0114,
+            "BottomMargin": 71.0114,
+            "Tag": 1382,
+            "ActionTag": -336618040,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeTitleGiaoDich",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengluxury/UIItemHuZdo.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.2908,
+              "Y": 70.0113
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.2908,
+            "RightMargin": 1.2908,
+            "TopMargin": -70.0113,
+            "BottomMargin": 70.0113,
+            "Tag": 1470,
+            "ActionTag": -290115767,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGNodeTitleHuZdo",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 65,
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -160.4994,
+              "Y": 60.0447
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -160.4994,
+            "RightMargin": -157.5006,
+            "TopMargin": -60.0447,
+            "BottomMargin": -99.9553,
+            "Tag": 1478,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 158.0659,
+                  "Y": -7.5393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4971,
+                  "Y": -0.0471
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 158.0659,
+                "RightMargin": 159.9341,
+                "TopMargin": 167.5393,
+                "BottomMargin": -7.5393,
+                "Tag": 651,
+                "ActionTag": 167108647,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGNodePage",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 592917599,
+            "Size": {
+              "X": 318.0,
+              "Y": 160.0
+            },
+            "Name": "MGPanelGiaoDich",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -160.5449,
+              "Y": 80.2774
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -160.5449,
+            "RightMargin": -159.4551,
+            "TopMargin": -80.2774,
+            "BottomMargin": -109.7226,
+            "Tag": 1395,
+            "ActionTag": -1949455440,
+            "Size": {
+              "X": 320.0,
+              "Y": 190.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGListVinhDanh",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 65,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -160.4994,
+              "Y": 60.0447
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -160.4994,
+            "RightMargin": -157.5006,
+            "TopMargin": -60.0447,
+            "BottomMargin": -99.9553,
+            "Tag": 530,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 156.0659,
+                  "Y": -7.5393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4908,
+                  "Y": -0.0471
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 156.0659,
+                "RightMargin": 161.9341,
+                "TopMargin": 167.5393,
+                "BottomMargin": -7.5393,
+                "Tag": 1816,
+                "ActionTag": -1611981719,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGNodePage",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 796202332,
+            "Size": {
+              "X": 318.0,
+              "Y": 160.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGPanelHuZdo",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "AtlasXengLuxury/atlasXengLuxury1.plist",
+        "AtlasXengLuxury/atlasXengLuxury1.png",
+        "AtlasXengLuxury/atlasXengLuxury2.plist",
+        "AtlasXengLuxury/atlasXengLuxury2.png",
+        "UIItemGiaoDich.json",
+        "UIItemHuZdo.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

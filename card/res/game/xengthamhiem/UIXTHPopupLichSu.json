@@ -1,0 +1,713 @@
+{
+  "ID": "26a7f141-f3e5-4f6a-b056-000e665e74d6",
+  "Version": "3.10.0.0",
+  "Name": "UIXTHPopupLichSu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 811,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/xengthamhiem/atlas/BackGround/BackGroundPopup.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 954,
+            "Scale9Height": 673,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -492.0,
+            "RightMargin": -492.0,
+            "TopMargin": -351.5,
+            "BottomMargin": -351.5,
+            "Tag": 812,
+            "ActionTag": 1343932571,
+            "Size": {
+              "X": 984.0,
+              "Y": 703.0
+            },
+            "Name": "BGPopupLichSuTH",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 40,
+            "LabelText": "Lịch Sử",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Aristote.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 281.9642
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 155,
+              "G": 5,
+              "B": 5
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -147.0,
+            "RightMargin": -147.0,
+            "TopMargin": -313.4642,
+            "BottomMargin": 250.4642,
+            "Tag": 1014,
+            "ActionTag": -1188700111,
+            "Size": {
+              "X": 294.0,
+              "Y": 63.0
+            },
+            "Name": "TitleLichSuTH",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "buttonTroVeGame.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 288,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.0001,
+              "Y": -271.765
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -159.0001,
+            "RightMargin": -158.9999,
+            "TopMargin": 217.765,
+            "BottomMargin": -325.765,
+            "Tag": 1015,
+            "ActionTag": 805438858,
+            "Size": {
+              "X": 318.0,
+              "Y": 108.0
+            },
+            "Name": "ButtonBackGameLSTH",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGTextLichSu.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9OriginX": 284,
+            "Scale9OriginY": 13,
+            "Scale9Width": 292,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.5613,
+              "Y": 206.3732
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -433.5613,
+            "RightMargin": -428.4387,
+            "TopMargin": -227.3732,
+            "BottomMargin": 185.3732,
+            "Tag": 1016,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 51,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 169,
+                  "G": 102,
+                  "B": 38
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0001,
+                  "Y": 1.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0357
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.0001,
+                "RightMargin": -0.0001,
+                "TopMargin": -1.5,
+                "BottomMargin": 1.5,
+                "Tag": 1078,
+                "ActionTag": -961687079,
+                "Size": {
+                  "X": 862.0,
+                  "Y": 42.0
+                },
+                "Name": "PanelBGTiltLS",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconLinePopup.png",
+                  "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 64,
+                "Scale9Width": 3,
+                "Scale9Height": 68,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 431.0001,
+                  "Y": 42.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.0035,
+                  "Y": 20.5238
+                },
+                "LeftMargin": 429.5001,
+                "RightMargin": 429.4999,
+                "TopMargin": -431.0,
+                "BottomMargin": -389.0,
+                "Tag": 1017,
+                "ActionTag": -565015275,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 862.0
+                },
+                "Name": "Line_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "Phiên",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.2856,
+                  "Y": 23.0284
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 155,
+                  "G": 5,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0781,
+                  "Y": 0.5483
+                },
+                "PreSize": {
+                  "X": 0.1241,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 13.7856,
+                "RightMargin": 741.2144,
+                "TopMargin": 0.9716,
+                "BottomMargin": 5.0284,
+                "Tag": 1032,
+                "ActionTag": 1365546359,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 36.0
+                },
+                "Name": "TextPhien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "Thời gian cược",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.6335,
+                  "Y": 23.0281
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 155,
+                  "G": 5,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2676,
+                  "Y": 0.5483
+                },
+                "PreSize": {
+                  "X": 0.2181,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 136.6335,
+                "RightMargin": 537.3665,
+                "TopMargin": 0.9719,
+                "BottomMargin": 5.0281,
+                "Tag": 1033,
+                "ActionTag": -638344273,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 36.0
+                },
+                "Name": "TextThoiGian",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "Cược",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 405.895,
+                  "Y": 23.0282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 155,
+                  "G": 5,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4709,
+                  "Y": 0.5483
+                },
+                "PreSize": {
+                  "X": 0.1241,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 352.395,
+                "RightMargin": 402.605,
+                "TopMargin": 0.9718,
+                "BottomMargin": 5.0282,
+                "Tag": 1034,
+                "ActionTag": -191668839,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 36.0
+                },
+                "Name": "TextCuoc",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "Số Dòng Trúng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 575.6317,
+                  "Y": 23.0281
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 155,
+                  "G": 5,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6678,
+                  "Y": 0.5483
+                },
+                "PreSize": {
+                  "X": 0.2146,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 483.1317,
+                "RightMargin": 193.8683,
+                "TopMargin": 0.9719,
+                "BottomMargin": 5.0281,
+                "Tag": 1035,
+                "ActionTag": -1263804471,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 36.0
+                },
+                "Name": "TextSoDongTrung",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "Tiền Trúng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 763.9365,
+                  "Y": 23.0282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 155,
+                  "G": 5,
+                  "B": 5
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8862,
+                  "Y": 0.5483
+                },
+                "PreSize": {
+                  "X": 0.2146,
+                  "Y": 0.8571
+                },
+                "LeftMargin": 671.4365,
+                "RightMargin": 5.5635,
+                "TopMargin": 0.9718,
+                "BottomMargin": 5.0282,
+                "Tag": 1036,
+                "ActionTag": -1243918306,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 36.0
+                },
+                "Name": "TextTienTrung",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 37255863,
+            "Size": {
+              "X": 862.0,
+              "Y": 42.0
+            },
+            "Name": "ImageTitleLSTH",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 51,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 169,
+              "G": 102,
+              "B": 38
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -432.4784,
+              "Y": 185.3415
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -432.4784,
+            "RightMargin": -432.5216,
+            "TopMargin": -185.3415,
+            "BottomMargin": -202.6585,
+            "Tag": 1037,
+            "ActionTag": 1630467685,
+            "Size": {
+              "X": 865.0,
+              "Y": 388.0
+            },
+            "Name": "ListViewLSTH",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Aristote.ttf",
+        "atlas/AtlasXengThamHiem.plist",
+        "atlas/AtlasXengThamHiem.png",
+        "atlas/BackGround/BackGroundPopup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

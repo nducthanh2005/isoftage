@@ -1,0 +1,27 @@
+
+toitrang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 0, 0
+  size: 119, 26
+  orig: 119, 26
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 0, 57
+  size: 184, 29
+  orig: 184, 29
+  offset: 0, 0
+  index: -1
+77
+  rotate: false
+  xy: 0, 27
+  size: 184, 29
+  orig: 184, 29
+  offset: 0, 0
+  index: -1

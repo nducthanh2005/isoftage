@@ -1,0 +1,349 @@
+
+XengAiCap_ItemFX.png
+size: 1994,2084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ankh_Screen
+  rotate: false
+  xy: 1802, 1906
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+Ankh_bg
+  rotate: false
+  xy: 1601, 892
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+Ankh_block
+  rotate: false
+  xy: 1114, 216
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+Ankh_top
+  rotate: false
+  xy: 1352, 430
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0007
+  rotate: false
+  xy: 2, 1746
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0010
+  rotate: false
+  xy: 2, 1408
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0013
+  rotate: false
+  xy: 452, 1746
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0016
+  rotate: false
+  xy: 2, 1070
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0019
+  rotate: false
+  xy: 452, 1408
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0022
+  rotate: false
+  xy: 902, 1746
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0025
+  rotate: false
+  xy: 2, 732
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0028
+  rotate: false
+  xy: 452, 1070
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0031
+  rotate: false
+  xy: 902, 1408
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0034
+  rotate: false
+  xy: 1352, 1746
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0037
+  rotate: false
+  xy: 2, 394
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0040
+  rotate: false
+  xy: 452, 732
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0043
+  rotate: false
+  xy: 902, 1070
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0046
+  rotate: false
+  xy: 1352, 1408
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0049
+  rotate: false
+  xy: 2, 56
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0052
+  rotate: false
+  xy: 452, 394
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0055
+  rotate: false
+  xy: 902, 732
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0058
+  rotate: false
+  xy: 1352, 1070
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0061
+  rotate: false
+  xy: 452, 56
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+FrameFX/FrameFX0064
+  rotate: false
+  xy: 902, 394
+  size: 448, 336
+  orig: 448, 336
+  offset: 0, 0
+  index: -1
+Pharaoh_bg
+  rotate: false
+  xy: 1802, 1728
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+bug
+  rotate: false
+  xy: 1802, 1550
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+bug_bg
+  rotate: false
+  xy: 1802, 1372
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+cat
+  rotate: false
+  xy: 1802, 1194
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+cat_bg
+  rotate: false
+  xy: 902, 4
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+fireball_eff
+  rotate: false
+  xy: 902, 182
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 2, 27
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+flarecenter
+  rotate: false
+  xy: 1352, 820
+  size: 247, 248
+  orig: 247, 248
+  offset: 0, 0
+  index: -1
+huricane
+  rotate: false
+  xy: 1832, 43
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+lightningStar
+  rotate: false
+  xy: 1690, 14
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+pharaoh
+  rotate: false
+  xy: 1802, 1016
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+pharaoh_sun
+  rotate: false
+  xy: 1793, 838
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+pyramid_bg
+  rotate: false
+  xy: 1601, 714
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+pyramid_screen
+  rotate: false
+  xy: 1793, 660
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+pyramid_upperFrame
+  rotate: false
+  xy: 1564, 536
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_bg
+  rotate: false
+  xy: 1756, 482
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_dread1
+  rotate: false
+  xy: 1544, 358
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_dread2
+  rotate: false
+  xy: 1352, 252
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_face
+  rotate: false
+  xy: 1544, 180
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_fd
+  rotate: false
+  xy: 1736, 304
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_hair
+  rotate: false
+  xy: 1736, 126
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_hairLR
+  rotate: false
+  xy: 1114, 38
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_hand
+  rotate: false
+  xy: 1306, 74
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+queen_neck
+  rotate: false
+  xy: 1498, 2
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+spiral_eff
+  rotate: false
+  xy: 1352, 608
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1

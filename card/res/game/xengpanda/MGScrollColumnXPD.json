@@ -1,0 +1,303 @@
+{
+  "ID": "956b72fe-0ff0-4b89-aa73-bdda6f04285e",
+  "Version": "3.10.0.0",
+  "Name": "MGScrollColumnXPD",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 70,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageLotusPanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 65.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -150.0,
+            "BottomMargin": -20.0,
+            "Tag": 71,
+            "ActionTag": 1122875355,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageKamePanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 199.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -284.0,
+            "BottomMargin": 114.0,
+            "Tag": 82,
+            "ActionTag": -283660059,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageBirdPanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 333.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -418.0,
+            "BottomMargin": 248.0,
+            "Tag": 81,
+            "ActionTag": 149096459,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageADPanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 467.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -552.0,
+            "BottomMargin": 382.0,
+            "Tag": 80,
+            "ActionTag": 1259149954,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageADPanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 601.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -686.0,
+            "BottomMargin": 516.0,
+            "Tag": 72,
+            "ActionTag": -1867811518,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImageADPanda.png",
+              "Plist": "game/xengpanda/Atlas/AtlasXengPanda.plist"
+            },
+            "Scale9OriginX": 62,
+            "Scale9OriginY": 56,
+            "Scale9Width": 65,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.1589,
+              "Y": 735.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.3411,
+            "RightMargin": -187.6589,
+            "TopMargin": -820.0,
+            "BottomMargin": 650.0,
+            "Tag": 73,
+            "ActionTag": 2102949768,
+            "Size": {
+              "X": 189.0,
+              "Y": 170.0
+            },
+            "Name": "Item_5",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Atlas/AtlasXengPanda.plist",
+        "Atlas/AtlasXengPanda.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

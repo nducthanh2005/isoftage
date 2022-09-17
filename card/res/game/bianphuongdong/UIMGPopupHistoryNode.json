@@ -1,0 +1,1163 @@
+{
+  "ID": "91e239cb-56d9-4ac0-998f-2712ce237583",
+  "Version": "3.10.0.0",
+  "Name": "UIMGPopupHistoryNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2535,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -1280.0,
+            "TopMargin": -720.0,
+            "Tag": 1157,
+            "ActionTag": -682654794,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundBAPDPopup.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 111,
+            "Scale9OriginY": 81,
+            "Scale9Width": 116,
+            "Scale9Height": 84,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0251,
+              "Y": 388.1845
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 219.0251,
+            "RightMargin": -1065.0251,
+            "TopMargin": -641.1845,
+            "BottomMargin": 135.1845,
+            "Tag": 2536,
+            "ActionTag": -964078585,
+            "Size": {
+              "X": 846.0,
+              "Y": 506.0
+            },
+            "Name": "Background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_close_popup_bapd.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 3,
+            "Scale9Height": 16,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1018.5745,
+              "Y": 609.9648
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1002.0745,
+            "RightMargin": -1035.0745,
+            "TopMargin": -628.9648,
+            "BottomMargin": 590.9648,
+            "Tag": 2538,
+            "ActionTag": 1062867747,
+            "Size": {
+              "X": 33.0,
+              "Y": 38.0
+            },
+            "Name": "ButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_title_bapd.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0176,
+              "Y": 599.3738
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 567.0176,
+            "RightMargin": -717.0176,
+            "TopMargin": -624.8738,
+            "BottomMargin": 573.8738,
+            "Tag": 2543,
+            "ActionTag": 209960757,
+            "Size": {
+              "X": 150.0,
+              "Y": 51.0
+            },
+            "Name": "Title",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_title.png",
+              "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 644.618,
+              "Y": 539.038
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 242.618,
+            "RightMargin": -1046.6179,
+            "TopMargin": -559.038,
+            "BottomMargin": 519.038,
+            "Tag": 2544,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.2834,
+                  "Y": 19.9018
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0974,
+                  "Y": 0.4975
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.95
+                },
+                "LeftMargin": 77.2834,
+                "RightMargin": 724.7166,
+                "TopMargin": 1.0982,
+                "BottomMargin": 0.9018,
+                "Tag": 454,
+                "ActionTag": -2112431419,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.4364,
+                  "Y": 19.5083
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.4877
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.95
+                },
+                "LeftMargin": 219.4364,
+                "RightMargin": 582.5636,
+                "TopMargin": 1.4917,
+                "BottomMargin": 0.5083,
+                "Tag": 455,
+                "ActionTag": -1637689764,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 410.4026,
+                  "Y": 20.1264
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5105,
+                  "Y": 0.5032
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.95
+                },
+                "LeftMargin": 409.4026,
+                "RightMargin": 392.5974,
+                "TopMargin": 0.8736,
+                "BottomMargin": 1.1264,
+                "Tag": 456,
+                "ActionTag": -463968261,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.2423,
+                  "ScaleY": 0.5652
+                },
+                "Position": {
+                  "X": 605.8887,
+                  "Y": 22.6002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7536,
+                  "Y": 0.565
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.95
+                },
+                "LeftMargin": 605.4041,
+                "RightMargin": 196.5959,
+                "TopMargin": 0.8774,
+                "BottomMargin": 1.1226,
+                "Tag": 457,
+                "ActionTag": -691120940,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line4",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -557919145,
+            "Size": {
+              "X": 804.0,
+              "Y": 40.0
+            },
+            "Name": "TitleBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 245.2545,
+              "Y": 160.049
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 245.2545,
+            "RightMargin": -1043.2545,
+            "TopMargin": -520.049,
+            "BottomMargin": 160.049,
+            "Tag": 2545,
+            "ActionTag": 1287623066,
+            "Size": {
+              "X": 798.0,
+              "Y": 360.0
+            },
+            "Name": "MGHistoryListView",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 245.2039,
+              "Y": 469.8302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 245.2039,
+            "RightMargin": -1043.2039,
+            "TopMargin": -519.8302,
+            "BottomMargin": 469.8302,
+            "Tag": 2547,
+            "Children": [
+              {
+                "FontSize": 16,
+                "LabelText": "999999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss Condensed.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5146,
+                  "Y": 26.37
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0483,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.0639,
+                  "Y": 0.44
+                },
+                "LeftMargin": 13.0146,
+                "RightMargin": 733.9854,
+                "TopMargin": 12.63,
+                "BottomMargin": 15.37,
+                "Tag": 258,
+                "ActionTag": -1285882696,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 22.0
+                },
+                "Name": "Text1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss Condensed.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 147.5603,
+                  "Y": 26.37
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1849,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.1579,
+                  "Y": 0.8
+                },
+                "LeftMargin": 84.5603,
+                "RightMargin": 587.4397,
+                "TopMargin": 3.63,
+                "BottomMargin": 6.37,
+                "Tag": 259,
+                "ActionTag": -1565986537,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 40.0
+                },
+                "Name": "Text2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss Condensed.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 313.7346,
+                  "Y": 26.3699
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3932,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.218,
+                  "Y": 0.6
+                },
+                "LeftMargin": 226.7346,
+                "RightMargin": 397.2654,
+                "TopMargin": 8.6301,
+                "BottomMargin": 11.3699,
+                "Tag": 260,
+                "ActionTag": 1569804031,
+                "Size": {
+                  "X": 174.0,
+                  "Y": 30.0
+                },
+                "Name": "Text3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss Condensed.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.9141,
+                  "Y": 26.3699
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.634,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.2256,
+                  "Y": 0.6
+                },
+                "LeftMargin": 415.9141,
+                "RightMargin": 202.0859,
+                "TopMargin": 8.6301,
+                "BottomMargin": 11.3699,
+                "Tag": 261,
+                "ActionTag": -1973501500,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 30.0
+                },
+                "Name": "Text4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Swiss Condensed.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 708.5128,
+                  "Y": 26.3699
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8879,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.2018,
+                  "Y": 0.6
+                },
+                "LeftMargin": 628.0128,
+                "RightMargin": 8.9872,
+                "TopMargin": 8.6301,
+                "BottomMargin": 11.3699,
+                "Tag": 262,
+                "ActionTag": -755305557,
+                "Size": {
+                  "X": 161.0,
+                  "Y": 30.0
+                },
+                "Name": "Text5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_line.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginX": 263,
+                "Scale9Width": 273,
+                "Scale9Height": 2,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 398.9879,
+                  "Y": 2.3117
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0462
+                },
+                "PreSize": {
+                  "X": 1.0013,
+                  "Y": 0.04
+                },
+                "LeftMargin": -0.5121,
+                "RightMargin": -0.4879,
+                "TopMargin": 46.6883,
+                "BottomMargin": 1.3117,
+                "Tag": 447,
+                "ActionTag": 1486931457,
+                "Size": {
+                  "X": 799.0,
+                  "Y": 2.0
+                },
+                "Name": "LineBottom",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75.7406,
+                  "Y": 27.3677
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0949,
+                  "Y": 0.5474
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 1.0
+                },
+                "LeftMargin": 74.7406,
+                "RightMargin": 721.2594,
+                "TopMargin": -2.3677,
+                "BottomMargin": 2.3677,
+                "Tag": 448,
+                "ActionTag": 1865367786,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 50.0
+                },
+                "Name": "Line1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 218.4021,
+                  "Y": 28.1458
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2737,
+                  "Y": 0.5629
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 1.0
+                },
+                "LeftMargin": 217.4021,
+                "RightMargin": 578.5979,
+                "TopMargin": -3.1458,
+                "BottomMargin": 3.1458,
+                "Tag": 449,
+                "ActionTag": -240075341,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 50.0
+                },
+                "Name": "Line2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 408.2869,
+                  "Y": 27.1469
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5116,
+                  "Y": 0.5429
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 1.0
+                },
+                "LeftMargin": 407.2869,
+                "RightMargin": 388.7131,
+                "TopMargin": -2.1469,
+                "BottomMargin": 2.1469,
+                "Tag": 450,
+                "ActionTag": -813265207,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 50.0
+                },
+                "Name": "line3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 604.4812,
+                  "Y": 26.0544
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7575,
+                  "Y": 0.5211
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 1.0
+                },
+                "LeftMargin": 603.4812,
+                "RightMargin": 192.5188,
+                "TopMargin": -1.0544,
+                "BottomMargin": 1.0544,
+                "Tag": 451,
+                "ActionTag": -1264488324,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 50.0
+                },
+                "Name": "Line4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2.2093,
+                  "Y": 20.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0028,
+                  "Y": 0.415
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.76
+                },
+                "LeftMargin": 1.2093,
+                "RightMargin": 794.7907,
+                "TopMargin": 10.25,
+                "BottomMargin": 1.75,
+                "Tag": 452,
+                "ActionTag": 363556479,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_listviewcell_collumn.png",
+                  "Plist": "game/bianphuongdong/atlas/AtlasBAPD/AtlasBAPD.plist"
+                },
+                "Scale9OriginY": 41,
+                "Scale9Width": 2,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 795.5598,
+                  "Y": 20.7515
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9969,
+                  "Y": 0.415
+                },
+                "PreSize": {
+                  "X": 0.0025,
+                  "Y": 0.76
+                },
+                "LeftMargin": 794.5598,
+                "RightMargin": 1.4402,
+                "TopMargin": 10.2485,
+                "BottomMargin": 1.7515,
+                "Tag": 453,
+                "ActionTag": -123091653,
+                "Size": {
+                  "X": 2.0,
+                  "Y": 38.0
+                },
+                "Name": "Line6",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 352086460,
+            "Size": {
+              "X": 798.0,
+              "Y": 50.0
+            },
+            "Name": "MGHistoryViewCell",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Swiss Condensed.ttf",
+        "atlas/AtlasBAPD/AtlasBAPD.plist",
+        "atlas/AtlasBAPD/AtlasBAPD.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

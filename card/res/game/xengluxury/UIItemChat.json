@@ -1,0 +1,78 @@
+{
+  "ID": "acf49514-8110-48a9-b4ff-0ddccd44780b",
+  "Version": "3.10.0.0",
+  "Name": "UIItemChat",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2911,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundChat.png",
+              "Plist": "game/xengluxury/AtlasXengLuxury/atlasXengLuxury1.plist"
+            },
+            "Scale9OriginX": 51,
+            "Scale9OriginY": 63,
+            "Scale9Width": 55,
+            "Scale9Height": 65,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -78.5,
+            "RightMargin": -78.5,
+            "TopMargin": -95.5,
+            "BottomMargin": -95.5,
+            "Tag": 2912,
+            "ActionTag": -40152773,
+            "Size": {
+              "X": 157.0,
+              "Y": 191.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "AtlasXengLuxury/atlasXengLuxury1.plist",
+        "AtlasXengLuxury/atlasXengLuXury1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

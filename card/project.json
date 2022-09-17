@@ -1,0 +1,18 @@
+{
+    "project_type": "javascript",
+    "AppVersion":"1.0.0",
+    "debugMode" : 0,
+    "showFPS" : false,
+    "frameRate" : 30,
+    "noCache" : true,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "gameWidth": 1280,
+    "gameHeight": 720,
+    "modules" : ["cocos2d","extensions"],
+    "jsList" : [
+        "game.min.js"
+    ]
+    
+}

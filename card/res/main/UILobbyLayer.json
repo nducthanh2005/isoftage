@@ -1,0 +1,259 @@
+{
+  "ID": "9908347f-fbdb-40a8-a6b2-b5b8784a08f1",
+  "Version": "3.10.0.0",
+  "Name": "UILobbyLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 28,
+        "Children": [
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "Tên Game",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 484.9418,
+              "Y": 573.0502
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3789,
+              "Y": 0.7959
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.0472
+            },
+            "LeftMargin": 324.9418,
+            "RightMargin": 635.0582,
+            "TopMargin": 129.9498,
+            "BottomMargin": 556.0502,
+            "Tag": 158,
+            "ActionTag": 1303380046,
+            "Size": {
+              "X": 320.0,
+              "Y": 34.0
+            },
+            "Name": "MGTittleGameName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "main/UIListRoomsNode.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 777.0159,
+              "Y": 322.9786
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.607,
+              "Y": 0.4486
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 777.0159,
+            "RightMargin": 502.9841,
+            "TopMargin": 397.0214,
+            "BottomMargin": 322.9786,
+            "Tag": 199,
+            "ActionTag": 662200238,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeListRoom",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "main/UILobyControlNode.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1127.6125,
+              "Y": 570.3719
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8809,
+              "Y": 0.7922
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1127.6125,
+            "RightMargin": 152.3875,
+            "TopMargin": 149.6281,
+            "BottomMargin": 570.3719,
+            "Tag": 2061,
+            "ActionTag": -304706657,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeBtnLobbyController",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "main/UILobyRoomControlNode.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 956.0051,
+              "Y": 569.0482
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7469,
+              "Y": 0.7903
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 956.0051,
+            "RightMargin": 323.9949,
+            "TopMargin": 150.9518,
+            "BottomMargin": 569.0482,
+            "Tag": 3200,
+            "ActionTag": 709099371,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGNodeBtnBoardController",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "main/UIFooterLobbyNode.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 790.5917,
+              "Y": 152.1323
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6176,
+              "Y": 0.2113
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 790.5917,
+            "RightMargin": 489.4083,
+            "TopMargin": 567.8677,
+            "BottomMargin": 152.1323,
+            "Tag": 3394,
+            "ActionTag": -1071764286,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGNodeTaoBan",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/tahomabd.ttf",
+        "UIFooterLobbyNode.json",
+        "UIListRoomsNode.json",
+        "UILobyControlNode.json",
+        "UILobyRoomControlNode.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

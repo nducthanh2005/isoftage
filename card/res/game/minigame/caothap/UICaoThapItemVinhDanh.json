@@ -1,0 +1,428 @@
+{
+  "ID": "5130d776-8007-4142-870e-5497a9367848",
+  "Version": "3.10.0.0",
+  "Name": "UICaoThapItemVinhDanh",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 436,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -329.421,
+              "Y": -21.4122
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -329.421,
+            "RightMargin": -328.579,
+            "TopMargin": -15.5878,
+            "BottomMargin": -21.4122,
+            "Tag": 158,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SelectRect.png",
+                  "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+                },
+                "Scale9OriginX": 65,
+                "Scale9OriginY": 10,
+                "Scale9Width": 68,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 327.3028,
+                  "Y": 18.5707
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4974,
+                  "Y": 0.5019
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -1.6972,
+                "RightMargin": 1.6972,
+                "TopMargin": -0.0707,
+                "BottomMargin": 0.0707,
+                "Tag": 438,
+                "ActionTag": 880380743,
+                "Size": {
+                  "X": 658.0,
+                  "Y": 37.0
+                },
+                "Name": "MGBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "2018-01-30 11:11:31",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75.2144,
+                  "Y": 18.8282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1143,
+                  "Y": 0.5089
+                },
+                "PreSize": {
+                  "X": 0.2219,
+                  "Y": 0.4324
+                },
+                "LeftMargin": 2.2144,
+                "RightMargin": 509.7856,
+                "TopMargin": 10.1718,
+                "BottomMargin": 10.8282,
+                "Tag": 439,
+                "ActionTag": 167720873,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 16.0
+                },
+                "Name": "ItemTime",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "mmmmmmwwmmmmmm",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.0637,
+                  "Y": 18.8282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3618,
+                  "Y": 0.5089
+                },
+                "PreSize": {
+                  "X": 0.269,
+                  "Y": 0.4324
+                },
+                "LeftMargin": 149.5637,
+                "RightMargin": 331.4363,
+                "TopMargin": 10.1718,
+                "BottomMargin": 10.8282,
+                "Tag": 440,
+                "ActionTag": -145274412,
+                "Size": {
+                  "X": 177.0,
+                  "Y": 16.0
+                },
+                "Name": "ItemTaiKhoan",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "1.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.3729,
+                  "Y": 18.8282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 212,
+                  "G": 40,
+                  "B": 171
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5781,
+                  "Y": 0.5089
+                },
+                "PreSize": {
+                  "X": 0.1398,
+                  "Y": 0.4324
+                },
+                "LeftMargin": 334.3729,
+                "RightMargin": 231.6271,
+                "TopMargin": 10.1718,
+                "BottomMargin": 10.8282,
+                "Tag": 441,
+                "ActionTag": 1055208016,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 16.0
+                },
+                "Name": "ItemMucCuoc",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "1.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 489.2307,
+                  "Y": 18.8282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 242,
+                  "G": 222,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7435,
+                  "Y": 0.5089
+                },
+                "PreSize": {
+                  "X": 0.1565,
+                  "Y": 0.4324
+                },
+                "LeftMargin": 437.7307,
+                "RightMargin": 117.2693,
+                "TopMargin": 10.1718,
+                "BottomMargin": 10.8282,
+                "Tag": 442,
+                "ActionTag": -1416654001,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 16.0
+                },
+                "Name": "ItemThang",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 13,
+                "LabelText": "Thắng Lớn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.4018,
+                  "Y": 18.8282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 92,
+                  "G": 208,
+                  "B": 218
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9109,
+                  "Y": 0.5089
+                },
+                "PreSize": {
+                  "X": 0.1641,
+                  "Y": 0.8108
+                },
+                "LeftMargin": 545.4018,
+                "RightMargin": 4.5982,
+                "TopMargin": 3.1718,
+                "BottomMargin": 3.8282,
+                "Tag": 443,
+                "ActionTag": -25417266,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 30.0
+                },
+                "Name": "ItemBoBai",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 947789411,
+            "Size": {
+              "X": 658.0,
+              "Y": 37.0
+            },
+            "Name": "Panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "../../../main/atlas/AtlasPopups/AtlasPopups.plist",
+        "../../../main/atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

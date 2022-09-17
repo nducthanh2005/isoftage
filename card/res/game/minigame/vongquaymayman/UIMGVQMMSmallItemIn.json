@@ -1,0 +1,141 @@
+{
+  "ID": "7d3b5f80-6f8f-4b09-a4a8-358eaeef8105",
+  "Version": "3.10.0.0",
+  "Name": "UIMGVQMMSmallItemIn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 142,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_vongsang_nho_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 40,
+            "Scale9Width": 32,
+            "Scale9Height": 43,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0002,
+              "Y": -14.9993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 1.0,
+            "RotationSkewY": 1.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -46.9998,
+            "RightMargin": -47.0002,
+            "TopMargin": -46.5007,
+            "BottomMargin": -76.4993,
+            "Tag": 760,
+            "ActionTag": 2073108234,
+            "Size": {
+              "X": 94.0,
+              "Y": 123.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGHighlight",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Facebook.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 155,
+              "G": 27,
+              "B": 30
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0008,
+              "Y": 28.3379
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -40.4992,
+            "RightMargin": -40.5008,
+            "TopMargin": -60.8379,
+            "BottomMargin": -4.1621,
+            "Tag": 759,
+            "ActionTag": 75959699,
+            "Size": {
+              "X": 81.0,
+              "Y": 65.0
+            },
+            "Name": "MGTextValue",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/UTM Facebook.ttf",
+        "atlas/AtlasVongQuayMayMan.plist",
+        "atlas/AtlasVongQuayMayMan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,1991 @@
+{
+  "ID": "d686858d-f4d9-4a82-8a08-a9698bad0904",
+  "Version": "3.10.0.0",
+  "Name": "UILayerLieng",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tablePlay.png",
+              "Plist": "game/Components/AtlasTable/AtlasTable.plist"
+            },
+            "Scale9OriginX": 354,
+            "Scale9OriginY": 164,
+            "Scale9Width": 366,
+            "Scale9Height": 169,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8391,
+              "Y": 0.6903
+            },
+            "LeftMargin": 103.0,
+            "RightMargin": 103.0,
+            "TopMargin": 111.5,
+            "BottomMargin": 111.5,
+            "Tag": 35,
+            "ActionTag": 1167087677,
+            "Size": {
+              "X": 1074.0,
+              "Y": 497.0
+            },
+            "Name": "MGBackGroundLieng",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "LIENG",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM Swiss CondensedBold.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 623.0,
+              "Y": 333.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 52,
+              "G": 33,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4867,
+              "Y": 0.4625
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.0694
+            },
+            "LeftMargin": 578.0,
+            "RightMargin": 612.0,
+            "TopMargin": 362.0,
+            "BottomMargin": 308.0,
+            "Tag": 37,
+            "ActionTag": -1857308452,
+            "Size": {
+              "X": 90.0,
+              "Y": 50.0
+            },
+            "Alpha": 51,
+            "Name": "MGTextLieng",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 38,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 477.3954,
+                  "Y": 198.1079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 477.3954,
+                "RightMargin": -477.3954,
+                "TopMargin": -198.1079,
+                "BottomMargin": 198.1079,
+                "Tag": 39,
+                "ActionTag": -539606285,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1143.4805,
+                  "Y": 298.3258
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1143.4805,
+                "RightMargin": -1143.4805,
+                "TopMargin": -298.3258,
+                "BottomMargin": 298.3258,
+                "Tag": 40,
+                "ActionTag": -29300862,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1085.3767,
+                  "Y": 584.332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1085.3767,
+                "RightMargin": -1085.3767,
+                "TopMargin": -584.332,
+                "BottomMargin": 584.332,
+                "Tag": 41,
+                "ActionTag": -473750210,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 639.9996,
+                  "Y": 659.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 639.9996,
+                "RightMargin": -639.9996,
+                "TopMargin": -659.0951,
+                "BottomMargin": 659.0951,
+                "Tag": 42,
+                "ActionTag": -1980428278,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 205.7534,
+                  "Y": 547.5284
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 205.7534,
+                "RightMargin": -205.7534,
+                "TopMargin": -547.5284,
+                "BottomMargin": 547.5284,
+                "Tag": 43,
+                "ActionTag": 1352871265,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 161.1059,
+                  "Y": 236.1668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 161.1059,
+                "RightMargin": -161.1059,
+                "TopMargin": -236.1668,
+                "BottomMargin": 236.1668,
+                "Tag": 44,
+                "ActionTag": 1814972187,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGPosition_6",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1332387347,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGContainUser",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 45,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 588.8839,
+                  "Y": 192.3699
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 588.8839,
+                "RightMargin": -588.8839,
+                "TopMargin": -192.3699,
+                "BottomMargin": 192.3699,
+                "Tag": 46,
+                "ActionTag": 1553432665,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 987.8276,
+                  "Y": 298.3943
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 987.8276,
+                "RightMargin": -987.8276,
+                "TopMargin": -298.3943,
+                "BottomMargin": 298.3943,
+                "Tag": 47,
+                "ActionTag": -1870263259,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 921.4279,
+                  "Y": 505.8374
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 921.4279,
+                "RightMargin": -921.4279,
+                "TopMargin": -505.8374,
+                "BottomMargin": 505.8374,
+                "Tag": 48,
+                "ActionTag": -217118231,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 615.2997,
+                  "Y": 511.1183
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 615.2997,
+                "RightMargin": -615.2997,
+                "TopMargin": -511.1183,
+                "BottomMargin": 511.1183,
+                "Tag": 49,
+                "ActionTag": 319501614,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 306.1418,
+                  "Y": 503.912
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 306.1418,
+                "RightMargin": -306.1418,
+                "TopMargin": -503.912,
+                "BottomMargin": 503.912,
+                "Tag": 50,
+                "ActionTag": -1548749548,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 256.2509,
+                  "Y": 288.0938
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 256.2509,
+                "RightMargin": -256.2509,
+                "TopMargin": -288.0938,
+                "BottomMargin": 288.0938,
+                "Tag": 51,
+                "ActionTag": -218722867,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBoxCard_6",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BoBai.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 20,
+                "Scale9Width": 29,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 622.0002,
+                  "Y": 363.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 593.5002,
+                "RightMargin": -650.5002,
+                "TopMargin": -401.5003,
+                "BottomMargin": 324.5003,
+                "Tag": 234,
+                "ActionTag": -858764734,
+                "Size": {
+                  "X": 57.0,
+                  "Y": 77.0
+                },
+                "Name": "MGBobaiLieng",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1724454650,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGBoxCardNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/lieng/UIComboButtonLieng.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 947.7283,
+              "Y": 46.8463
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7404,
+              "Y": 0.0651
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 947.7283,
+            "RightMargin": 332.2717,
+            "TopMargin": 673.1537,
+            "BottomMargin": 46.8463,
+            "Tag": 59,
+            "ActionTag": -1464224841,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboButtonLieng",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 1318,
+            "ActionTag": -1141605238,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGPopupDonTay",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 407.1669,
+              "Y": 46.8463
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3181,
+              "Y": 0.0651
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 407.1669,
+            "RightMargin": 872.8331,
+            "TopMargin": 673.1537,
+            "BottomMargin": 46.8463,
+            "Tag": 90,
+            "ActionTag": -2181550,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNodeComboBet",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/lieng/UIItemComboText.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 947.6446,
+              "Y": 94.3925
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7403,
+              "Y": 0.1311
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 947.6446,
+            "RightMargin": 332.3554,
+            "TopMargin": 625.6074,
+            "BottomMargin": 94.3925,
+            "Tag": 68,
+            "ActionTag": 407532953,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboText",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VerticalEdge": "TopEdge",
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 63,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.171,
+                  "Y": 272.824
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 595.671,
+                "RightMargin": -672.671,
+                "TopMargin": -282.324,
+                "BottomMargin": 263.324,
+                "Tag": 66,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.7537,
+                      "Y": 10.8867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4903,
+                      "Y": 0.573
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -3.2463,
+                    "RightMargin": -1.7537,
+                    "TopMargin": 0.1133,
+                    "BottomMargin": 2.8867,
+                    "Tag": 67,
+                    "ActionTag": 1957788286,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1962650782,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 898.262,
+                  "Y": 292.5859
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 859.762,
+                "RightMargin": -936.762,
+                "TopMargin": -302.0859,
+                "BottomMargin": 283.0859,
+                "Tag": 64,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 38.7537,
+                      "Y": 9.8866
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5033,
+                      "Y": 0.5203
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -2.2463,
+                    "RightMargin": -2.7537,
+                    "TopMargin": 1.1134,
+                    "BottomMargin": 1.8866,
+                    "Tag": 65,
+                    "ActionTag": 1060818520,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1084807180,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 831.9473,
+                  "Y": 474.9448
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 793.4473,
+                "RightMargin": -870.4473,
+                "TopMargin": -484.4448,
+                "BottomMargin": 465.4448,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.7537,
+                      "Y": 8.8867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4903,
+                      "Y": 0.4677
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -3.2463,
+                    "RightMargin": -1.7537,
+                    "TopMargin": 2.1133,
+                    "BottomMargin": 0.8867,
+                    "Tag": 73,
+                    "ActionTag": -1354936440,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 275989066,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 636.9091,
+                  "Y": 414.5336
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 598.4091,
+                "RightMargin": -675.4091,
+                "TopMargin": -424.0336,
+                "BottomMargin": 405.0336,
+                "Tag": 316,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.7537,
+                      "Y": 8.8867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4903,
+                      "Y": 0.4677
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -3.2463,
+                    "RightMargin": -1.7537,
+                    "TopMargin": 2.1133,
+                    "BottomMargin": 0.8867,
+                    "Tag": 317,
+                    "ActionTag": -465265041,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1603261980,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 455.4695,
+                  "Y": 463.4565
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 416.9695,
+                "RightMargin": -493.9695,
+                "TopMargin": -472.9565,
+                "BottomMargin": 453.9565,
+                "Tag": 70,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.7537,
+                      "Y": 8.8867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4903,
+                      "Y": 0.4677
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -3.2463,
+                    "RightMargin": -1.7537,
+                    "TopMargin": 2.1133,
+                    "BottomMargin": 0.8867,
+                    "Tag": 71,
+                    "ActionTag": 539603599,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 838816316,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BackGroundTien.png",
+                  "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 6,
+                "Scale9Width": 27,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 405.7964,
+                  "Y": 313.2444
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 367.2964,
+                "RightMargin": -444.2964,
+                "TopMargin": -322.7444,
+                "BottomMargin": 303.7444,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "999.999.999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.7537,
+                      "Y": 8.8867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4903,
+                      "Y": 0.4677
+                    },
+                    "PreSize": {
+                      "X": 1.0649,
+                      "Y": 0.8421
+                    },
+                    "LeftMargin": -3.2463,
+                    "RightMargin": -1.7537,
+                    "TopMargin": 2.1133,
+                    "BottomMargin": 0.8867,
+                    "Tag": 69,
+                    "ActionTag": -912497510,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 16.0
+                    },
+                    "Name": "MGTextCuoc",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1824110860,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 19.0
+                },
+                "Name": "MGBetCuoc_6",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 410558542,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboTextBetCuoc",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 119,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 477.3954,
+                  "Y": 198.1079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 477.3954,
+                "RightMargin": -477.3954,
+                "TopMargin": -198.1079,
+                "BottomMargin": 198.1079,
+                "Tag": 120,
+                "ActionTag": 455248611,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1143.4805,
+                  "Y": 298.3258
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1143.4805,
+                "RightMargin": -1143.4805,
+                "TopMargin": -298.3258,
+                "BottomMargin": 298.3258,
+                "Tag": 121,
+                "ActionTag": -1387762116,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1085.3767,
+                  "Y": 584.332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1085.3767,
+                "RightMargin": -1085.3767,
+                "TopMargin": -584.332,
+                "BottomMargin": 584.332,
+                "Tag": 122,
+                "ActionTag": -1481050,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 639.9988,
+                  "Y": 659.0951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 639.9988,
+                "RightMargin": -639.9988,
+                "TopMargin": -659.0951,
+                "BottomMargin": 659.0951,
+                "Tag": 123,
+                "ActionTag": -2020600091,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 205.7534,
+                  "Y": 547.5284
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 205.7534,
+                "RightMargin": -205.7534,
+                "TopMargin": -547.5284,
+                "BottomMargin": 547.5284,
+                "Tag": 124,
+                "ActionTag": -2067242572,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 161.1059,
+                  "Y": 236.1668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 161.1059,
+                "RightMargin": -161.1059,
+                "TopMargin": -236.1668,
+                "BottomMargin": 236.1668,
+                "Tag": 125,
+                "ActionTag": 421305928,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGEffect_6",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1229984831,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboEffect",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 146,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 632.8876,
+                  "Y": 293.2396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 632.8876,
+                "RightMargin": -632.8876,
+                "TopMargin": -293.2396,
+                "BottomMargin": 293.2396,
+                "Tag": 147,
+                "ActionTag": -572901813,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 896.149,
+                  "Y": 313.4254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 896.149,
+                "RightMargin": -896.149,
+                "TopMargin": -313.4254,
+                "BottomMargin": 313.4254,
+                "Tag": 148,
+                "ActionTag": 1164556253,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 831.368,
+                  "Y": 496.8581
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 831.368,
+                "RightMargin": -831.368,
+                "TopMargin": -496.8581,
+                "BottomMargin": 496.8581,
+                "Tag": 149,
+                "ActionTag": -83143118,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 636.9996,
+                  "Y": 433.9189
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 636.9996,
+                "RightMargin": -636.9996,
+                "TopMargin": -433.9189,
+                "BottomMargin": 433.9189,
+                "Tag": 150,
+                "ActionTag": 1904593693,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 454.7222,
+                  "Y": 485.3108
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 454.7222,
+                "RightMargin": -454.7222,
+                "TopMargin": -485.3108,
+                "BottomMargin": 485.3108,
+                "Tag": 151,
+                "ActionTag": 1208338870,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_5",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 405.1053,
+                  "Y": 336.1663
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 405.1053,
+                "RightMargin": -405.1053,
+                "TopMargin": -336.1663,
+                "BottomMargin": 336.1663,
+                "Tag": 152,
+                "ActionTag": 1534743120,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGBetCuoc_6",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1132558,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGComboXu",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TextDonTay.png",
+              "Plist": "game/lieng/atlaslieng/atlasLieng.plist"
+            },
+            "Scale9OriginX": 157,
+            "Scale9OriginY": 16,
+            "Scale9Width": 164,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 633.1225,
+              "Y": 360.9003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4946,
+              "Y": 0.5013
+            },
+            "PreSize": {
+              "X": 0.3734,
+              "Y": 0.0681
+            },
+            "LeftMargin": 394.1225,
+            "RightMargin": 407.8775,
+            "TopMargin": 334.5997,
+            "BottomMargin": 336.4003,
+            "Tag": 60,
+            "ActionTag": 1028470996,
+            "Size": {
+              "X": 478.0,
+              "Y": 49.0
+            },
+            "Name": "MGTextDonTay",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 632.9994,
+              "Y": 423.9968
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4945,
+              "Y": 0.5889
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 632.9994,
+            "RightMargin": 647.0006,
+            "TopMargin": 296.0032,
+            "BottomMargin": 423.9968,
+            "Tag": 63,
+            "ActionTag": -11817352,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGTextVanMoi",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "../../Fonts/UTM Swiss CondensedBold.ttf",
+        "../Components/AtlasTable/AtlasTable.plist",
+        "../Components/AtlasTable/AtlasTable.png",
+        "atlaslieng/atlasLieng.plist",
+        "atlaslieng/atlasLieng.png",
+        "UIComboButtonLieng.json",
+        "UIItemComboText.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

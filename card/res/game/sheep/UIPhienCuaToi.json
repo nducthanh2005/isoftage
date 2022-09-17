@@ -1,0 +1,370 @@
+{
+  "ID": "432117d9-1b91-4caf-8388-d833c576a117",
+  "Version": "3.10.0.0",
+  "Name": "UIPhienCuaToi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ket-qua.png",
+              "Plist": "game/sheep/Atlas/AtlastSheep.plist"
+            },
+            "Scale9OriginX": 88,
+            "Scale9OriginY": 49,
+            "Scale9Width": 93,
+            "Scale9Height": 51,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0001,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -134.4999,
+            "RightMargin": -134.5001,
+            "TopMargin": -74.5,
+            "BottomMargin": -74.5,
+            "Tag": 36,
+            "ActionTag": 855870061,
+            "Size": {
+              "X": 269.0,
+              "Y": 149.0
+            },
+            "Name": "MGBackGround",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -125.0216,
+              "Y": 49.5718
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -125.0216,
+            "RightMargin": -124.9784,
+            "TopMargin": -49.5718,
+            "BottomMargin": -68.4282,
+            "Tag": 37,
+            "ActionTag": 1889495041,
+            "Size": {
+              "X": 250.0,
+              "Y": 118.0
+            },
+            "Name": "MGPanel",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FontSize": 12,
+            "LabelText": "Phiên",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -113.3498,
+              "Y": 59.999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 31,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -113.3498,
+            "RightMargin": 76.3498,
+            "TopMargin": -68.999,
+            "BottomMargin": 50.999,
+            "Tag": 38,
+            "ActionTag": -798329380,
+            "Size": {
+              "X": 37.0,
+              "Y": 18.0
+            },
+            "Name": "Text_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Cược",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -39.7459,
+              "Y": 59.999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 31,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -58.2459,
+            "RightMargin": 21.2459,
+            "TopMargin": -68.999,
+            "BottomMargin": 50.999,
+            "Tag": 39,
+            "ActionTag": -1083263031,
+            "Size": {
+              "X": 37.0,
+              "Y": 18.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Trúng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 28.6772,
+              "Y": 59.999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 31,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.1772,
+            "RightMargin": -47.1772,
+            "TopMargin": -68.999,
+            "BottomMargin": 50.999,
+            "Tag": 40,
+            "ActionTag": 1281624928,
+            "Size": {
+              "X": 37.0,
+              "Y": 18.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 12,
+            "LabelText": "Bước",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UTM AvoBold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.7274,
+              "Y": 59.999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 31,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 79.2274,
+            "RightMargin": -114.2274,
+            "TopMargin": -68.999,
+            "BottomMargin": 50.999,
+            "Tag": 41,
+            "ActionTag": -132646480,
+            "Size": {
+              "X": 35.0,
+              "Y": 18.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM AvoBold.ttf",
+        "Atlas/AtlastSheep.plist",
+        "Atlas/AtlastSheep.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

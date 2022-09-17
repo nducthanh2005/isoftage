@@ -1,0 +1,185 @@
+{
+  "ID": "17661110-c840-4db5-b13d-e8a60cbfcd60",
+  "Version": "3.10.0.0",
+  "Name": "UIHandTutorial",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 45,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "imageHand.png",
+              "Plist": "game/sheep/Atlas/AtlastSheep.plist"
+            },
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 31,
+            "Scale9Width": 30,
+            "Scale9Height": 34,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -192.0,
+              "Y": 29.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -235.0,
+            "RightMargin": 149.0,
+            "TopMargin": -77.0,
+            "BottomMargin": -19.0,
+            "Tag": 46,
+            "ActionTag": -587719412,
+            "Size": {
+              "X": 86.0,
+              "Y": 96.0
+            },
+            "Name": "ImageHandSheep",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BgTextWithHand.png",
+              "Plist": "game/sheep/Atlas/AtlastSheep.plist"
+            },
+            "Scale9OriginX": 142,
+            "Scale9OriginY": 19,
+            "Scale9Width": 148,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 22.1975,
+              "Y": -40.1052
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -193.8025,
+            "RightMargin": -238.1975,
+            "TopMargin": 11.1052,
+            "BottomMargin": -69.1052,
+            "Tag": 47,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "Step 1: Huong dan choi G",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM AvoBold.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 9.7603,
+                  "Y": 29.7919
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0226,
+                  "Y": 0.5137
+                },
+                "PreSize": {
+                  "X": 0.9537,
+                  "Y": 0.7241
+                },
+                "LeftMargin": 9.7603,
+                "RightMargin": 10.2397,
+                "TopMargin": 7.2081,
+                "BottomMargin": 8.7919,
+                "Tag": 48,
+                "ActionTag": -1341362482,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 42.0
+                },
+                "Name": "TextHandSheep",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -852916839,
+            "Size": {
+              "X": 432.0,
+              "Y": 58.0
+            },
+            "Name": "BGTextHandSheep",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM AvoBold.ttf",
+        "Atlas/AtlastSheep.plist",
+        "Atlas/AtlastSheep.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,434 @@
+{
+  "ID": "b31fc54f-cea3-4543-a6e1-51f16d366b2b",
+  "Version": "3.10.0.0",
+  "Name": "UIXTHContentThangLon",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1132,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGTextThangLon.png",
+              "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+            },
+            "Scale9OriginX": 283,
+            "Scale9OriginY": 14,
+            "Scale9Width": 294,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -430.0,
+            "RightMargin": -430.0,
+            "TopMargin": -21.5,
+            "BottomMargin": -21.5,
+            "Tag": 1140,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "1235456",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.9996,
+                  "Y": 20.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 107,
+                  "G": 66,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0628,
+                  "Y": 0.4884
+                },
+                "PreSize": {
+                  "X": 0.1174,
+                  "Y": 0.6977
+                },
+                "LeftMargin": 3.4996,
+                "RightMargin": 755.5004,
+                "TopMargin": 7.0001,
+                "BottomMargin": 5.9999,
+                "Tag": 1141,
+                "ActionTag": 241038504,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 30.0
+                },
+                "Name": "TextSTT",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "123456789",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 179.1277,
+                  "Y": 20.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 107,
+                  "G": 66,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2083,
+                  "Y": 0.4884
+                },
+                "PreSize": {
+                  "X": 0.1686,
+                  "Y": 0.6977
+                },
+                "LeftMargin": 106.6277,
+                "RightMargin": 608.3723,
+                "TopMargin": 7.0001,
+                "BottomMargin": 5.9999,
+                "Tag": 1142,
+                "ActionTag": 944414620,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 30.0
+                },
+                "Name": "TextMTK",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "555.555.555",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 372.8278,
+                  "Y": 20.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 107,
+                  "G": 66,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4335,
+                  "Y": 0.4884
+                },
+                "PreSize": {
+                  "X": 0.2733,
+                  "Y": 0.6977
+                },
+                "LeftMargin": 255.3278,
+                "RightMargin": 369.6722,
+                "TopMargin": 7.0001,
+                "BottomMargin": 5.9999,
+                "Tag": 1143,
+                "ActionTag": 834425653,
+                "Size": {
+                  "X": 235.0,
+                  "Y": 30.0
+                },
+                "Name": "TextTenHienThi",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "555.555.555",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 571.3416,
+                  "Y": 20.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 107,
+                  "G": 66,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6644,
+                  "Y": 0.4884
+                },
+                "PreSize": {
+                  "X": 0.1814,
+                  "Y": 0.6977
+                },
+                "LeftMargin": 493.3416,
+                "RightMargin": 210.6584,
+                "TopMargin": 7.0001,
+                "BottomMargin": 5.9999,
+                "Tag": 1144,
+                "ActionTag": -525461557,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 30.0
+                },
+                "Name": "TextKetQua",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 17,
+                "LabelText": "555.555.555",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Aristote.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 755.3997,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 86,
+                  "B": 4
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8784,
+                  "Y": 0.4884
+                },
+                "PreSize": {
+                  "X": 0.236,
+                  "Y": 0.6977
+                },
+                "LeftMargin": 653.8997,
+                "RightMargin": 3.1003,
+                "TopMargin": 7.0,
+                "BottomMargin": 6.0,
+                "Tag": 1145,
+                "ActionTag": 1144299669,
+                "Size": {
+                  "X": 203.0,
+                  "Y": 30.0
+                },
+                "Name": "TextTienThang",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "iconLinePopup.png",
+                  "Plist": "game/xengthamhiem/atlas/AtlasXengThamHiem.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginY": 64,
+                "Scale9Width": 3,
+                "Scale9Height": 68,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 430.5,
+                  "Y": 43.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5006,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.0035,
+                  "Y": 19.9767
+                },
+                "LeftMargin": 429.0,
+                "RightMargin": 428.0,
+                "TopMargin": -429.5,
+                "BottomMargin": -386.5,
+                "Tag": 454,
+                "ActionTag": 208594370,
+                "Size": {
+                  "X": 3.0,
+                  "Y": 859.0
+                },
+                "Name": "LineTop",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 249050981,
+            "Size": {
+              "X": 860.0,
+              "Y": 43.0
+            },
+            "Alpha": 220,
+            "Name": "ContentTLTH",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM Aristote.ttf",
+        "atlas/AtlasXengThamHiem.plist",
+        "atlas/AtlasXengThamHiem.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

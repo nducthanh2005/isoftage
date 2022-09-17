@@ -1,0 +1,1301 @@
+{
+  "ID": "d540cec9-3bcc-42f8-af8f-c751c65eec4c",
+  "Version": "3.10.0.0",
+  "Name": "UIMGXHCPopupHistory",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 373,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_info_bg_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 98,
+            "Scale9Width": 500,
+            "Scale9Height": 191,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.8597,
+              "Y": 325.3029
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 102.8597,
+            "RightMargin": -1184.8596,
+            "TopMargin": -648.8029,
+            "BottomMargin": 1.8029,
+            "Tag": 558,
+            "ActionTag": 1169913544,
+            "Size": {
+              "X": 1082.0,
+              "Y": 647.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_lichsu_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 120,
+            "Scale9OriginY": 19,
+            "Scale9Width": 17,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.6188,
+              "Y": 593.9044
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 510.1188,
+            "RightMargin": -767.1188,
+            "TopMargin": -628.9044,
+            "BottomMargin": 558.9044,
+            "Tag": 555,
+            "ActionTag": -1706272587,
+            "Size": {
+              "X": 257.0,
+              "Y": 70.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_notify_bg_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 132,
+            "Scale9OriginY": 43,
+            "Scale9Width": 136,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.9815,
+              "Y": 332.1435
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 182.4815,
+            "RightMargin": -1101.4814,
+            "TopMargin": -532.1435,
+            "BottomMargin": 132.1435,
+            "Tag": 557,
+            "ActionTag": -28936754,
+            "Size": {
+              "X": 919.0,
+              "Y": 400.0
+            },
+            "Name": "Image_5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_line_row_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginY": 64,
+            "Scale9Width": 1,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 897.2328,
+              "Y": 505.8326
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 896.7328,
+            "RightMargin": -897.7328,
+            "TopMargin": -530.8326,
+            "BottomMargin": 480.8326,
+            "Tag": 533,
+            "ActionTag": 1746157314,
+            "Size": {
+              "X": 1.0,
+              "Y": 50.0
+            },
+            "Name": "Image_10_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_line_row_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginY": 64,
+            "Scale9Width": 1,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 734.3324,
+              "Y": 505.7751
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 733.8324,
+            "RightMargin": -734.8324,
+            "TopMargin": -530.7751,
+            "BottomMargin": 480.7751,
+            "Tag": 534,
+            "ActionTag": 656711511,
+            "Size": {
+              "X": 1.0,
+              "Y": 50.0
+            },
+            "Name": "Image_10_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_line_row_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginY": 64,
+            "Scale9Width": 1,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.8216,
+              "Y": 507.1201
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 527.3216,
+            "RightMargin": -528.3216,
+            "TopMargin": -532.1201,
+            "BottomMargin": 482.1201,
+            "Tag": 535,
+            "ActionTag": 289015637,
+            "Size": {
+              "X": 1.0,
+              "Y": 50.0
+            },
+            "Name": "Image_10_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_line_row_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginY": 64,
+            "Scale9Width": 1,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 317.3849,
+              "Y": 506.6834
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 316.8849,
+            "RightMargin": -317.8849,
+            "TopMargin": -531.6834,
+            "BottomMargin": 481.6834,
+            "Tag": 536,
+            "ActionTag": 899650321,
+            "Size": {
+              "X": 1.0,
+              "Y": 50.0
+            },
+            "Name": "Image_10",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_list_line_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 300,
+            "Scale9Width": 312,
+            "Scale9Height": 2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.4536,
+              "Y": 481.8247
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 185.4536,
+            "RightMargin": -1097.4536,
+            "TopMargin": -482.8247,
+            "BottomMargin": 480.8247,
+            "Tag": 541,
+            "ActionTag": -1959827713,
+            "Size": {
+              "X": 912.0,
+              "Y": 2.0
+            },
+            "Name": "Image_1_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_backtoGame_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 275,
+            "Scale9Height": 47,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 634.1591,
+              "Y": 54.4666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 481.6591,
+            "RightMargin": -786.6591,
+            "TopMargin": -88.9666,
+            "BottomMargin": 19.9666,
+            "Tag": 556,
+            "ActionTag": 11249016,
+            "Size": {
+              "X": 305.0,
+              "Y": 69.0
+            },
+            "Name": "MGCompoHistoryButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 180.3099,
+              "Y": 141.2925
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 180.3099,
+            "RightMargin": -1099.3099,
+            "TopMargin": -482.2925,
+            "BottomMargin": 141.2925,
+            "Tag": 554,
+            "ActionTag": 863278575,
+            "Size": {
+              "X": 919.0,
+              "Y": 341.0
+            },
+            "Name": "MGHistoryListView",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 180.6429,
+              "Y": 422.2134
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 180.6429,
+            "RightMargin": -1099.6429,
+            "TopMargin": -482.2134,
+            "BottomMargin": 422.2134,
+            "Tag": 543,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "12345678",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.0307,
+                  "Y": 30.2373
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0729,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.1328,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 6.0307,
+                "RightMargin": 790.9693,
+                "TopMargin": 4.7627,
+                "BottomMargin": 5.2373,
+                "Tag": 544,
+                "ActionTag": -404469984,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 50.0
+                },
+                "Name": "Text1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "17:08:30\n17/05/2017",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.4231,
+                  "Y": 29.1304
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2616,
+                  "Y": 0.4855
+                },
+                "PreSize": {
+                  "X": 0.1697,
+                  "Y": 0.9833
+                },
+                "LeftMargin": 162.4231,
+                "RightMargin": 600.5769,
+                "TopMargin": 1.3696,
+                "BottomMargin": -0.3696,
+                "Tag": 545,
+                "ActionTag": 1273993646,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 59.0
+                },
+                "Name": "Text2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "9.999.999.999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 453.6733,
+                  "Y": 30.4351
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4937,
+                  "Y": 0.5073
+                },
+                "PreSize": {
+                  "X": 0.1959,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 363.6733,
+                "RightMargin": 375.3267,
+                "TopMargin": 4.5649,
+                "BottomMargin": 5.4351,
+                "Tag": 546,
+                "ActionTag": 346223214,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 50.0
+                },
+                "Name": "Text3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "5",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 632.5217,
+                  "Y": 30.5739
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6883,
+                  "Y": 0.5096
+                },
+                "PreSize": {
+                  "X": 0.1055,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 584.0217,
+                "RightMargin": 237.9783,
+                "TopMargin": 4.4261,
+                "BottomMargin": 5.5739,
+                "Tag": 547,
+                "ActionTag": 1050360753,
+                "Size": {
+                  "X": 97.0,
+                  "Y": 50.0
+                },
+                "Name": "Text4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "9.999.999.999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.5026,
+                  "Y": 29.5739
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8819,
+                  "Y": 0.4929
+                },
+                "PreSize": {
+                  "X": 0.2067,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 715.5026,
+                "RightMargin": 13.4974,
+                "TopMargin": 5.4261,
+                "BottomMargin": 4.5739,
+                "Tag": 548,
+                "ActionTag": -1520837614,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 50.0
+                },
+                "Name": "Text5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_list_line_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9OriginX": 300,
+                "Scale9Width": 312,
+                "Scale9Height": 2,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 461.3412,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.502,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.9924,
+                  "Y": 0.0333
+                },
+                "LeftMargin": 5.3412,
+                "RightMargin": 1.6588,
+                "TopMargin": 59.0,
+                "BottomMargin": -1.0,
+                "Tag": 549,
+                "ActionTag": -1482759749,
+                "Size": {
+                  "X": 912.0,
+                  "Y": 2.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_line_row_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9OriginY": 64,
+                "Scale9Width": 1,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.3861,
+                  "Y": 29.2781
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1495,
+                  "Y": 0.488
+                },
+                "PreSize": {
+                  "X": 0.0011,
+                  "Y": 1.0
+                },
+                "LeftMargin": 136.8861,
+                "RightMargin": 781.1139,
+                "TopMargin": 0.7219,
+                "BottomMargin": -0.7219,
+                "Tag": 550,
+                "ActionTag": 1639461047,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 60.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_line_row_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9OriginY": 64,
+                "Scale9Width": 1,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 346.8243,
+                  "Y": 29.7782
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3774,
+                  "Y": 0.4963
+                },
+                "PreSize": {
+                  "X": 0.0011,
+                  "Y": 1.0
+                },
+                "LeftMargin": 346.3243,
+                "RightMargin": 571.6757,
+                "TopMargin": 0.2218,
+                "BottomMargin": -0.2218,
+                "Tag": 551,
+                "ActionTag": -139928620,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 60.0
+                },
+                "Name": "Image_2_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_line_row_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9OriginY": 64,
+                "Scale9Width": 1,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 553.5544,
+                  "Y": 30.5013
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6023,
+                  "Y": 0.5084
+                },
+                "PreSize": {
+                  "X": 0.0011,
+                  "Y": 1.0
+                },
+                "LeftMargin": 553.0544,
+                "RightMargin": 364.9456,
+                "TopMargin": -0.5013,
+                "BottomMargin": 0.5013,
+                "Tag": 552,
+                "ActionTag": 1797558166,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 60.0
+                },
+                "Name": "Image_2_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sp_line_row_xhc.png",
+                  "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+                },
+                "Scale9OriginY": 64,
+                "Scale9Width": 1,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 716.2256,
+                  "Y": 30.5309
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7794,
+                  "Y": 0.5088
+                },
+                "PreSize": {
+                  "X": 0.0011,
+                  "Y": 1.0
+                },
+                "LeftMargin": 715.7256,
+                "RightMargin": 202.2744,
+                "TopMargin": -0.5309,
+                "BottomMargin": 0.5309,
+                "Tag": 553,
+                "ActionTag": -25605604,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 60.0
+                },
+                "Name": "Image_2_1_0",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1970021916,
+            "Size": {
+              "X": 919.0,
+              "Y": 60.0
+            },
+            "Name": "MGHistoryViewCell",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_tientrung_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 110,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 991.5741,
+              "Y": 507.0405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 922.5741,
+            "RightMargin": -1060.5741,
+            "TopMargin": -519.5405,
+            "BottomMargin": 494.5405,
+            "Tag": 1789,
+            "ActionTag": -35397463,
+            "Size": {
+              "X": 138.0,
+              "Y": 25.0
+            },
+            "Name": "Image_6_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_dongtrung_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 123,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 815.4889,
+              "Y": 507.0405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 739.9889,
+            "RightMargin": -890.9889,
+            "TopMargin": -519.5405,
+            "BottomMargin": 494.5405,
+            "Tag": 1790,
+            "ActionTag": -1926139226,
+            "Size": {
+              "X": 151.0,
+              "Y": 25.0
+            },
+            "Name": "Image_6_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_cuoc_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 43,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 628.6335,
+              "Y": 507.0405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 593.1335,
+            "RightMargin": -664.1335,
+            "TopMargin": -519.5405,
+            "BottomMargin": 494.5405,
+            "Tag": 1791,
+            "ActionTag": 688255824,
+            "Size": {
+              "X": 71.0,
+              "Y": 25.0
+            },
+            "Name": "Image_6_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_time_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 166,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.0338,
+              "Y": 507.0405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 325.0338,
+            "RightMargin": -519.0338,
+            "TopMargin": -521.5405,
+            "BottomMargin": 492.5405,
+            "Tag": 1792,
+            "ActionTag": 1925547104,
+            "Size": {
+              "X": 194.0,
+              "Y": 29.0
+            },
+            "Name": "Image_6_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_history_phien_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 42,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 245.6518,
+              "Y": 507.0405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 210.6518,
+            "RightMargin": -280.6518,
+            "TopMargin": -519.0405,
+            "BottomMargin": 495.0405,
+            "Tag": 1793,
+            "ActionTag": 315562114,
+            "Size": {
+              "X": 70.0,
+              "Y": 24.0
+            },
+            "Name": "Image_6",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/arialbd.ttf",
+        "atlas/AtlasXHC/AtlasXHC.plist",
+        "atlas/AtlasXHC/AtlasXHC.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

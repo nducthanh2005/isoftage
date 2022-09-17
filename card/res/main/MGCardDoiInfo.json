@@ -1,0 +1,200 @@
+{
+  "ID": "8686e0f4-37a2-4482-a4d0-325953c25825",
+  "Version": "3.10.0.0",
+  "Name": "MGCardDoiInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundLine100000.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 26,
+            "Scale9OriginY": 13,
+            "Scale9Width": 6,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 5.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -222.5,
+            "RightMargin": -232.5,
+            "TopMargin": -19.5,
+            "BottomMargin": -19.5,
+            "Tag": 205,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "100.000 VNĐ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.8965,
+                  "Y": 19.5826
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2283,
+                  "Y": 0.5021
+                },
+                "PreSize": {
+                  "X": 0.4396,
+                  "Y": 0.7692
+                },
+                "LeftMargin": 3.8965,
+                "RightMargin": 251.1035,
+                "TopMargin": 4.4174,
+                "BottomMargin": 4.5826,
+                "Tag": 206,
+                "ActionTag": 224924902,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "MGTxtMenhGia",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "115.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 330.6729,
+                  "Y": 19.5826
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 244,
+                  "G": 67,
+                  "B": 130
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7268,
+                  "Y": 0.5021
+                },
+                "PreSize": {
+                  "X": 0.4396,
+                  "Y": 0.7692
+                },
+                "LeftMargin": 230.6729,
+                "RightMargin": 24.3271,
+                "TopMargin": 4.4174,
+                "BottomMargin": 4.5826,
+                "Tag": 207,
+                "ActionTag": -1011427973,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "MGTxtXuExchange",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 738857463,
+            "Size": {
+              "X": 455.0,
+              "Y": 39.0
+            },
+            "Name": "MGInfoTitle",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/arialbd.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

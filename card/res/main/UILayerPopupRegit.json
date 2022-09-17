@@ -1,0 +1,1100 @@
+{
+  "ID": "c2b1ed9e-ec30-4691-8f45-6c608e5e3a4f",
+  "Version": "3.10.0.0",
+  "Name": "UILayerPopupRegit",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 75,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopup.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 23,
+            "Scale9Width": 419,
+            "Scale9Height": 209,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 630.004,
+              "Y": 359.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4922,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4453,
+              "Y": 0.7639
+            },
+            "LeftMargin": 345.004,
+            "RightMargin": 364.996,
+            "TopMargin": 85.0001,
+            "BottomMargin": 84.9999,
+            "Tag": 77,
+            "ActionTag": 1937715851,
+            "Size": {
+              "X": 570.0,
+              "Y": 550.0
+            },
+            "Name": "MGBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "RegisterText.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 52,
+            "Scale9OriginY": 12,
+            "Scale9Width": 55,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 615.9999,
+              "Y": 610.6715
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.8482
+            },
+            "PreSize": {
+              "X": 0.1242,
+              "Y": 0.0542
+            },
+            "LeftMargin": 536.4999,
+            "RightMargin": 584.5001,
+            "TopMargin": 89.8285,
+            "BottomMargin": 591.1715,
+            "Tag": 273,
+            "ActionTag": 1734062713,
+            "Size": {
+              "X": 159.0,
+              "Y": 39.0
+            },
+            "Name": "MGTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "CloseBtn.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 6,
+            "Scale9Width": 43,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 884.6755,
+              "Y": 608.6633
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6912,
+              "Y": 0.8454
+            },
+            "PreSize": {
+              "X": 0.0461,
+              "Y": 0.0694
+            },
+            "LeftMargin": 855.1755,
+            "RightMargin": 365.8245,
+            "TopMargin": 86.3367,
+            "BottomMargin": 583.6633,
+            "Tag": 78,
+            "ActionTag": 1849447359,
+            "Size": {
+              "X": 59.0,
+              "Y": 50.0
+            },
+            "Name": "MGButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Light.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 110,
+            "Scale9OriginY": 2,
+            "Scale9Width": 114,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 616.0,
+              "Y": 580.2933
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.806
+            },
+            "PreSize": {
+              "X": 0.3516,
+              "Y": 0.0111
+            },
+            "LeftMargin": 391.0,
+            "RightMargin": 439.0,
+            "TopMargin": 135.7067,
+            "BottomMargin": 576.2933,
+            "Tag": 80,
+            "ActionTag": -2053722963,
+            "Size": {
+              "X": 450.0,
+              "Y": 8.0
+            },
+            "Name": "MGLine1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Light.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 110,
+            "Scale9OriginY": 2,
+            "Scale9Width": 114,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 616.0,
+              "Y": 182.5424
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.2535
+            },
+            "PreSize": {
+              "X": 0.3516,
+              "Y": 0.0111
+            },
+            "LeftMargin": 391.0,
+            "RightMargin": 439.0,
+            "TopMargin": 533.4576,
+            "BottomMargin": 178.5424,
+            "Tag": 81,
+            "ActionTag": 1654860196,
+            "Size": {
+              "X": 450.0,
+              "Y": 8.0
+            },
+            "Name": "MGLine2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 15,
+            "Scale9Width": 144,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.4953,
+              "Y": 542.7222
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4785,
+              "Y": 0.7538
+            },
+            "PreSize": {
+              "X": 0.2539,
+              "Y": 0.0694
+            },
+            "LeftMargin": 449.9953,
+            "RightMargin": 505.0047,
+            "TopMargin": 152.2778,
+            "BottomMargin": 517.7222,
+            "Tag": 270,
+            "ActionTag": -2095053311,
+            "Size": {
+              "X": 325.0,
+              "Y": 50.0
+            },
+            "Name": "MGTxtBgLoginID",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 15,
+            "Scale9Width": 206,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.4953,
+              "Y": 478.8157
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4785,
+              "Y": 0.665
+            },
+            "PreSize": {
+              "X": 0.2539,
+              "Y": 0.0694
+            },
+            "LeftMargin": 449.9953,
+            "RightMargin": 505.0047,
+            "TopMargin": 216.1843,
+            "BottomMargin": 453.8157,
+            "Tag": 83,
+            "ActionTag": 642626600,
+            "Size": {
+              "X": 325.0,
+              "Y": 50.0
+            },
+            "Name": "MGTxtBgNickName",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 15,
+            "Scale9Width": 144,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.4953,
+              "Y": 414.9092
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4785,
+              "Y": 0.5763
+            },
+            "PreSize": {
+              "X": 0.2539,
+              "Y": 0.0694
+            },
+            "LeftMargin": 449.9953,
+            "RightMargin": 505.0047,
+            "TopMargin": 280.0908,
+            "BottomMargin": 389.9092,
+            "Tag": 84,
+            "ActionTag": 585931063,
+            "Size": {
+              "X": 325.0,
+              "Y": 50.0
+            },
+            "Name": "MGTxtBgPass",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 17,
+            "Scale9OriginY": 15,
+            "Scale9Width": 144,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.4953,
+              "Y": 351.0027
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4785,
+              "Y": 0.4875
+            },
+            "PreSize": {
+              "X": 0.2539,
+              "Y": 0.0694
+            },
+            "LeftMargin": 449.9953,
+            "RightMargin": 505.0047,
+            "TopMargin": 343.9973,
+            "BottomMargin": 326.0027,
+            "Tag": 85,
+            "ActionTag": -192496684,
+            "Size": {
+              "X": 325.0,
+              "Y": 50.0
+            },
+            "Name": "MGTxtBgComfim",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TxtBackground.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 79,
+            "Scale9OriginY": 15,
+            "Scale9Width": 82,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 537.4954,
+              "Y": 287.5963
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4199,
+              "Y": 0.3994
+            },
+            "PreSize": {
+              "X": 0.1367,
+              "Y": 0.0681
+            },
+            "LeftMargin": 449.9954,
+            "RightMargin": 655.0046,
+            "TopMargin": 407.9037,
+            "BottomMargin": 263.0963,
+            "Tag": 86,
+            "ActionTag": 1466936655,
+            "Size": {
+              "X": 175.0,
+              "Y": 49.0
+            },
+            "Name": "MGTxtBgCapcha",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonRefesh.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 1,
+            "Scale9Height": 7,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 756.5369,
+              "Y": 281.5819
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.591,
+              "Y": 0.3911
+            },
+            "PreSize": {
+              "X": 0.0352,
+              "Y": 0.0625
+            },
+            "LeftMargin": 734.0369,
+            "RightMargin": 500.9631,
+            "TopMargin": 415.9181,
+            "BottomMargin": 259.0819,
+            "Tag": 87,
+            "ActionTag": 1013397757,
+            "Size": {
+              "X": 45.0,
+              "Y": 45.0
+            },
+            "Name": "MGButton_Refesh",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 21,
+            "ButtonText": "ĐĂNG KÝ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 1,
+              "G": 70,
+              "B": 71
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnBG.png",
+              "Plist": "main/atlas/AtlasPopups/AtlasPopups.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 120,
+            "Scale9Height": 43,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 615.9999,
+              "Y": 223.9825
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.3111
+            },
+            "PreSize": {
+              "X": 0.1133,
+              "Y": 0.0903
+            },
+            "LeftMargin": 543.4999,
+            "RightMargin": 591.5001,
+            "TopMargin": 463.5175,
+            "BottomMargin": 191.4825,
+            "Tag": 88,
+            "ActionTag": 370076035,
+            "Size": {
+              "X": 145.0,
+              "Y": 65.0
+            },
+            "Name": "MGButton_Regit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "menuIconfb.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 30,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.7493,
+              "Y": 120.3479
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5068,
+              "Y": 0.1671
+            },
+            "PreSize": {
+              "X": 0.0469,
+              "Y": 0.0833
+            },
+            "LeftMargin": 618.7493,
+            "RightMargin": 601.2507,
+            "TopMargin": 569.6521,
+            "BottomMargin": 90.3479,
+            "Tag": 89,
+            "ActionTag": 667988895,
+            "Size": {
+              "X": 60.0,
+              "Y": 60.0
+            },
+            "Name": "MGButton_Facebook",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "menuIconGG.png",
+              "Plist": "main/atlas/CompoMenu/AtlasCompoMenu.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 30,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.8041,
+              "Y": 120.3479
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4584,
+              "Y": 0.1671
+            },
+            "PreSize": {
+              "X": 0.0469,
+              "Y": 0.0833
+            },
+            "LeftMargin": 556.8041,
+            "RightMargin": 663.1959,
+            "TopMargin": 569.6521,
+            "BottomMargin": 90.3479,
+            "Tag": 90,
+            "ActionTag": 450509018,
+            "Size": {
+              "X": 60.0,
+              "Y": 60.0
+            },
+            "Name": "MGButton_Google",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 19,
+            "LabelText": "Hoặc đăng nhập bằng",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 615.9999,
+              "Y": 159.7158
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4812,
+              "Y": 0.2218
+            },
+            "PreSize": {
+              "X": 0.1734,
+              "Y": 0.05
+            },
+            "LeftMargin": 504.9999,
+            "RightMargin": 553.0001,
+            "TopMargin": 542.2842,
+            "BottomMargin": 141.7158,
+            "Tag": 91,
+            "ActionTag": -1559815517,
+            "Size": {
+              "X": 222.0,
+              "Y": 36.0
+            },
+            "Name": "lbl",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 677.15,
+              "Y": 287.5658
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.529,
+              "Y": 0.3994
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 677.15,
+            "RightMargin": 602.85,
+            "TopMargin": 432.4342,
+            "BottomMargin": 287.5658,
+            "Tag": 92,
+            "ActionTag": -1957365239,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGNode_Capcha",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Tên đăng nhập",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.8543,
+              "Y": 540.4281
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.7506
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0514
+            },
+            "LeftMargin": 459.8543,
+            "RightMargin": 520.1457,
+            "TopMargin": 161.0719,
+            "BottomMargin": 521.9281,
+            "Tag": 272,
+            "ActionTag": 842011696,
+            "Size": {
+              "X": 300.0,
+              "Y": 37.0
+            },
+            "Name": "MGTxtLoginID",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Tên hiển thị",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.8543,
+              "Y": 477.7035
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.6635
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0514
+            },
+            "LeftMargin": 459.8543,
+            "RightMargin": 520.1457,
+            "TopMargin": 223.7965,
+            "BottomMargin": 459.2035,
+            "Tag": 93,
+            "ActionTag": 267843161,
+            "Size": {
+              "X": 300.0,
+              "Y": 37.0
+            },
+            "Name": "MGTxtNickName",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Mật khẩu",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "PasswordEnable": true,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.8543,
+              "Y": 414.3746
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.5755
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0514
+            },
+            "LeftMargin": 459.8543,
+            "RightMargin": 520.1457,
+            "TopMargin": 287.1254,
+            "BottomMargin": 395.8746,
+            "Tag": 94,
+            "ActionTag": 1717254423,
+            "Size": {
+              "X": 300.0,
+              "Y": 37.0
+            },
+            "Name": "MGTxtPass",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Nhập lại mật khẩu",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 15,
+            "PasswordEnable": true,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.8543,
+              "Y": 349.7429
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.4858
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0514
+            },
+            "LeftMargin": 459.8543,
+            "RightMargin": 520.1457,
+            "TopMargin": 351.7571,
+            "BottomMargin": 331.2429,
+            "Tag": 95,
+            "ActionTag": -750960013,
+            "Size": {
+              "X": 300.0,
+              "Y": 37.0
+            },
+            "Name": "MGTxtConfirmPass",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Nhập mã capcha",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 4,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.8543,
+              "Y": 285.4063
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.3964
+            },
+            "PreSize": {
+              "X": 0.1211,
+              "Y": 0.0514
+            },
+            "LeftMargin": 459.8543,
+            "RightMargin": 665.1457,
+            "TopMargin": 416.0937,
+            "BottomMargin": 266.9063,
+            "Tag": 96,
+            "ActionTag": 419038919,
+            "Size": {
+              "X": 155.0,
+              "Y": 37.0
+            },
+            "Name": "MGTxtCapcha",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/tahoma.ttf",
+        "../Fonts/tahomabd.ttf",
+        "atlas/AtlasPopups/AtlasPopups.plist",
+        "atlas/AtlasPopups/AtlasPopups.png",
+        "atlas/CompoMenu/AtlasCompoMenu.plist",
+        "atlas/CompoMenu/AtlasCompoMenu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

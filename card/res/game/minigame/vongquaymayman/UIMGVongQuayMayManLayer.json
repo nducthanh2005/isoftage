@@ -1,0 +1,2706 @@
+{
+  "ID": "8fb9f12a-dac5-4a96-ab80-f1544d35e1e2",
+  "Version": "3.10.0.0",
+  "Name": "UIMGVongQuayMayManLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 74,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_title_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 179,
+            "Scale9OriginY": 39,
+            "Scale9Width": 187,
+            "Scale9Height": 41,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 562.9747,
+              "Y": 171.5282
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4398,
+              "Y": 0.2382
+            },
+            "PreSize": {
+              "X": 0.4258,
+              "Y": 0.1653
+            },
+            "LeftMargin": 290.4747,
+            "RightMargin": 444.5253,
+            "TopMargin": 488.9718,
+            "BottomMargin": 112.0282,
+            "Tag": 752,
+            "ActionTag": -723634548,
+            "Size": {
+              "X": 545.0,
+              "Y": 119.0
+            },
+            "Name": "MGTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_khungquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 185,
+            "Scale9OriginY": 185,
+            "Scale9Width": 105,
+            "Scale9Height": 105,
+            "AnchorPoint": {
+              "ScaleX": 0.4979,
+              "ScaleY": 0.5074
+            },
+            "Position": {
+              "X": 435.3185,
+              "Y": 418.9316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3401,
+              "Y": 0.5818
+            },
+            "PreSize": {
+              "X": 0.2867,
+              "Y": 0.5097
+            },
+            "LeftMargin": 252.5892,
+            "RightMargin": 660.4108,
+            "TopMargin": 120.2842,
+            "BottomMargin": 232.7158,
+            "Tag": 75,
+            "ActionTag": -1158455872,
+            "Size": {
+              "X": 367.0,
+              "Y": 367.0
+            },
+            "Name": "MGBackgroundSmallRound",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/vongquaymayman/UIMGVQMMCompoSmallRound.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 436.099,
+              "Y": 416.209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3407,
+              "Y": 0.5781
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 436.099,
+            "RightMargin": 843.901,
+            "TopMargin": 303.791,
+            "BottomMargin": 416.209,
+            "Tag": 135,
+            "ActionTag": -370279571,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoSmallRound",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_khungquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 185,
+            "Scale9OriginY": 185,
+            "Scale9Width": 105,
+            "Scale9Height": 105,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 813.2372,
+              "Y": 355.7072
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6353,
+              "Y": 0.494
+            },
+            "PreSize": {
+              "X": 0.3711,
+              "Y": 0.6597
+            },
+            "LeftMargin": 575.7372,
+            "RightMargin": 229.2628,
+            "TopMargin": 126.7928,
+            "BottomMargin": 118.2072,
+            "Tag": 76,
+            "ActionTag": -218079239,
+            "Size": {
+              "X": 475.0,
+              "Y": 475.0
+            },
+            "Name": "MGBackgroundBigRound",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/vongquaymayman/UIMGVQMMCompoBigRound.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 813.2394,
+              "Y": 355.4178
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6353,
+              "Y": 0.4936
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 813.2394,
+            "RightMargin": 466.7606,
+            "TopMargin": 364.5822,
+            "BottomMargin": 355.4178,
+            "Tag": 125,
+            "ActionTag": -624701468,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoBigRound",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 753,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Tag": 755,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 871.9374,
+                      "Y": 572.8472
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 857.4374,
+                    "RightMargin": -886.4374,
+                    "TopMargin": -587.3472,
+                    "BottomMargin": 558.3472,
+                    "Tag": 4597,
+                    "ActionTag": -595849692,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 814.1178,
+                      "Y": 581.3042
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 799.6178,
+                    "RightMargin": -828.6178,
+                    "TopMargin": -595.8042,
+                    "BottomMargin": 566.8042,
+                    "Tag": 1268,
+                    "ActionTag": -1647364061,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 751.9363,
+                      "Y": 572.8472
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 737.4363,
+                    "RightMargin": -766.4363,
+                    "TopMargin": -587.3472,
+                    "BottomMargin": 558.3472,
+                    "Tag": 4598,
+                    "ActionTag": 252046628,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 702.1165,
+                      "Y": 551.3043
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 687.6165,
+                    "RightMargin": -716.6165,
+                    "TopMargin": -565.8043,
+                    "BottomMargin": 536.8043,
+                    "Tag": 1269,
+                    "ActionTag": -1778627921,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 654.9341,
+                      "Y": 515.8497
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 640.4341,
+                    "RightMargin": -669.4341,
+                    "TopMargin": -530.3497,
+                    "BottomMargin": 501.3497,
+                    "Tag": 4599,
+                    "ActionTag": 245366025,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 620.1144,
+                      "Y": 468.307
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 605.6144,
+                    "RightMargin": -634.6144,
+                    "TopMargin": -482.807,
+                    "BottomMargin": 453.807,
+                    "Tag": 1270,
+                    "ActionTag": -913978310,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light2_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 596.934,
+                      "Y": 413.8539
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 582.434,
+                    "RightMargin": -611.434,
+                    "TopMargin": -428.3539,
+                    "BottomMargin": 399.3539,
+                    "Tag": 4600,
+                    "ActionTag": -1475787474,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 588.114,
+                      "Y": 355.3122
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 573.614,
+                    "RightMargin": -602.614,
+                    "TopMargin": -369.8122,
+                    "BottomMargin": 340.8122,
+                    "Tag": 1271,
+                    "ActionTag": 259596581,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 595.9337,
+                      "Y": 299.8571
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 581.4337,
+                    "RightMargin": -610.4337,
+                    "TopMargin": -314.3571,
+                    "BottomMargin": 285.3571,
+                    "Tag": 4601,
+                    "ActionTag": 1243699,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 616.1145,
+                      "Y": 243.3145
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 601.6145,
+                    "RightMargin": -630.6145,
+                    "TopMargin": -257.8145,
+                    "BottomMargin": 228.8145,
+                    "Tag": 1272,
+                    "ActionTag": -11532481,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light4_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 648.9342,
+                      "Y": 201.8592
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 634.4342,
+                    "RightMargin": -663.4342,
+                    "TopMargin": -216.3592,
+                    "BottomMargin": 187.3592,
+                    "Tag": 4602,
+                    "ActionTag": 95107415,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 695.1147,
+                      "Y": 162.3149
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 680.6147,
+                    "RightMargin": -709.6147,
+                    "TopMargin": -176.8149,
+                    "BottomMargin": 147.8149,
+                    "Tag": 1273,
+                    "ActionTag": 1129578257,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light5_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 752.9373,
+                      "Y": 139.8605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 738.4373,
+                    "RightMargin": -767.4373,
+                    "TopMargin": -154.3605,
+                    "BottomMargin": 125.3605,
+                    "Tag": 4603,
+                    "ActionTag": -1681297910,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 814.1174,
+                      "Y": 128.317
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 799.6174,
+                    "RightMargin": -828.6174,
+                    "TopMargin": -142.817,
+                    "BottomMargin": 113.817,
+                    "Tag": 1274,
+                    "ActionTag": -1930366782,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light6_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 875.9431,
+                      "Y": 137.8605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 861.4431,
+                    "RightMargin": -890.4431,
+                    "TopMargin": -152.3605,
+                    "BottomMargin": 123.3605,
+                    "Tag": 4604,
+                    "ActionTag": -1914686621,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 927.1231,
+                      "Y": 160.3168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 912.6231,
+                    "RightMargin": -941.6231,
+                    "TopMargin": -174.8168,
+                    "BottomMargin": 145.8168,
+                    "Tag": 1275,
+                    "ActionTag": -974359628,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light7_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 973.9487,
+                      "Y": 198.8608
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 959.4487,
+                    "RightMargin": -988.4487,
+                    "TopMargin": -213.3608,
+                    "BottomMargin": 184.3608,
+                    "Tag": 4605,
+                    "ActionTag": -846401334,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1009.1283,
+                      "Y": 243.3162
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 994.6283,
+                    "RightMargin": -1023.6283,
+                    "TopMargin": -257.8162,
+                    "BottomMargin": 228.8162,
+                    "Tag": 1276,
+                    "ActionTag": -788511485,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light8_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1030.9526,
+                      "Y": 297.8621
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1016.4526,
+                    "RightMargin": -1045.4526,
+                    "TopMargin": -312.3621,
+                    "BottomMargin": 283.3621,
+                    "Tag": 4606,
+                    "ActionTag": 1533536092,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1038.1312,
+                      "Y": 353.3208
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1023.6312,
+                    "RightMargin": -1052.6312,
+                    "TopMargin": -367.8208,
+                    "BottomMargin": 338.8208,
+                    "Tag": 1277,
+                    "ActionTag": -350067022,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light9_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1029.9534,
+                      "Y": 416.8647
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1015.4534,
+                    "RightMargin": -1044.4534,
+                    "TopMargin": -431.3647,
+                    "BottomMargin": 402.3647,
+                    "Tag": 4607,
+                    "ActionTag": 2090069691,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1010.1317,
+                      "Y": 468.3234
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 995.6317,
+                    "RightMargin": -1024.6317,
+                    "TopMargin": -482.8234,
+                    "BottomMargin": 453.8234,
+                    "Tag": 1278,
+                    "ActionTag": -911449822,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light10_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 970.9583,
+                      "Y": 516.8671
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 956.4583,
+                    "RightMargin": -985.4583,
+                    "TopMargin": -531.3671,
+                    "BottomMargin": 502.3671,
+                    "Tag": 4608,
+                    "ActionTag": -1759306733,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 928.9458,
+                      "Y": 550.606
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 914.4458,
+                    "RightMargin": -943.4458,
+                    "TopMargin": -565.106,
+                    "BottomMargin": 536.106,
+                    "Tag": 1279,
+                    "ActionTag": 827093821,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light11_0",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1132552797,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGCompoLightBig",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": -0.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "TopMargin": 0.0001,
+                "BottomMargin": -0.0001,
+                "Tag": 4609,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 488.0994,
+                      "Y": 583.1276
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 473.5994,
+                    "RightMargin": -502.5994,
+                    "TopMargin": -597.6276,
+                    "BottomMargin": 568.6276,
+                    "Tag": 4610,
+                    "ActionTag": 1194965092,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 435.6414,
+                      "Y": 592.5846
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 421.1414,
+                    "RightMargin": -450.1414,
+                    "TopMargin": -607.0846,
+                    "BottomMargin": 578.0846,
+                    "Tag": 2156,
+                    "ActionTag": -625097198,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 390.0962,
+                      "Y": 583.1273
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 375.5962,
+                    "RightMargin": -404.5962,
+                    "TopMargin": -597.6273,
+                    "BottomMargin": 568.6273,
+                    "Tag": 4611,
+                    "ActionTag": -1115380593,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 348.639,
+                      "Y": 565.584
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 334.139,
+                    "RightMargin": -363.139,
+                    "TopMargin": -580.084,
+                    "BottomMargin": 551.084,
+                    "Tag": 2157,
+                    "ActionTag": 545795343,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 314.0988,
+                      "Y": 536.131
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 299.5988,
+                    "RightMargin": -328.5988,
+                    "TopMargin": -550.631,
+                    "BottomMargin": 521.631,
+                    "Tag": 4612,
+                    "ActionTag": 146589882,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 288.6416,
+                      "Y": 503.5878
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 274.1416,
+                    "RightMargin": -303.1416,
+                    "TopMargin": -518.0878,
+                    "BottomMargin": 489.0878,
+                    "Tag": 2158,
+                    "ActionTag": 1105962008,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light2_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 270.0984,
+                      "Y": 462.6472
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 255.5984,
+                    "RightMargin": -284.5984,
+                    "TopMargin": -477.1472,
+                    "BottomMargin": 448.1472,
+                    "Tag": 4613,
+                    "ActionTag": -677005338,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 263.6413,
+                      "Y": 421.1043
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 249.1413,
+                    "RightMargin": -278.1413,
+                    "TopMargin": -435.6043,
+                    "BottomMargin": 406.6043,
+                    "Tag": 2159,
+                    "ActionTag": -246995103,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 271.396,
+                      "Y": 373.9267
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 256.896,
+                    "RightMargin": -285.896,
+                    "TopMargin": -388.4267,
+                    "BottomMargin": 359.4267,
+                    "Tag": 4614,
+                    "ActionTag": -1115727766,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 284.9388,
+                      "Y": 334.3835
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 270.4388,
+                    "RightMargin": -299.4388,
+                    "TopMargin": -348.8835,
+                    "BottomMargin": 319.8835,
+                    "Tag": 2160,
+                    "ActionTag": -1602164367,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light4_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 312.0996,
+                      "Y": 299.1418
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 297.5996,
+                    "RightMargin": -326.5996,
+                    "TopMargin": -313.6418,
+                    "BottomMargin": 284.6418,
+                    "Tag": 4615,
+                    "ActionTag": 905123097,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 345.6429,
+                      "Y": 268.5985
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 331.1429,
+                    "RightMargin": -360.1429,
+                    "TopMargin": -283.0985,
+                    "BottomMargin": 254.0985,
+                    "Tag": 2161,
+                    "ActionTag": 1490789217,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light5_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 387.0972,
+                      "Y": 252.1427
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 372.5972,
+                    "RightMargin": -401.5972,
+                    "TopMargin": -266.6427,
+                    "BottomMargin": 237.6427,
+                    "Tag": 4616,
+                    "ActionTag": -1435551268,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 439.6411,
+                      "Y": 244.5998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 425.1411,
+                    "RightMargin": -454.1411,
+                    "TopMargin": -259.0998,
+                    "BottomMargin": 230.0998,
+                    "Tag": 2162,
+                    "ActionTag": -1716654860,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light6_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 488.2087,
+                      "Y": 250.6956
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 473.7087,
+                    "RightMargin": -502.7087,
+                    "TopMargin": -265.1956,
+                    "BottomMargin": 236.1956,
+                    "Tag": 4617,
+                    "ActionTag": 1945847116,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 527.7529,
+                      "Y": 270.1527
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 513.2529,
+                    "RightMargin": -542.2529,
+                    "TopMargin": -284.6527,
+                    "BottomMargin": 255.6527,
+                    "Tag": 2163,
+                    "ActionTag": 131223440,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light7_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 563.416,
+                      "Y": 299.7922
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 548.916,
+                    "RightMargin": -577.916,
+                    "TopMargin": -314.2922,
+                    "BottomMargin": 285.2922,
+                    "Tag": 4618,
+                    "ActionTag": -151013179,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 589.9611,
+                      "Y": 498.2596
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 575.4611,
+                    "RightMargin": -604.4611,
+                    "TopMargin": -512.7596,
+                    "BottomMargin": 483.7596,
+                    "Tag": 2164,
+                    "ActionTag": 2083904175,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light8_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 559.1184,
+                      "Y": 538.1498
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 544.6184,
+                    "RightMargin": -573.6184,
+                    "TopMargin": -552.6498,
+                    "BottomMargin": 523.6498,
+                    "Tag": 4621,
+                    "ActionTag": -1440851998,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "vqmm_light1.png",
+                      "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 526.6616,
+                      "Y": 567.6066
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 512.1616,
+                    "RightMargin": -541.1616,
+                    "TopMargin": -582.1066,
+                    "BottomMargin": 553.1066,
+                    "Tag": 2165,
+                    "ActionTag": -490184804,
+                    "Size": {
+                      "X": 29.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Light9_0",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1076233536,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "MGCompoLightSmall",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 308894737,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoLight",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_kimquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 71,
+            "Scale9OriginY": 33,
+            "Scale9Width": 75,
+            "Scale9Height": 34,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 811.8719,
+              "Y": 580.5724
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6343,
+              "Y": 0.8064
+            },
+            "PreSize": {
+              "X": 0.1695,
+              "Y": 0.1389
+            },
+            "LeftMargin": 703.3719,
+            "RightMargin": 359.6281,
+            "TopMargin": 89.4276,
+            "BottomMargin": 530.5724,
+            "Tag": 79,
+            "ActionTag": 1618133105,
+            "Size": {
+              "X": 217.0,
+              "Y": 100.0
+            },
+            "Name": "MGKimLon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_kimquay_vqmm.png",
+              "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+            },
+            "Scale9OriginX": 71,
+            "Scale9OriginY": 33,
+            "Scale9Width": 75,
+            "Scale9Height": 34,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 437.5784,
+              "Y": 594.9479
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3419,
+              "Y": 0.8263
+            },
+            "PreSize": {
+              "X": 0.1398,
+              "Y": 0.1139
+            },
+            "LeftMargin": 348.0784,
+            "RightMargin": 752.9216,
+            "TopMargin": 84.0521,
+            "BottomMargin": 553.9479,
+            "Tag": 80,
+            "ActionTag": -848659966,
+            "Size": {
+              "X": 179.0,
+              "Y": 82.0
+            },
+            "Name": "MGKimNho",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/vongquaymayman/UIMGVQMMCompoButton.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 813.2394,
+              "Y": 355.4178
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6353,
+              "Y": 0.4936
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 813.2394,
+            "RightMargin": 466.7606,
+            "TopMargin": 364.5822,
+            "BottomMargin": 355.4178,
+            "Tag": 115,
+            "ActionTag": 223350032,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MGCompoButton",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/minigame/vongquaymayman/UIMGVQMMCompoLichSuTrade.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 644.928,
+              "Y": 398.7026
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5038,
+              "Y": 0.5538
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 644.928,
+            "RightMargin": 635.072,
+            "TopMargin": 321.2974,
+            "BottomMargin": 398.7026,
+            "Tag": 463,
+            "ActionTag": -734148449,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGCompoLichSu",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 722,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "so_notice_vqmm.png",
+                  "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                },
+                "Scale9OriginX": 167,
+                "Scale9OriginY": 86,
+                "Scale9Width": 174,
+                "Scale9Height": 89,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 815.4648,
+                  "Y": 352.4571
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 561.4648,
+                "RightMargin": -1069.4648,
+                "TopMargin": -482.9571,
+                "BottomMargin": 221.9571,
+                "Tag": 723,
+                "ActionTag": -1462936242,
+                "Size": {
+                  "X": 508.0,
+                  "Y": 261.0
+                },
+                "Name": "MGBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_close_vqmm.png",
+                  "Plist": "game/minigame/vongquaymayman/atlas/AtlasVongQuayMayMan.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 20,
+                "Scale9Height": 28,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1044.3722,
+                  "Y": 434.3958
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1019.3722,
+                "RightMargin": -1069.3722,
+                "TopMargin": -459.3958,
+                "BottomMargin": 409.3958,
+                "Tag": 724,
+                "ActionTag": 228728100,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "MGButtonClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM Facebook.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.2656,
+                  "Y": 354.3603
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 590.2656,
+                "RightMargin": -1030.2656,
+                "TopMargin": -424.3603,
+                "BottomMargin": 284.3603,
+                "Tag": 725,
+                "ActionTag": -1883805797,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 140.0
+                },
+                "Name": "MGTextMessage",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1901002434,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "MGPopupNotice",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "MainGameNode",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/UTM Facebook.ttf",
+        "atlas/AtlasVongQuayMayMan.plist",
+        "atlas/AtlasVongQuayMayMan.png",
+        "UIMGVQMMCompoBigRound.json",
+        "UIMGVQMMCompoButton.json",
+        "UIMGVQMMCompoLichSuTrade.json",
+        "UIMGVQMMCompoSmallRound.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

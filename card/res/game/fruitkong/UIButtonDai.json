@@ -1,0 +1,337 @@
+{
+  "ID": "ad39d6dc-06ac-4742-98f9-99f2faa9a09d",
+  "Version": "3.10.0.0",
+  "Name": "UIButtonDai",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 405,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_dai_disable.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_dai_chon.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "button_dai.png",
+              "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 126,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -78.0,
+            "RightMargin": -78.0,
+            "TopMargin": -28.5,
+            "BottomMargin": -28.5,
+            "Tag": 406,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chuoi.png",
+                  "Plist": "game/fruitkong/AtlasFruitKong/atlasFruitKong.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 45.2622,
+                  "Y": 33.1325
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2901,
+                  "Y": 0.5813
+                },
+                "PreSize": {
+                  "X": 0.1667,
+                  "Y": 0.4561
+                },
+                "LeftMargin": 19.2622,
+                "RightMargin": 110.7378,
+                "TopMargin": 10.8675,
+                "BottomMargin": 20.1325,
+                "Tag": 407,
+                "ActionTag": 1114246881,
+                "Size": {
+                  "X": 26.0,
+                  "Y": 26.0
+                },
+                "Name": "MGButtonIcon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "NGON!",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 46.9997,
+                  "Y": 34.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 141,
+                  "G": 73,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3013,
+                  "Y": 0.5965
+                },
+                "PreSize": {
+                  "X": 0.5769,
+                  "Y": 0.3333
+                },
+                "LeftMargin": 46.9997,
+                "RightMargin": 19.0003,
+                "TopMargin": 13.4999,
+                "BottomMargin": 24.5001,
+                "Tag": 408,
+                "ActionTag": 1197323038,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 19.0
+                },
+                "Name": "MGButtonTextResultWin",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "1.5",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.4594,
+                  "Y": 32.9228
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 141,
+                  "G": 73,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4965,
+                  "Y": 0.5776
+                },
+                "PreSize": {
+                  "X": 0.8974,
+                  "Y": 0.2632
+                },
+                "LeftMargin": 7.4594,
+                "RightMargin": 8.5406,
+                "TopMargin": 16.5772,
+                "BottomMargin": 25.4228,
+                "Tag": 771,
+                "ActionTag": -23031101,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 15.0
+                },
+                "Name": "MGButtonTextNumber",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "TRY AGAIN!",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UTM HelveBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.7911,
+                  "Y": 32.7138
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 141,
+                  "G": 73,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2871,
+                  "Y": 0.5739
+                },
+                "PreSize": {
+                  "X": 0.641,
+                  "Y": 0.3333
+                },
+                "LeftMargin": 44.7911,
+                "RightMargin": 11.2089,
+                "TopMargin": 14.7862,
+                "BottomMargin": 23.2138,
+                "Tag": 2887,
+                "ActionTag": 1691039617,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 19.0
+                },
+                "Name": "MGButtonTextResultLose",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 342853974,
+            "Size": {
+              "X": 156.0,
+              "Y": 57.0
+            },
+            "Name": "MGButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/UTM HelveBold.ttf",
+        "AtlasFruitKong/atlasFruitKong.plist",
+        "AtlasFruitKong/atlasFruitKong.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

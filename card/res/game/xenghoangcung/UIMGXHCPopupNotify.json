@@ -1,0 +1,289 @@
+{
+  "ID": "c5f7df51-8ca2-48b6-8487-ac8b733ab866",
+  "Version": "3.10.0.0",
+  "Name": "UIMGXHCPopupNotify",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 374,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_info_bg_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 98,
+            "Scale9Width": 500,
+            "Scale9Height": 191,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0809,
+              "Y": 325.3029
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 101.0809,
+            "RightMargin": -1183.0808,
+            "TopMargin": -648.8029,
+            "BottomMargin": 1.8029,
+            "Tag": 474,
+            "ActionTag": -1709177057,
+            "Size": {
+              "X": 1082.0,
+              "Y": 647.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_notify_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 120,
+            "Scale9OriginY": 19,
+            "Scale9Width": 126,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.6188,
+              "Y": 593.9044
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 455.6188,
+            "RightMargin": -821.6188,
+            "TopMargin": -623.4044,
+            "BottomMargin": 564.4044,
+            "Tag": 475,
+            "ActionTag": 1024574845,
+            "Size": {
+              "X": 366.0,
+              "Y": 59.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_backtoGame_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 275,
+            "Scale9Height": 47,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 634.1591,
+              "Y": 54.4666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 481.6591,
+            "RightMargin": -786.6591,
+            "TopMargin": -88.9666,
+            "BottomMargin": 19.9666,
+            "Tag": 476,
+            "ActionTag": 1517796747,
+            "Size": {
+              "X": 305.0,
+              "Y": 69.0
+            },
+            "Name": "ButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_notify_bg_xhc.png",
+              "Plist": "game/xenghoangcung/atlas/AtlasXHC/AtlasXHC.plist"
+            },
+            "Scale9OriginX": 132,
+            "Scale9OriginY": 43,
+            "Scale9Width": 136,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.9814,
+              "Y": 355.1432
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 182.4814,
+            "RightMargin": -1101.4814,
+            "TopMargin": -530.1432,
+            "BottomMargin": 180.1432,
+            "Tag": 477,
+            "ActionTag": 508262689,
+            "Size": {
+              "X": 919.0,
+              "Y": 350.0
+            },
+            "Name": "Image_5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 189.4919,
+              "Y": 187.0948
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 189.4919,
+            "RightMargin": -1092.4919,
+            "TopMargin": -523.0948,
+            "BottomMargin": 187.0948,
+            "Tag": 478,
+            "ActionTag": -20823579,
+            "Size": {
+              "X": 903.0,
+              "Y": 336.0
+            },
+            "Name": "ListViewContent",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "atlas/AtlasXHC/AtlasXHC.plist",
+        "atlas/AtlasXHC/AtlasXHC.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

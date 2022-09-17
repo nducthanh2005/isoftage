@@ -1,0 +1,3241 @@
+{
+  "ID": "5315dabc-3f26-4957-b439-2cd9348bad88",
+  "Version": "3.10.0.0",
+  "Name": "UIPopupResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 171,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BGPopupResult.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "Scale9OriginX": 195,
+            "Scale9OriginY": 66,
+            "Scale9Width": 203,
+            "Scale9Height": 68,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 296.43,
+              "Y": 100.14
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5007
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.07,
+            "RightMargin": 0.07,
+            "TopMargin": -0.14,
+            "BottomMargin": 0.14,
+            "Tag": 62,
+            "ActionTag": -1769009489,
+            "Size": {
+              "X": 593.0,
+              "Y": 200.0
+            },
+            "Name": "BGPopup",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 11.4474,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0193,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 11.4474,
+            "RightMargin": 581.5526,
+            "TopMargin": 19.11,
+            "BottomMargin": 180.89,
+            "Tag": 284,
+            "ActionTag": -1255298039,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "MatchId",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Tài : 0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.0002,
+              "Y": 180.8905
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2361,
+              "Y": 0.9045
+            },
+            "PreSize": {
+              "X": 0.0675,
+              "Y": 0.085
+            },
+            "LeftMargin": 120.0002,
+            "RightMargin": 432.9998,
+            "TopMargin": 10.6095,
+            "BottomMargin": 172.3905,
+            "Tag": 283,
+            "ActionTag": 2043712300,
+            "Size": {
+              "X": 40.0,
+              "Y": 17.0
+            },
+            "Name": "TaiTitle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TaiIcon.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.62,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1832,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.0337,
+              "Y": 0.1
+            },
+            "LeftMargin": 98.62,
+            "RightMargin": 474.38,
+            "TopMargin": 9.11,
+            "BottomMargin": 170.89,
+            "Tag": 282,
+            "ActionTag": -1166269936,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "TaiIcon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Xỉu : 0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 210.0002,
+              "Y": 180.8904
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3541,
+              "Y": 0.9045
+            },
+            "PreSize": {
+              "X": 0.0691,
+              "Y": 0.085
+            },
+            "LeftMargin": 189.5002,
+            "RightMargin": 362.4998,
+            "TopMargin": 10.6096,
+            "BottomMargin": 172.3904,
+            "Tag": 281,
+            "ActionTag": 32570237,
+            "Size": {
+              "X": 41.0,
+              "Y": 17.0
+            },
+            "Name": "XiuTitle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "XiuIcon.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 178.0,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3002,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.0337,
+              "Y": 0.1
+            },
+            "LeftMargin": 168.0,
+            "RightMargin": 405.0,
+            "TopMargin": 9.11,
+            "BottomMargin": 170.89,
+            "Tag": 280,
+            "ActionTag": -466863089,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "XiuIcon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "Bộ ba : 0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 287.0005,
+              "Y": 180.8904
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.484,
+              "Y": 0.9045
+            },
+            "PreSize": {
+              "X": 0.0978,
+              "Y": 0.085
+            },
+            "LeftMargin": 258.0005,
+            "RightMargin": 276.9995,
+            "TopMargin": 10.6096,
+            "BottomMargin": 172.3904,
+            "Tag": 279,
+            "ActionTag": 1757052290,
+            "Size": {
+              "X": 58.0,
+              "Y": 17.0
+            },
+            "Name": "BoBaTitle",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BoBaIcon.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.6814,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4194,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.0337,
+              "Y": 0.1
+            },
+            "LeftMargin": 238.6814,
+            "RightMargin": 334.3186,
+            "TopMargin": 9.11,
+            "BottomMargin": 170.89,
+            "Tag": 278,
+            "ActionTag": -1206065049,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "BoBaIcon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "StickBorderBG.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "PressedBackFileData": {
+              "Type": "PlistSubImage",
+              "Path": "StickBorderBG.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "StickIcon.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 341.8555,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5765,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.0304,
+              "Y": 0.085
+            },
+            "LeftMargin": 332.8555,
+            "RightMargin": 242.1445,
+            "TopMargin": 10.61,
+            "BottomMargin": 172.39,
+            "Tag": 273,
+            "Children": [
+              {
+                "FontSize": 14,
+                "LabelText": "Tự động hiện",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 63.2614,
+                  "Y": 9.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.5145,
+                  "Y": 0.5324
+                },
+                "PreSize": {
+                  "X": 4.6667,
+                  "Y": 1.0
+                },
+                "LeftMargin": 21.2614,
+                "RightMargin": -87.2614,
+                "TopMargin": -0.55,
+                "BottomMargin": 0.55,
+                "Tag": 274,
+                "ActionTag": 803386237,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 17.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -10116572,
+            "Size": {
+              "X": 18.0,
+              "Y": 17.0
+            },
+            "Name": "AutoShowHistory",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Hiện lịch sử",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahoma.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 5,
+            "Scale9Width": 41,
+            "Scale9Height": 7,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 513.4545,
+              "Y": 180.89
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8659,
+              "Y": 0.9044
+            },
+            "PreSize": {
+              "X": 0.1518,
+              "Y": 0.15
+            },
+            "LeftMargin": 468.4545,
+            "RightMargin": 34.5455,
+            "TopMargin": 4.11,
+            "BottomMargin": 165.89,
+            "Tag": 272,
+            "ActionTag": 918280783,
+            "Size": {
+              "X": 90.0,
+              "Y": 30.0
+            },
+            "Name": "HistoryBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 385.0161,
+              "Y": 182.759
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6493,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.1821,
+              "Y": 0.135
+            },
+            "LeftMargin": 331.0161,
+            "RightMargin": 153.9839,
+            "TopMargin": 3.741,
+            "BottomMargin": 169.259,
+            "Tag": 136,
+            "ActionTag": -1691038942,
+            "Size": {
+              "X": 108.0,
+              "Y": 27.0
+            },
+            "Alpha": 0,
+            "Name": "BtnAutoShowHistory",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 154.1537
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.7708
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 35.8463,
+            "BottomMargin": 144.1537,
+            "Tag": 260,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 261,
+                "ActionTag": 1040621723,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 262,
+                "ActionTag": -1185948587,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 263,
+                "ActionTag": -123704093,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 264,
+                "ActionTag": -1918762606,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 265,
+                "ActionTag": -1271013109,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1181480497,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 129.5387
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.6477
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 60.4613,
+            "BottomMargin": 119.5387,
+            "Tag": 254,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 255,
+                "ActionTag": -1698167736,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 256,
+                "ActionTag": 1055439154,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 257,
+                "ActionTag": -1586905411,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 258,
+                "ActionTag": -891400107,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 259,
+                "ActionTag": -171492822,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 963608530,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 105.4642
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.5273
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 84.5358,
+            "BottomMargin": 95.4642,
+            "Tag": 248,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 249,
+                "ActionTag": 1515758617,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 250,
+                "ActionTag": -1951700244,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 251,
+                "ActionTag": -1387283132,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 252,
+                "ActionTag": 1994119526,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 253,
+                "ActionTag": 456289721,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -479392721,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 83.0145
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.4151
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 106.9855,
+            "BottomMargin": 73.0145,
+            "Tag": 242,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 243,
+                "ActionTag": 72740853,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 244,
+                "ActionTag": 290475669,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 245,
+                "ActionTag": 1972007540,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 246,
+                "ActionTag": -2128555197,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 247,
+                "ActionTag": 218757005,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 937820368,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_3",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 58.3998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.292
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 131.6002,
+            "BottomMargin": 48.3998,
+            "Tag": 236,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 237,
+                "ActionTag": 999418215,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 238,
+                "ActionTag": -634260494,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 239,
+                "ActionTag": 865416500,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 240,
+                "ActionTag": -625015932,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 241,
+                "ActionTag": -281719749,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1277125599,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_4",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 510.7296,
+              "Y": 33.7845
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8613,
+              "Y": 0.1689
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.1
+            },
+            "LeftMargin": 440.7296,
+            "RightMargin": 12.2704,
+            "TopMargin": 156.2155,
+            "BottomMargin": 23.7845,
+            "Tag": 230,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2044,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": -1.7956,
+                "RightMargin": 121.7956,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 231,
+                "ActionTag": 1558876312,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 95.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 232,
+                "ActionTag": -1878994389,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 62.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 52.0,
+                "RightMargin": 68.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 233,
+                "ActionTag": 1447623849,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "XiNgau_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6429,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.85
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 40.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 1.5,
+                "Tag": 234,
+                "ActionTag": -1124307226,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 17.0
+                },
+                "Name": "TongXiNgau",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 13,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.77,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9841,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.77,
+                "RightMargin": 2.23,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 235,
+                "ActionTag": -1630016559,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "KetQuaType",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1979246034,
+            "Size": {
+              "X": 140.0,
+              "Y": 20.0
+            },
+            "Name": "Panel_5",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 155.1707
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.7759
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 36.3293,
+            "BottomMargin": 146.6707,
+            "Tag": 271,
+            "ActionTag": 1631192612,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentOne",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 130.5399
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.6527
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 60.9601,
+            "BottomMargin": 122.0399,
+            "Tag": 270,
+            "ActionTag": -1607758030,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentTwo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 105.538
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.5277
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 85.962,
+            "BottomMargin": 97.038,
+            "Tag": 269,
+            "ActionTag": 1690400351,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentThree",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 81.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.408
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 109.9,
+            "BottomMargin": 73.1,
+            "Tag": 268,
+            "ActionTag": 1091063801,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentFour",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 57.3453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.2867
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 134.1547,
+            "BottomMargin": 48.8453,
+            "Tag": 267,
+            "ActionTag": 2050984171,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentFive",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "LabelText": "0%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.9564,
+              "Y": 33.1377
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 72,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7132,
+              "Y": 0.1657
+            },
+            "PreSize": {
+              "X": 0.0472,
+              "Y": 0.085
+            },
+            "LeftMargin": 394.9564,
+            "RightMargin": 170.0436,
+            "TopMargin": 158.3623,
+            "BottomMargin": 24.6377,
+            "Tag": 266,
+            "ActionTag": -2049433133,
+            "Size": {
+              "X": 28.0,
+              "Y": 17.0
+            },
+            "Name": "PercentSix",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 24.3792,
+              "Y": 153.1504
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0411,
+              "Y": 0.7658
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.12
+            },
+            "LeftMargin": 12.3792,
+            "RightMargin": 556.6208,
+            "TopMargin": 34.8496,
+            "BottomMargin": 141.1504,
+            "Tag": 229,
+            "ActionTag": 1011476092,
+            "Size": {
+              "X": 24.0,
+              "Y": 24.0
+            },
+            "Alpha": 0,
+            "Name": "SlotPos",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "PopupResultCloseBtn.png",
+              "Plist": "game/taixiu/AtlasResultPopup/atlasResultPopup.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 11,
+            "Scale9Width": 11,
+            "Scale9Height": 5,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 591.5347,
+              "Y": 3.8183
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9975,
+              "Y": 0.0191
+            },
+            "PreSize": {
+              "X": 0.0455,
+              "Y": 0.135
+            },
+            "LeftMargin": 578.0347,
+            "RightMargin": -12.0347,
+            "TopMargin": 182.6817,
+            "BottomMargin": -9.6817,
+            "Tag": 286,
+            "ActionTag": 489521385,
+            "Size": {
+              "X": 27.0,
+              "Y": 27.0
+            },
+            "Name": "CloseBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 593.0,
+          "Y": 200.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Default/Button_Normal.png",
+        "../../Default/CheckBox_Disable.png",
+        "../../Default/CheckBoxNode_Disable.png",
+        "../../Fonts/tahoma.ttf",
+        "../../Fonts/tahomabd.ttf",
+        "AtlasResultPopup/atlasResultPopup.plist",
+        "AtlasResultPopup/atlasResultPopup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

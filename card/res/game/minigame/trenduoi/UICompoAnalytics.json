@@ -1,0 +1,1946 @@
+{
+  "ID": "4b5a836b-4d74-42b9-aa85-4a7f033c7951",
+  "Version": "3.10.0.0",
+  "Name": "UICompoAnalytics",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 684,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sp_analytics.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 66,
+            "Scale9OriginY": 50,
+            "Scale9Width": 68,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0002,
+              "Y": -1.3005
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -271.4998,
+            "RightMargin": -271.5002,
+            "TopMargin": -204.6995,
+            "BottomMargin": -207.3005,
+            "Tag": 687,
+            "ActionTag": -1571983407,
+            "Size": {
+              "X": 543.0,
+              "Y": 412.0
+            },
+            "Name": "MGCompoAnalyticsBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_close.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 21,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 262.7228,
+              "Y": 204.0023
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 241.2228,
+            "RightMargin": -284.2228,
+            "TopMargin": -225.5023,
+            "BottomMargin": 182.5023,
+            "Tag": 688,
+            "ActionTag": 296094736,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "Name": "MGCompoAnalyticsButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -234.9047,
+              "Y": -200.4064
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -234.9047,
+            "RightMargin": -235.0953,
+            "TopMargin": -199.5936,
+            "BottomMargin": -200.4064,
+            "Tag": 776,
+            "Children": [
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "RightMargin": 470.0,
+                "Tag": 874,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_grid.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 145,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 29.4007,
+                      "Y": 182.0864
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0626,
+                      "Y": 0.4552
+                    },
+                    "PreSize": {
+                      "X": 0.8957,
+                      "Y": 0.37
+                    },
+                    "LeftMargin": 29.4007,
+                    "RightMargin": 19.5993,
+                    "TopMargin": 69.9136,
+                    "BottomMargin": 182.0864,
+                    "Tag": 823,
+                    "ActionTag": 649619186,
+                    "Size": {
+                      "X": 421.0,
+                      "Y": 148.0
+                    },
+                    "Name": "MGGraph1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_grid.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 145,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 28.8993,
+                      "Y": 23.8232
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0615,
+                      "Y": 0.0596
+                    },
+                    "PreSize": {
+                      "X": 0.8957,
+                      "Y": 0.37
+                    },
+                    "LeftMargin": 28.8993,
+                    "RightMargin": 20.1007,
+                    "TopMargin": 228.1768,
+                    "BottomMargin": 23.8232,
+                    "Tag": 824,
+                    "ActionTag": -1215784261,
+                    "Size": {
+                      "X": 421.0,
+                      "Y": 148.0
+                    },
+                    "Name": "MGGraph2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_checkbox.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.3141,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0985,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.0553,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 33.3141,
+                    "RightMargin": 410.6859,
+                    "TopMargin": 33.1198,
+                    "BottomMargin": 340.8802,
+                    "Tag": 825,
+                    "ActionTag": 212563108,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGCheckBoxTong",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_checkbox.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.1731,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2812,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.0553,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 119.1731,
+                    "RightMargin": 324.8269,
+                    "TopMargin": 33.1198,
+                    "BottomMargin": 340.8802,
+                    "Tag": 826,
+                    "ActionTag": -1849908354,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGCheckBox1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_checkbox.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.4081,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5307,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.0553,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 236.4081,
+                    "RightMargin": 207.5919,
+                    "TopMargin": 33.1198,
+                    "BottomMargin": 340.8802,
+                    "Tag": 827,
+                    "ActionTag": -1925097519,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGCheckBox2",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_checkbox.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_check.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 361.1707,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7684,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.0553,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 348.1707,
+                    "RightMargin": 95.8293,
+                    "TopMargin": 33.1198,
+                    "BottomMargin": 340.8802,
+                    "Tag": 828,
+                    "ActionTag": -554588528,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGCheckBox3",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 14,
+                    "LabelText": "Tổng",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.9451,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 250,
+                      "G": 234,
+                      "B": 133
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1722,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.0702,
+                      "Y": 0.05
+                    },
+                    "LeftMargin": 64.4451,
+                    "RightMargin": 372.5549,
+                    "TopMargin": 36.1198,
+                    "BottomMargin": 343.8802,
+                    "Tag": 829,
+                    "ActionTag": 203081827,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 20.0
+                    },
+                    "Name": "TextBoxTong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 14,
+                    "LabelText": "Xúc sắc 1",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 188.3863,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 250,
+                      "G": 234,
+                      "B": 133
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4008,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.1702,
+                      "Y": 0.05
+                    },
+                    "LeftMargin": 148.3863,
+                    "RightMargin": 241.6137,
+                    "TopMargin": 36.1198,
+                    "BottomMargin": 343.8802,
+                    "Tag": 830,
+                    "ActionTag": -1208410251,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Name": "TextBoxXucxac1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 14,
+                    "LabelText": "Xúc sắc 2",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 305.9654,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 250,
+                      "G": 234,
+                      "B": 133
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.651,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.1702,
+                      "Y": 0.05
+                    },
+                    "LeftMargin": 265.9654,
+                    "RightMargin": 124.0346,
+                    "TopMargin": 36.1198,
+                    "BottomMargin": 343.8802,
+                    "Tag": 831,
+                    "ActionTag": 742984680,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Name": "TextBoxXucxac2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 14,
+                    "LabelText": "Xúc sắc 3",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 418.4037,
+                      "Y": 353.8802
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 250,
+                      "G": 234,
+                      "B": 133
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8902,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.1702,
+                      "Y": 0.05
+                    },
+                    "LeftMargin": 378.4037,
+                    "RightMargin": 11.5963,
+                    "TopMargin": 36.1198,
+                    "BottomMargin": 343.8802,
+                    "Tag": 832,
+                    "ActionTag": 894078494,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Name": "TextBoxXucxac3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Tổng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.8877,
+                      "Y": 9.8137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 250,
+                      "G": 234,
+                      "B": 133
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1423,
+                      "Y": 0.0245
+                    },
+                    "PreSize": {
+                      "X": 0.0894,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 45.8877,
+                    "RightMargin": 382.1123,
+                    "TopMargin": 377.6863,
+                    "BottomMargin": -2.6863,
+                    "Tag": 833,
+                    "ActionTag": 303997119,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 25.0
+                    },
+                    "Name": "TextTong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Xúc sắc 1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 168.3296,
+                      "Y": 9.8137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3581,
+                      "Y": 0.0245
+                    },
+                    "PreSize": {
+                      "X": 0.1574,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.3296,
+                    "RightMargin": 264.6704,
+                    "TopMargin": 377.6863,
+                    "BottomMargin": -2.6863,
+                    "Tag": 834,
+                    "ActionTag": 1136080564,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 25.0
+                    },
+                    "Name": "TextXucxac1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Xúc sắc 2",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 284.9088,
+                      "Y": 9.8137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 94,
+                      "B": 117
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6062,
+                      "Y": 0.0245
+                    },
+                    "PreSize": {
+                      "X": 0.1617,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 246.9088,
+                    "RightMargin": 147.0912,
+                    "TopMargin": 377.6863,
+                    "BottomMargin": -2.6863,
+                    "Tag": 835,
+                    "ActionTag": -1056934109,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 25.0
+                    },
+                    "Name": "TextXucxac2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Xúc sắc 3",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 397.3472,
+                      "Y": 9.8137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 97,
+                      "G": 240,
+                      "B": 252
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8454,
+                      "Y": 0.0245
+                    },
+                    "PreSize": {
+                      "X": 0.1617,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 359.3472,
+                    "RightMargin": 34.6528,
+                    "TopMargin": 377.6863,
+                    "BottomMargin": -2.6863,
+                    "Tag": 836,
+                    "ActionTag": 801423659,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 25.0
+                    },
+                    "Name": "TextXucxac3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_graph_line.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "Scale9OriginX": 139,
+                    "Scale9Width": 145,
+                    "Scale9Height": 3,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.4158,
+                      "Y": 184.431
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5073,
+                      "Y": 0.4611
+                    },
+                    "PreSize": {
+                      "X": 0.9,
+                      "Y": 0.0075
+                    },
+                    "LeftMargin": 26.9158,
+                    "RightMargin": 20.0842,
+                    "TopMargin": 214.069,
+                    "BottomMargin": 182.931,
+                    "Tag": 867,
+                    "ActionTag": -129847323,
+                    "Size": {
+                      "X": 423.0,
+                      "Y": 3.0
+                    },
+                    "Name": "GraphLine1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_graph_left.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9Width": 9,
+                    "Scale9Height": 132,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 17.3289,
+                      "Y": 251.0874
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0369,
+                      "Y": 0.6277
+                    },
+                    "PreSize": {
+                      "X": 0.0532,
+                      "Y": 0.33
+                    },
+                    "LeftMargin": 4.8289,
+                    "RightMargin": 440.1711,
+                    "TopMargin": 82.9126,
+                    "BottomMargin": 185.0874,
+                    "Tag": 868,
+                    "ActionTag": 1134711439,
+                    "Size": {
+                      "X": 25.0,
+                      "Y": 132.0
+                    },
+                    "Name": "GraphLeft1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_graph_line2.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "Scale9OriginX": 139,
+                    "Scale9Width": 145,
+                    "Scale9Height": 3,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.0178,
+                      "Y": 26.2605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5064,
+                      "Y": 0.0657
+                    },
+                    "PreSize": {
+                      "X": 0.9,
+                      "Y": 0.0075
+                    },
+                    "LeftMargin": 26.5178,
+                    "RightMargin": 20.4822,
+                    "TopMargin": 372.2395,
+                    "BottomMargin": 24.7605,
+                    "Tag": 901,
+                    "ActionTag": -1985768441,
+                    "Size": {
+                      "X": 423.0,
+                      "Y": 3.0
+                    },
+                    "Name": "GraphLine2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_graph_left2.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "Scale9OriginX": 4,
+                    "Scale9Width": 6,
+                    "Scale9Height": 151,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 21.9308,
+                      "Y": 99.9171
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0467,
+                      "Y": 0.2498
+                    },
+                    "PreSize": {
+                      "X": 0.0298,
+                      "Y": 0.3775
+                    },
+                    "LeftMargin": 14.9308,
+                    "RightMargin": 441.0692,
+                    "TopMargin": 224.5829,
+                    "BottomMargin": 24.4171,
+                    "Tag": 902,
+                    "ActionTag": 876574379,
+                    "Size": {
+                      "X": 14.0,
+                      "Y": 151.0
+                    },
+                    "Name": "GraphLeft2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Phiên gần nhất(#123456) -",
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 386.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2702,
+                      "Y": 0.965
+                    },
+                    "PreSize": {
+                      "X": 0.4681,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 17.0,
+                    "RightMargin": 233.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 373.0,
+                    "Tag": 137,
+                    "ActionTag": 2116855207,
+                    "Size": {
+                      "X": 220.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGTextPhienInfo",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Tài 13: (3-4-6)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Fonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 347.0,
+                      "Y": 386.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7383,
+                      "Y": 0.965
+                    },
+                    "PreSize": {
+                      "X": 0.4255,
+                      "Y": 0.065
+                    },
+                    "LeftMargin": 247.0,
+                    "RightMargin": 23.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 373.0,
+                    "Tag": 138,
+                    "ActionTag": -1602748862,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "MGTextTaiXiuInfo",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 112637733,
+                "Size": {
+                  "X": 470.0,
+                  "Y": 400.0
+                },
+                "Name": "MGCompoPage2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 470.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "LeftMargin": 470.0,
+                "Tag": 873,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_grid.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 145,
+                    "Scale9Height": 52,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 23.3026,
+                      "Y": 6.3041
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0496,
+                      "Y": 0.0158
+                    },
+                    "PreSize": {
+                      "X": 0.8957,
+                      "Y": 0.37
+                    },
+                    "LeftMargin": 23.3026,
+                    "RightMargin": 25.6974,
+                    "TopMargin": 245.6959,
+                    "BottomMargin": 6.3041,
+                    "Tag": 755,
+                    "ActionTag": 2103499169,
+                    "Size": {
+                      "X": 421.0,
+                      "Y": 148.0
+                    },
+                    "Name": "MGGraph2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_grid.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 145,
+                    "Scale9Height": 52,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 24.3001,
+                      "Y": 205.6924
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0517,
+                      "Y": 0.5142
+                    },
+                    "PreSize": {
+                      "X": 0.8957,
+                      "Y": 0.37
+                    },
+                    "LeftMargin": 24.3001,
+                    "RightMargin": 24.6999,
+                    "TopMargin": 46.3076,
+                    "BottomMargin": 205.6924,
+                    "Tag": 756,
+                    "ActionTag": -1943204735,
+                    "Size": {
+                      "X": 421.0,
+                      "Y": 148.0
+                    },
+                    "Name": "MGGraph1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_analytics_number.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 235.0485,
+                      "Y": 378.4725
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5001,
+                      "Y": 0.9462
+                    },
+                    "PreSize": {
+                      "X": 0.5064,
+                      "Y": 0.105
+                    },
+                    "LeftMargin": 116.0485,
+                    "RightMargin": 115.9515,
+                    "TopMargin": 0.5275,
+                    "BottomMargin": 357.4725,
+                    "Tag": 769,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Text Label",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Fonts/arialbd.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.8273,
+                          "Y": 21.0134
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 98,
+                          "G": 240,
+                          "B": 252
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2514,
+                          "Y": 0.5003
+                        },
+                        "PreSize": {
+                          "X": 0.4706,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 3.8273,
+                        "RightMargin": 122.1727,
+                        "TopMargin": 5.9866,
+                        "BottomMargin": 6.0134,
+                        "Tag": 772,
+                        "ActionTag": -1631616092,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 30.0
+                        },
+                        "Name": "MGTextTai",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Text Label",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Fonts/arialbd.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.5746,
+                          "Y": 21.0134
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7503,
+                          "Y": 0.5003
+                        },
+                        "PreSize": {
+                          "X": 0.4832,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 121.0746,
+                        "RightMargin": 1.9254,
+                        "TopMargin": 5.9866,
+                        "BottomMargin": 6.0134,
+                        "Tag": 773,
+                        "ActionTag": 1461404130,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 30.0
+                        },
+                        "Name": "MGTextXiu",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1565518071,
+                    "Size": {
+                      "X": 238.0,
+                      "Y": 42.0
+                    },
+                    "Name": "MGBackgroundTaiXiu1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sp_analytics_number.png",
+                      "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 235.0485,
+                      "Y": 180.2916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5001,
+                      "Y": 0.4507
+                    },
+                    "PreSize": {
+                      "X": 0.5064,
+                      "Y": 0.105
+                    },
+                    "LeftMargin": 116.0485,
+                    "RightMargin": 115.9515,
+                    "TopMargin": 198.7084,
+                    "BottomMargin": 159.2916,
+                    "Tag": 771,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Text Label",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Fonts/arialbd.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5274,
+                          "Y": 22.0138
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 98,
+                          "G": 240,
+                          "B": 252
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2501,
+                          "Y": 0.5241
+                        },
+                        "PreSize": {
+                          "X": 0.4706,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 3.5274,
+                        "RightMargin": 122.4726,
+                        "TopMargin": 4.9862,
+                        "BottomMargin": 7.0138,
+                        "Tag": 774,
+                        "ActionTag": 526551940,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 30.0
+                        },
+                        "Name": "MGTextTai",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Text Label",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Fonts/arialbd.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.5755,
+                          "Y": 22.0138
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7503,
+                          "Y": 0.5241
+                        },
+                        "PreSize": {
+                          "X": 0.4832,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 121.0755,
+                        "RightMargin": 1.9245,
+                        "TopMargin": 4.9862,
+                        "BottomMargin": 7.0138,
+                        "Tag": 775,
+                        "ActionTag": -1419220172,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 30.0
+                        },
+                        "Name": "MGTextXiu",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 182958162,
+                    "Size": {
+                      "X": 238.0,
+                      "Y": 42.0
+                    },
+                    "Name": "MGBackgroundTaiXiu2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 192409003,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 470.0,
+                  "Y": 400.0
+                },
+                "Name": "MGCompoPage1",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 962596313,
+            "Size": {
+              "X": 470.0,
+              "Y": 400.0
+            },
+            "Name": "MGCompoAnalyticsPageView",
+            "ctype": "PageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_pre.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 11,
+            "Scale9Width": 8,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -247.4678,
+              "Y": 0.7324
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -256.4678,
+            "RightMargin": 238.4678,
+            "TopMargin": -19.2324,
+            "BottomMargin": -17.7676,
+            "Tag": 870,
+            "ActionTag": 986867149,
+            "Size": {
+              "X": 18.0,
+              "Y": 37.0
+            },
+            "Name": "MGCompoButtonPre",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_next.png",
+              "Plist": "game/minigame/trenduoi/AtlasTrenDuoi/atlasTrenDuoi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 11,
+            "Scale9Width": 8,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 247.0015,
+              "Y": 0.7324
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.0015,
+            "RightMargin": -256.0015,
+            "TopMargin": -19.2324,
+            "BottomMargin": -17.7676,
+            "Tag": 871,
+            "ActionTag": 303010071,
+            "Size": {
+              "X": 18.0,
+              "Y": 37.0
+            },
+            "Name": "MGCompoButtonNext",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../Fonts/arialbd.ttf",
+        "AtlasTrenDuoi/atlasTrenDuoi.plist",
+        "AtlasTrenDuoi/atlasTrenDuoi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}
