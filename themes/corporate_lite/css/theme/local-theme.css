@@ -1,0 +1,20 @@
+.custom-center {
+	text-align:center;
+}
+
+#footer-top {
+/*	background: url("../../images/highlight-bg.jpg");*/
+        background-color:#312c2c 
+}
+
+#block-corporate-lite-page-title {
+	background: url("../../images/highlight-bg.jpg");
+}
+#block-corporate-lite-page-title h1{
+	color:#ffffff;
+}
+#why-us a{
+	color:#767676;
+    	text-decoration: none !important;
+	color: #ea4d2b;
+}
