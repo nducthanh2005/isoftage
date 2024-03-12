@@ -1,0 +1,1267 @@
+{
+  "ID": "f72abb50-1b4e-4e45-8c99-e48f09b3bce5",
+  "Version": "2.3.4",
+  "Name": "UIListAvatarPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 420,
+        "Children": [
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -2.0425,
+              "Y": 2.0425
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0016,
+              "Y": 0.0028
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.0425,
+            "RightMargin": 2.0425,
+            "TopMargin": -2.0425,
+            "BottomMargin": 2.0425,
+            "Tag": 725,
+            "ActionTag": 635396665,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Alpha": 153,
+            "Name": "PanelBG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundMedium.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 625,
+            "ActionTag": -1104708203,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1014.7075,
+              "Y": 606.9317
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7927,
+              "Y": 0.843
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 978.2075,
+            "RightMargin": 228.7925,
+            "TopMargin": 76.5683,
+            "BottomMargin": 570.4317,
+            "Tag": 423,
+            "ActionTag": -2038693762,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 636.3159,
+              "Y": 606.3484
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": -2.0007,
+            "RotationSkewY": -2.0007,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4971,
+              "Y": 0.8422
+            },
+            "PreSize": {
+              "X": 0.1539,
+              "Y": 0.0708
+            },
+            "LeftMargin": 537.8159,
+            "RightMargin": 545.1841,
+            "TopMargin": 88.1516,
+            "BottomMargin": 580.8484,
+            "Tag": 422,
+            "ActionTag": 1821659697,
+            "Size": {
+              "X": 197.0,
+              "Y": 51.0
+            },
+            "Name": "Title",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 18,
+            "ButtonText": "CHỌN",
+            "TextColor": {
+              "R": 15,
+              "G": 100,
+              "B": 47
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonGreen.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 150,
+            "Scale9Height": 81,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 940.0001,
+              "Y": 155.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7344,
+              "Y": 0.2153
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.0903
+            },
+            "LeftMargin": 885.0001,
+            "RightMargin": 284.9999,
+            "TopMargin": 532.5,
+            "BottomMargin": 122.5,
+            "Tag": 421,
+            "ActionTag": -1983180508,
+            "Size": {
+              "X": 110.0,
+              "Y": 65.0
+            },
+            "Name": "JFButtonComfirm",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_1.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 369.9996,
+              "Y": 453.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2891,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 301.4996,
+            "RightMargin": 841.5004,
+            "TopMargin": 198.4999,
+            "BottomMargin": 384.5001,
+            "Tag": 581,
+            "ActionTag": -415052024,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_2.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 504.999,
+              "Y": 453.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3945,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 436.499,
+            "RightMargin": 706.501,
+            "TopMargin": 198.4999,
+            "BottomMargin": 384.5001,
+            "Tag": 640,
+            "ActionTag": 227494029,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_3.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5029
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 453.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 571.5,
+            "RightMargin": 571.5,
+            "TopMargin": 198.8972,
+            "BottomMargin": 384.1028,
+            "Tag": 641,
+            "ActionTag": -493507757,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_4.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 774.9985,
+              "Y": 453.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6055,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 706.4985,
+            "RightMargin": 436.5015,
+            "TopMargin": 198.4999,
+            "BottomMargin": 384.5001,
+            "Tag": 642,
+            "ActionTag": -2020627451,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_5.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 909.9982,
+              "Y": 453.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7109,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 841.4982,
+            "RightMargin": 301.5018,
+            "TopMargin": 198.4999,
+            "BottomMargin": 384.5001,
+            "Tag": 643,
+            "ActionTag": 1882854651,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_6.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5202,
+              "ScaleY": 0.4689
+            },
+            "Position": {
+              "X": 372.7684,
+              "Y": 311.74
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2912,
+              "Y": 0.433
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 301.501,
+            "RightMargin": 841.499,
+            "TopMargin": 335.4993,
+            "BottomMargin": 247.5007,
+            "Tag": 644,
+            "ActionTag": 1571307157,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_7.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 504.9998,
+              "Y": 316.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3945,
+              "Y": 0.4389
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 436.4998,
+            "RightMargin": 706.5002,
+            "TopMargin": 335.4999,
+            "BottomMargin": 247.5001,
+            "Tag": 645,
+            "ActionTag": -1254777183,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_8.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5029
+            },
+            "Position": {
+              "X": 639.9998,
+              "Y": 315.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4389
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 571.4998,
+            "RightMargin": 571.5002,
+            "TopMargin": 335.8974,
+            "BottomMargin": 247.1026,
+            "Tag": 646,
+            "ActionTag": 310505332,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_8",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_9.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 774.9998,
+              "Y": 316.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6055,
+              "Y": 0.4389
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 706.4998,
+            "RightMargin": 436.5002,
+            "TopMargin": 335.4999,
+            "BottomMargin": 247.5001,
+            "Tag": 647,
+            "ActionTag": 1630893730,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_9",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Avatar_10.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 115,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 909.9997,
+              "Y": 316.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7109,
+              "Y": 0.4389
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 841.4997,
+            "RightMargin": 301.5003,
+            "TopMargin": 335.4999,
+            "BottomMargin": 247.5001,
+            "Tag": 648,
+            "ActionTag": -2033022804,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "Name": "Avatar_10",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Selected.png",
+              "Plist": "Popups/PopupAvatar/AtlasPopupAvatar.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 370.0,
+              "Y": 453.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2891,
+              "Y": 0.6292
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.1903
+            },
+            "LeftMargin": 301.5,
+            "RightMargin": 841.5,
+            "TopMargin": 198.5,
+            "BottomMargin": 384.5,
+            "Tag": 821,
+            "ActionTag": -1795879766,
+            "Size": {
+              "X": 137.0,
+              "Y": 137.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Selected",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/avata1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 88,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 368.9999,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2883,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1528
+            },
+            "LeftMargin": 313.9999,
+            "RightMargin": 856.0001,
+            "TopMargin": 485.0,
+            "BottomMargin": 125.0,
+            "Tag": 342,
+            "ActionTag": 28896003,
+            "Size": {
+              "X": 110.0,
+              "Y": 110.0
+            },
+            "Name": "Avatar_11",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/avatar2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 88,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.0,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3945,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1528
+            },
+            "LeftMargin": 450.0,
+            "RightMargin": 720.0,
+            "TopMargin": 485.0,
+            "BottomMargin": 125.0,
+            "Tag": 343,
+            "ActionTag": 240671546,
+            "Size": {
+              "X": 110.0,
+              "Y": 110.0
+            },
+            "Name": "Avatar_12",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/avatar3.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 88,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1528
+            },
+            "LeftMargin": 585.0,
+            "RightMargin": 585.0,
+            "TopMargin": 485.0,
+            "BottomMargin": 125.0,
+            "Tag": 344,
+            "ActionTag": 1178687150,
+            "Size": {
+              "X": 110.0,
+              "Y": 110.0
+            },
+            "Name": "Avatar_13",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/SelectFrame.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 73,
+            "Scale9Height": 89,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 775.0,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.18,
+              "ScaleY": 1.18
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6055,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 0.0805,
+              "Y": 0.1542
+            },
+            "LeftMargin": 723.5,
+            "RightMargin": 453.5,
+            "TopMargin": 484.5,
+            "BottomMargin": 124.5,
+            "Tag": 345,
+            "ActionTag": -1957854570,
+            "Size": {
+              "X": 103.0,
+              "Y": 111.0
+            },
+            "Name": "JFButtonFrameSelector",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFBackgroundMedium.json?v=21",
+        "Popups/PopupAvatar/AtlasPopupAvatar.plist?v=21",
+        "Popups/PopupAvatar/AtlasPopupAvatar.png?v=21",
+        "Popups/PopupAvatarFrame/SelectFrame.png?v=21",
+        "Popups/PopupGame/AtlasPopupGame.plist?v=21",
+        "Popups/PopupGame/AtlasPopupGame.png?v=21",
+        "Popups/PopupUuDai/avata1.png?v=21",
+        "Popups/PopupUuDai/avatar2.png?v=21",
+        "Popups/PopupUuDai/avatar3.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

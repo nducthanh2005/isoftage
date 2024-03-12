@@ -1,0 +1,764 @@
+{
+  "ID": "7cf6130d-1a63-4a74-8fc2-9419b60e89ec",
+  "Version": "2.3.4",
+  "Name": "JFPopupTutorial",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 143,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundPopup.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 971,
+            "ActionTag": 1254751892,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node-Background",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -236,
+            "Scale9OriginY": -230,
+            "Scale9Width": 472,
+            "Scale9Height": 460,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.3483,
+              "Y": 344.9741
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5065,
+              "Y": 0.4791
+            },
+            "PreSize": {
+              "X": 0.7813,
+              "Y": 0.8333
+            },
+            "LeftMargin": 148.3483,
+            "RightMargin": 131.6516,
+            "TopMargin": 75.0259,
+            "BottomMargin": 44.9741,
+            "Tag": 217,
+            "ActionTag": -1326056043,
+            "Size": {
+              "X": 1000.0,
+              "Y": 600.0
+            },
+            "Name": "JFbackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundChest.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 99,
+            "Scale9Width": 772,
+            "Scale9Height": 302,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 203.3478,
+              "Y": 82.974
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1589,
+              "Y": 0.1152
+            },
+            "PreSize": {
+              "X": 0.6836,
+              "Y": 0.7611
+            },
+            "LeftMargin": 203.3478,
+            "RightMargin": 201.6521,
+            "TopMargin": 89.026,
+            "BottomMargin": 82.974,
+            "Tag": 6444,
+            "ActionTag": -1146239368,
+            "Size": {
+              "X": 875.0,
+              "Y": 548.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/ImgGameRule1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.2021,
+              "Y": 377.8942
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4986,
+              "Y": 0.5249
+            },
+            "PreSize": {
+              "X": 0.5375,
+              "Y": 0.6111
+            },
+            "LeftMargin": 294.2021,
+            "RightMargin": 297.7979,
+            "TopMargin": 122.1058,
+            "BottomMargin": 157.8942,
+            "Tag": 382,
+            "ActionTag": 2052408525,
+            "Size": {
+              "X": 688.0,
+              "Y": 440.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ImgGameRule0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/ImgGameRule2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0649,
+              "Y": 378.3515
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5001,
+              "Y": 0.5255
+            },
+            "PreSize": {
+              "X": 0.6406,
+              "Y": 0.6111
+            },
+            "LeftMargin": 230.0649,
+            "RightMargin": 229.9351,
+            "TopMargin": 121.6485,
+            "BottomMargin": 158.3515,
+            "Tag": 385,
+            "ActionTag": -957621176,
+            "Size": {
+              "X": 820.0,
+              "Y": 440.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ImgGameRule1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 850,
+              "Height": 575
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.3281,
+              "Y": 397.3343
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5018,
+              "Y": 0.5519
+            },
+            "PreSize": {
+              "X": 0.6438,
+              "Y": 0.5861
+            },
+            "LeftMargin": 230.3281,
+            "RightMargin": 225.6719,
+            "TopMargin": 111.6657,
+            "BottomMargin": 186.3343,
+            "Tag": 384,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -0.8,
+                  "Y": -1.2108
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0009,
+                  "Y": -0.0021
+                },
+                "PreSize": {
+                  "X": 0.9647,
+                  "Y": 1.0
+                },
+                "LeftMargin": -0.8,
+                "RightMargin": 30.8,
+                "TopMargin": 1.2108,
+                "BottomMargin": -1.2108,
+                "Tag": 157,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Popups/SlotMinigame/ImgGameRule3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 270,
+                    "Scale9OriginY": 189,
+                    "Scale9Width": 280,
+                    "Scale9Height": 195,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1.79,
+                      "Y": 2.41
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.0042
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.9965
+                    },
+                    "LeftMargin": 1.79,
+                    "RightMargin": -1.79,
+                    "TopMargin": -0.41,
+                    "BottomMargin": 2.41,
+                    "Tag": 140,
+                    "ActionTag": -1531000244,
+                    "Size": {
+                      "X": 820.0,
+                      "Y": 573.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 620100051,
+                "Size": {
+                  "X": 820.0,
+                  "Y": 575.0
+                },
+                "Name": "Panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1781612429,
+            "Size": {
+              "X": 824.0,
+              "Y": 422.0
+            },
+            "Name": "ImgGameRule2",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnBack.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 139,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 834.9003,
+              "Y": 121.0576
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6523,
+              "Y": 0.1681
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.1125
+            },
+            "LeftMargin": 750.4003,
+            "RightMargin": 360.5997,
+            "TopMargin": 558.4424,
+            "BottomMargin": 80.5576,
+            "Tag": 387,
+            "ActionTag": 1827314569,
+            "Size": {
+              "X": 169.0,
+              "Y": 81.0
+            },
+            "Name": "BtnSau",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnNext.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 139,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 446.6239,
+              "Y": 121.0574
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3489,
+              "Y": 0.1681
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.1125
+            },
+            "LeftMargin": 362.1239,
+            "RightMargin": 748.8761,
+            "TopMargin": 558.4426,
+            "BottomMargin": 80.5574,
+            "Tag": 388,
+            "ActionTag": -1725136051,
+            "Size": {
+              "X": 169.0,
+              "Y": 81.0
+            },
+            "Name": "BtnTruoc",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnGoToGame.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 200,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.4568,
+              "Y": 122.4396
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.1701
+            },
+            "PreSize": {
+              "X": 0.1797,
+              "Y": 0.1125
+            },
+            "LeftMargin": 526.4568,
+            "RightMargin": 523.5432,
+            "TopMargin": 557.0604,
+            "BottomMargin": 81.9396,
+            "Tag": 389,
+            "ActionTag": 1271514567,
+            "Size": {
+              "X": 230.0,
+              "Y": 81.0
+            },
+            "Name": "BtnVegame",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Vị trí xuất hiện của các biểu tượng có thể thay đổi, trừ trường hợp 2 ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 561.0159,
+              "Y": 170.515
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 215,
+              "G": 14,
+              "B": 14
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4383,
+              "Y": 0.2368
+            },
+            "PreSize": {
+              "X": 0.5125,
+              "Y": 0.0486
+            },
+            "LeftMargin": 233.0159,
+            "RightMargin": 390.9841,
+            "TopMargin": 531.985,
+            "BottomMargin": 153.015,
+            "Tag": 32,
+            "ActionTag": -1523672421,
+            "Size": {
+              "X": 656.0,
+              "Y": 35.0
+            },
+            "Name": "TxtMsg",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/SlotMinigame/BtnClose.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1092.2949,
+              "Y": 644.5529
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8534,
+              "Y": 0.8952
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 1055.7949,
+            "RightMargin": 151.2051,
+            "TopMargin": 38.9471,
+            "BottomMargin": 608.0529,
+            "Tag": 6016,
+            "ActionTag": -1408828044,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/arialbd.ttf?v=21",
+        "JFBackgroundPopup.json?v=21",
+        "Popups/PopupGame/AtlasPopupGame.plist?v=21",
+        "Popups/PopupGame/AtlasPopupGame.png?v=21",
+        "Popups/SlotMinigame/BtnBack.png?v=21",
+        "Popups/SlotMinigame/BtnClose.png?v=21",
+        "Popups/SlotMinigame/BtnGoToGame.png?v=21",
+        "Popups/SlotMinigame/BtnNext.png?v=21",
+        "Popups/SlotMinigame/ImgGameRule1.png?v=21",
+        "Popups/SlotMinigame/ImgGameRule2.png?v=21",
+        "Popups/SlotMinigame/ImgGameRule3.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

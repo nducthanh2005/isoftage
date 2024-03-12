@@ -1,0 +1,514 @@
+{
+  "ID": "eaab4213-894b-4475-9615-e8fdbbaaa345",
+  "Version": "2.3.4",
+  "Name": "UIPromoPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 43,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 675,
+            "Scale9Height": 451,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9998,
+              "Y": 359.8032
+            },
+            "Scale": {
+              "ScaleX": 1.3812,
+              "ScaleY": 1.1956
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.5508,
+              "Y": 0.6681
+            },
+            "LeftMargin": 287.4998,
+            "RightMargin": 287.5002,
+            "TopMargin": 119.6968,
+            "BottomMargin": 119.3032,
+            "Tag": 110,
+            "ActionTag": 2072902353,
+            "Size": {
+              "X": 705.0,
+              "Y": 481.0
+            },
+            "Name": "JFPromoBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/20pt.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 173,
+            "Scale9OriginY": 52,
+            "Scale9Width": 179,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9969,
+              "Y": 652.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9056
+            },
+            "PreSize": {
+              "X": 0.4102,
+              "Y": 0.2194
+            },
+            "LeftMargin": 377.4969,
+            "RightMargin": 377.5031,
+            "TopMargin": -11.0007,
+            "BottomMargin": 573.0007,
+            "Tag": 15,
+            "ActionTag": -944009374,
+            "Size": {
+              "X": 525.0,
+              "Y": 158.0
+            },
+            "Name": "JFPromoTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/exit.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 66,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1050.1637,
+              "Y": 625.4546
+            },
+            "Scale": {
+              "ScaleX": 1.0798,
+              "ScaleY": 1.0798
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8204,
+              "Y": 0.8687
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.0736
+            },
+            "LeftMargin": 1002.1637,
+            "RightMargin": 181.8363,
+            "TopMargin": 68.0454,
+            "BottomMargin": 598.9546,
+            "Tag": 16,
+            "ActionTag": -52034965,
+            "Size": {
+              "X": 96.0,
+              "Y": 53.0
+            },
+            "Name": "JFCloseBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/m1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 219,
+            "Scale9OriginY": 19,
+            "Scale9Width": 227,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 539.8917,
+              "Y": 555.1565
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4218,
+              "Y": 0.7711
+            },
+            "PreSize": {
+              "X": 0.5195,
+              "Y": 0.0833
+            },
+            "LeftMargin": 207.3917,
+            "RightMargin": 407.6083,
+            "TopMargin": 134.8435,
+            "BottomMargin": 525.1565,
+            "Tag": 38,
+            "ActionTag": 1937262328,
+            "Size": {
+              "X": 665.0,
+              "Y": 60.0
+            },
+            "Name": "JFTheLe1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/m2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 19,
+            "Scale9Width": 105,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 451.3652,
+              "Y": 519.5206
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3526,
+              "Y": 0.7216
+            },
+            "PreSize": {
+              "X": 0.2367,
+              "Y": 0.0819
+            },
+            "LeftMargin": 299.8652,
+            "RightMargin": 677.1348,
+            "TopMargin": 170.9794,
+            "BottomMargin": 490.0206,
+            "Tag": 39,
+            "ActionTag": -2032365857,
+            "Size": {
+              "X": 303.0,
+              "Y": 59.0
+            },
+            "Name": "JFTheLe2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/m3.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 231,
+            "Scale9OriginY": 19,
+            "Scale9Width": 238,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 649.5876,
+              "Y": 485.7824
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5075,
+              "Y": 0.6747
+            },
+            "PreSize": {
+              "X": 0.5469,
+              "Y": 0.0833
+            },
+            "LeftMargin": 299.5876,
+            "RightMargin": 280.4124,
+            "TopMargin": 204.2176,
+            "BottomMargin": 455.7824,
+            "Tag": 40,
+            "ActionTag": -1369315829,
+            "Size": {
+              "X": 700.0,
+              "Y": 60.0
+            },
+            "Name": "JFTheLe3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupUuDai/m4.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 244,
+            "Scale9OriginY": 19,
+            "Scale9Width": 252,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 670.0505,
+              "Y": 450.3122
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5235,
+              "Y": 0.6254
+            },
+            "PreSize": {
+              "X": 0.5781,
+              "Y": 0.0833
+            },
+            "LeftMargin": 300.0505,
+            "RightMargin": 239.9495,
+            "TopMargin": 239.6878,
+            "BottomMargin": 420.3122,
+            "Tag": 41,
+            "ActionTag": -504074420,
+            "Size": {
+              "X": 740.0,
+              "Y": 60.0
+            },
+            "Name": "JFTheLe4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 292.0,
+              "Y": 298.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2281,
+              "Y": 0.4139
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 292.0,
+            "RightMargin": 988.0,
+            "TopMargin": 422.0,
+            "BottomMargin": 298.0,
+            "Tag": 492,
+            "ActionTag": 1838842080,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFVina",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 521.0,
+              "Y": 298.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.407,
+              "Y": 0.4139
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 521.0,
+            "RightMargin": 759.0,
+            "TopMargin": 422.0,
+            "BottomMargin": 298.0,
+            "Tag": 491,
+            "ActionTag": -1799300223,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFMobi",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 751.0,
+              "Y": 298.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5867,
+              "Y": 0.4139
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 751.0,
+            "RightMargin": 529.0,
+            "TopMargin": 422.0,
+            "BottomMargin": 298.0,
+            "Tag": 490,
+            "ActionTag": -1661792090,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFViettel",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFMomoE.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 980.0,
+              "Y": 298.0
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7656,
+              "Y": 0.4139
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 980.0,
+            "RightMargin": 300.0,
+            "TopMargin": 422.0,
+            "BottomMargin": 298.0,
+            "Tag": 371,
+            "ActionTag": -1098884592,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFMomoE",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "JFPromoPopup",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "JFMomoE.json?v=21",
+        "Popups/PopupUuDai/20pt.png?v=21",
+        "Popups/PopupUuDai/bg.png?v=21",
+        "Popups/PopupUuDai/exit.png?v=21",
+        "Popups/PopupUuDai/m1.png?v=21",
+        "Popups/PopupUuDai/m2.png?v=21",
+        "Popups/PopupUuDai/m3.png?v=21",
+        "Popups/PopupUuDai/m4.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

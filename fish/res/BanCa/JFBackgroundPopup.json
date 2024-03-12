@@ -1,0 +1,78 @@
+{
+  "ID": "5859b3fc-66bc-4887-a063-44794f1bf262",
+  "Version": "2.3.4",
+  "Name": "JFBackgroundPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 967,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopupBig.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 194,
+            "Scale9OriginY": 101,
+            "Scale9Width": 201,
+            "Scale9Height": 107,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -460.0,
+            "RightMargin": -460.0,
+            "TopMargin": -310.0,
+            "BottomMargin": -310.0,
+            "Tag": 970,
+            "ActionTag": -1903585101,
+            "Size": {
+              "X": 920.0,
+              "Y": 620.0
+            },
+            "Name": "Background",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Popups/PopupGame/AtlasPopupGame.plist?v=21",
+        "Popups/PopupGame/AtlasPopupGame.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

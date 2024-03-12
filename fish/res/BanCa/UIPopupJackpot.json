@@ -1,0 +1,582 @@
+{
+  "ID": "dfee028c-f6dd-4b78-8137-f7e10ed390e2",
+  "Version": "2.3.4",
+  "Name": "UIPopupJackpot",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 86,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundBigNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 645.84,
+              "Y": 339.4414
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5046,
+              "Y": 0.4714
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 645.84,
+            "RightMargin": 634.16,
+            "TopMargin": 380.5586,
+            "BottomMargin": 339.4414,
+            "Tag": 26,
+            "ActionTag": -2042122013,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Background",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 50,
+            "LabelText": "Hướng Dẫn",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/tahomabd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 231,
+              "G": 80,
+              "B": 80
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.3385,
+              "Y": 656.3544
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 2.1478,
+            "RotationSkewY": 2.1478,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5057,
+              "Y": 0.9116
+            },
+            "PreSize": {
+              "X": 0.2227,
+              "Y": 0.0889
+            },
+            "LeftMargin": 504.8385,
+            "RightMargin": 490.1615,
+            "TopMargin": 31.6456,
+            "BottomMargin": 624.3544,
+            "Tag": 36,
+            "ActionTag": -1010106478,
+            "Size": {
+              "X": 285.0,
+              "Y": 64.0
+            },
+            "Name": "Title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupGame/main_jackpot.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 907.179,
+              "Y": 334.9352
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7087,
+              "Y": 0.4652
+            },
+            "PreSize": {
+              "X": 0.4453,
+              "Y": 0.6861
+            },
+            "LeftMargin": 622.179,
+            "RightMargin": 87.821,
+            "TopMargin": 138.0648,
+            "BottomMargin": 87.9352,
+            "Tag": 37,
+            "ActionTag": -1220888983,
+            "Size": {
+              "X": 570.0,
+              "Y": 494.0
+            },
+            "Name": "main",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 35,
+            "LabelText": "Tỉ Lệ Ăn Hũ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UVNNguyenDu.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 922.1998,
+              "Y": 548.2134
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7205,
+              "Y": 0.7614
+            },
+            "PreSize": {
+              "X": 0.1539,
+              "Y": 0.0653
+            },
+            "LeftMargin": 823.6998,
+            "RightMargin": 259.3002,
+            "TopMargin": 148.2866,
+            "BottomMargin": 524.7134,
+            "Tag": 38,
+            "ActionTag": -145428780,
+            "Size": {
+              "X": 197.0,
+              "Y": 47.0
+            },
+            "Name": "JFTxt_Title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 25,
+            "LabelText": "Giá Trị Đạn",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UVNNguyenDu.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 757.9723,
+              "Y": 487.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 113,
+              "G": 229
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5922,
+              "Y": 0.6764
+            },
+            "PreSize": {
+              "X": 0.1055,
+              "Y": 0.0458
+            },
+            "LeftMargin": 690.4723,
+            "RightMargin": 454.5277,
+            "TopMargin": 216.5,
+            "BottomMargin": 470.5,
+            "Tag": 39,
+            "ActionTag": 866960909,
+            "Size": {
+              "X": 135.0,
+              "Y": 33.0
+            },
+            "Name": "JFTxt_Value",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 25,
+            "LabelText": "% Ăn Hũ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UVNNguyenDu.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1045.8344,
+              "Y": 487.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 113,
+              "G": 229
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8171,
+              "Y": 0.6764
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0458
+            },
+            "LeftMargin": 995.8344,
+            "RightMargin": 184.1656,
+            "TopMargin": 216.5,
+            "BottomMargin": 470.5,
+            "Tag": 40,
+            "ActionTag": -1647774191,
+            "Size": {
+              "X": 100.0,
+              "Y": 33.0
+            },
+            "Name": "JFTxt_Noname",
+            "ctype": "TextObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 906.5487,
+              "Y": 284.7386
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7082,
+              "Y": 0.3955
+            },
+            "PreSize": {
+              "X": 0.4297,
+              "Y": 0.5
+            },
+            "LeftMargin": 631.5487,
+            "RightMargin": 98.4513,
+            "TopMargin": 255.2614,
+            "BottomMargin": 104.7386,
+            "Tag": 41,
+            "ActionTag": 1615222657,
+            "Size": {
+              "X": 550.0,
+              "Y": 360.0
+            },
+            "Name": "ListView_Event",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1215.0807,
+              "Y": 629.3189
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9493,
+              "Y": 0.8741
+            },
+            "PreSize": {
+              "X": 0.0625,
+              "Y": 0.1111
+            },
+            "LeftMargin": 1175.0807,
+            "RightMargin": 24.9193,
+            "TopMargin": 50.6811,
+            "BottomMargin": 589.3189,
+            "Tag": 42,
+            "ActionTag": -1566295384,
+            "Size": {
+              "X": 80.0,
+              "Y": 80.0
+            },
+            "Name": "Btn_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupGame/Jackpot.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.9217,
+              "Y": 351.4542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 97.9179,
+            "RotationSkewY": 97.9179,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2546,
+              "Y": 0.4881
+            },
+            "PreSize": {
+              "X": 0.2023,
+              "Y": 0.4417
+            },
+            "LeftMargin": 196.4217,
+            "RightMargin": 824.5784,
+            "TopMargin": 209.5458,
+            "BottomMargin": 192.4542,
+            "Tag": 52,
+            "ActionTag": -270572997,
+            "Size": {
+              "X": 259.0,
+              "Y": 318.0
+            },
+            "Name": "Jackpot_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 50,
+            "LabelText": "JACKPOT",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/UVNNguyenDu.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 236,
+              "G": 236,
+              "B": 236
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.4293,
+              "Y": 168.2188
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 206,
+              "G": 52,
+              "B": 52
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2581,
+              "Y": 0.2336
+            },
+            "PreSize": {
+              "X": 0.1719,
+              "Y": 0.0931
+            },
+            "LeftMargin": 219.4293,
+            "RightMargin": 838.5707,
+            "TopMargin": 516.2812,
+            "BottomMargin": 132.7188,
+            "Tag": 53,
+            "ActionTag": 1740106138,
+            "Size": {
+              "X": 222.0,
+              "Y": 71.0
+            },
+            "Name": "JFTxt_J",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/tahomabd.ttf?v=21",
+        "Fonts/UVNNguyenDu.TTF?v=21",
+        "JFBackgroundBigNormal.json?v=21",
+        "Popups/PopupGame/AtlasPopupGame.plist?v=21",
+        "Popups/PopupGame/AtlasPopupGame.png?v=21",
+        "Popups/PopupGame/Jackpot.png?v=21",
+        "Popups/PopupGame/main_jackpot.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

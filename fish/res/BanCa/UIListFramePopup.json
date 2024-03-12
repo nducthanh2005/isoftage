@@ -1,0 +1,1224 @@
+{
+  "ID": "6d64c1a5-7137-469c-be32-77cf91b58a9e",
+  "Version": "2.3.4",
+  "Name": "UIListFramePopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 26,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/panel.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 388,
+            "Scale9OriginY": 230,
+            "Scale9Width": 401,
+            "Scale9Height": 238,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9951,
+              "Y": 359.9989
+            },
+            "Scale": {
+              "ScaleX": 0.5974,
+              "ScaleY": 0.648
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9195,
+              "Y": 0.9694
+            },
+            "LeftMargin": 51.4951,
+            "RightMargin": 51.5049,
+            "TopMargin": 11.0011,
+            "BottomMargin": 10.9989,
+            "Tag": 33,
+            "ActionTag": -1589925333,
+            "Size": {
+              "X": 1177.0,
+              "Y": 698.0
+            },
+            "Name": "Bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/cancelbutton.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 97,
+            "Scale9Height": 73,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 962.3605,
+              "Y": 528.9664
+            },
+            "Scale": {
+              "ScaleX": 0.8701,
+              "ScaleY": 0.8701
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7518,
+              "Y": 0.7347
+            },
+            "PreSize": {
+              "X": 0.0992,
+              "Y": 0.1319
+            },
+            "LeftMargin": 898.8605,
+            "RightMargin": 254.1395,
+            "TopMargin": 143.5336,
+            "BottomMargin": 481.4664,
+            "Tag": 37,
+            "ActionTag": 646642203,
+            "Size": {
+              "X": 127.0,
+              "Y": 95.0
+            },
+            "Name": "JFBtnClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv5.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 122,
+            "Scale9Height": 111,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.9998,
+              "Y": 403.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3219,
+              "Y": 0.5597
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.125
+            },
+            "LeftMargin": 361.9998,
+            "RightMargin": 818.0002,
+            "TopMargin": 272.0,
+            "BottomMargin": 358.0,
+            "Tag": 39,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 5",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 106.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.1778
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.2889
+                },
+                "LeftMargin": 27.5,
+                "RightMargin": 27.5,
+                "TopMargin": -29.0,
+                "BottomMargin": 93.0,
+                "Tag": 40,
+                "ActionTag": -918936044,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 47.9996,
+                  "Y": -19.9994
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.48,
+                  "Y": -0.2222
+                },
+                "PreSize": {
+                  "X": 1.8,
+                  "Y": 1.1444
+                },
+                "LeftMargin": -42.0004,
+                "RightMargin": -37.9996,
+                "TopMargin": 58.4994,
+                "BottomMargin": -71.4994,
+                "Tag": 41,
+                "ActionTag": -925317902,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_5",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 82681810,
+            "Size": {
+              "X": 100.0,
+              "Y": 90.0
+            },
+            "Name": "FrameLv_5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv10.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 29,
+            "Scale9OriginY": 29,
+            "Scale9Width": 84,
+            "Scale9Height": 85,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.999,
+              "Y": 403.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.5597
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.125
+            },
+            "LeftMargin": 596.999,
+            "RightMargin": 593.001,
+            "TopMargin": 272.0,
+            "BottomMargin": 358.0,
+            "Tag": 42,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 10",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.9993,
+                  "Y": 106.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.1889
+                },
+                "PreSize": {
+                  "X": 0.6444,
+                  "Y": 0.2889
+                },
+                "LeftMargin": 15.9993,
+                "RightMargin": 16.0007,
+                "TopMargin": -29.9999,
+                "BottomMargin": 93.9999,
+                "Tag": 43,
+                "ActionTag": -102058866,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_10",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 45.998,
+                  "Y": -26.0001
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5111,
+                  "Y": -0.2889
+                },
+                "PreSize": {
+                  "X": 2.0,
+                  "Y": 1.1444
+                },
+                "LeftMargin": -44.002,
+                "RightMargin": -45.998,
+                "TopMargin": 64.5001,
+                "BottomMargin": -77.5001,
+                "Tag": 44,
+                "ActionTag": -141362027,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_10",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1565135403,
+            "Size": {
+              "X": 90.0,
+              "Y": 90.0
+            },
+            "Name": "FrameLv_10",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv15.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 114,
+            "Scale9Height": 105,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 871.9985,
+              "Y": 403.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6812,
+              "Y": 0.5597
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.1181
+            },
+            "LeftMargin": 826.9985,
+            "RightMargin": 363.0015,
+            "TopMargin": 274.5,
+            "BottomMargin": 360.5,
+            "Tag": 45,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 15",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.0,
+                  "Y": 105.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4889,
+                  "Y": 1.2353
+                },
+                "PreSize": {
+                  "X": 0.6444,
+                  "Y": 0.3059
+                },
+                "LeftMargin": 15.0,
+                "RightMargin": 17.0,
+                "TopMargin": -33.0,
+                "BottomMargin": 92.0,
+                "Tag": 46,
+                "ActionTag": -1803335097,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_15",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 46.0001,
+                  "Y": -23.9995
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5111,
+                  "Y": -0.2823
+                },
+                "PreSize": {
+                  "X": 2.0,
+                  "Y": 1.2118
+                },
+                "LeftMargin": -43.9999,
+                "RightMargin": -46.0001,
+                "TopMargin": 57.4995,
+                "BottomMargin": -75.4995,
+                "Tag": 47,
+                "ActionTag": 818085499,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_15",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -575990771,
+            "Size": {
+              "X": 90.0,
+              "Y": 85.0
+            },
+            "Name": "FrameLv_15",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv20.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 25,
+            "Scale9OriginY": 29,
+            "Scale9Width": 107,
+            "Scale9Height": 98,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 408.0039,
+              "Y": 237.9804
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3188,
+              "Y": 0.3305
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1389
+            },
+            "LeftMargin": 358.0039,
+            "RightMargin": 821.9961,
+            "TopMargin": 432.0196,
+            "BottomMargin": 187.9804,
+            "Tag": 48,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 20",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.0,
+                  "Y": 101.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.53,
+                  "Y": 1.01
+                },
+                "PreSize": {
+                  "X": 0.58,
+                  "Y": 0.26
+                },
+                "LeftMargin": 24.0,
+                "RightMargin": 18.0,
+                "TopMargin": -14.0,
+                "BottomMargin": 88.0,
+                "Tag": 49,
+                "ActionTag": 1296660965,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_20",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.0047,
+                  "Y": -20.019
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.51,
+                  "Y": -0.2002
+                },
+                "PreSize": {
+                  "X": 1.8,
+                  "Y": 1.03
+                },
+                "LeftMargin": -38.9953,
+                "RightMargin": -41.0047,
+                "TopMargin": 68.519,
+                "BottomMargin": -71.519,
+                "Tag": 50,
+                "ActionTag": 1248558556,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_20",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1330366889,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "FrameLv_20",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv25.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 25,
+            "Scale9OriginY": 29,
+            "Scale9Width": 105,
+            "Scale9Height": 88,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.994,
+              "Y": 233.9804
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5008,
+              "Y": 0.325
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1319
+            },
+            "LeftMargin": 590.994,
+            "RightMargin": 589.006,
+            "TopMargin": 438.5196,
+            "BottomMargin": 186.4804,
+            "Tag": 51,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 25",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 106.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.1158
+                },
+                "PreSize": {
+                  "X": 0.58,
+                  "Y": 0.2737
+                },
+                "LeftMargin": 21.0,
+                "RightMargin": 21.0,
+                "TopMargin": -24.0,
+                "BottomMargin": 93.0,
+                "Tag": 52,
+                "ActionTag": -1036222745,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_25",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.9958,
+                  "Y": -21.019
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.2213
+                },
+                "PreSize": {
+                  "X": 1.8,
+                  "Y": 1.0842
+                },
+                "LeftMargin": -40.0042,
+                "RightMargin": -39.9958,
+                "TopMargin": 64.519,
+                "BottomMargin": -72.519,
+                "Tag": 53,
+                "ActionTag": -934113625,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_25",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1436060608,
+            "Size": {
+              "X": 100.0,
+              "Y": 95.0
+            },
+            "Name": "FrameLv_25",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/lv30.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 29,
+            "Scale9Width": 102,
+            "Scale9Height": 105,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 871.9953,
+              "Y": 234.9804
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6812,
+              "Y": 0.3264
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1389
+            },
+            "LeftMargin": 821.9953,
+            "RightMargin": 358.0047,
+            "TopMargin": 435.0196,
+            "BottomMargin": 184.9804,
+            "Tag": 54,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "Lv 30",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/tahomabd.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 110.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.11
+                },
+                "PreSize": {
+                  "X": 0.58,
+                  "Y": 0.26
+                },
+                "LeftMargin": 21.0,
+                "RightMargin": 21.0,
+                "TopMargin": -23.9999,
+                "BottomMargin": 97.9999,
+                "Tag": 55,
+                "ActionTag": -1537765576,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 26.0
+                },
+                "Name": "TextLv_30",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 54,
+                "ButtonText": "Chọn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupAvatarFrame/btn-xanh.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 81,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0001,
+                  "Y": -20.0001
+                },
+                "Scale": {
+                  "ScaleX": 0.3238,
+                  "ScaleY": 0.3238
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.2
+                },
+                "PreSize": {
+                  "X": 1.8,
+                  "Y": 1.03
+                },
+                "LeftMargin": -39.9999,
+                "RightMargin": -40.0001,
+                "TopMargin": 68.5001,
+                "BottomMargin": -71.5001,
+                "Tag": 56,
+                "ActionTag": 842915855,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 103.0
+                },
+                "Name": "JFBtnFrameLv_30",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1851647705,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "FrameLv_30",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupAvatarFrame/chonKhung.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 95,
+            "Scale9OriginY": 19,
+            "Scale9Width": 98,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.2363,
+              "Y": 525.2307
+            },
+            "Scale": {
+              "ScaleX": 0.5865,
+              "ScaleY": 0.5865
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4994,
+              "Y": 0.7295
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0819
+            },
+            "LeftMargin": 495.2363,
+            "RightMargin": 496.7637,
+            "TopMargin": 165.2693,
+            "BottomMargin": 495.7307,
+            "Tag": 57,
+            "ActionTag": -48623049,
+            "Size": {
+              "X": 288.0,
+              "Y": 59.0
+            },
+            "Name": "Image_14",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf?v=21",
+        "Fonts/tahomabd.ttf?v=21",
+        "Popups/PopupAvatarFrame/btn-xanh.png?v=21",
+        "Popups/PopupAvatarFrame/cancelbutton.png?v=21",
+        "Popups/PopupAvatarFrame/chonKhung.png?v=21",
+        "Popups/PopupAvatarFrame/lv10.png?v=21",
+        "Popups/PopupAvatarFrame/lv15.png?v=21",
+        "Popups/PopupAvatarFrame/lv20.png?v=21",
+        "Popups/PopupAvatarFrame/lv25.png?v=21",
+        "Popups/PopupAvatarFrame/lv30.png?v=21",
+        "Popups/PopupAvatarFrame/lv5.png?v=21",
+        "Popups/PopupAvatarFrame/panel.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,246 @@
+{
+  "ID": "daa2d731-1c8f-4243-a5b0-1beb051f4d88",
+  "Version": "2.3.4",
+  "Name": "JFItemJackpot",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 57,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -550.0,
+            "TopMargin": -40.0,
+            "Tag": 171,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "012",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UVNNguyenDu.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.91,
+                  "Y": 21.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1907,
+                  "Y": 0.5437
+                },
+                "PreSize": {
+                  "X": 0.2727,
+                  "Y": 1.0
+                },
+                "LeftMargin": 29.91,
+                "RightMargin": 370.09,
+                "TopMargin": -1.75,
+                "BottomMargin": 1.75,
+                "Tag": 184,
+                "ActionTag": 827788603,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 40.0
+                },
+                "Name": "JFTxtNumberBullet",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "1% x Jackpot Tổng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/UVNNguyenDu.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 403.27,
+                  "Y": 20.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 236,
+                  "G": 235,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7332,
+                  "Y": 0.5125
+                },
+                "PreSize": {
+                  "X": 0.5455,
+                  "Y": 1.0
+                },
+                "LeftMargin": 253.27,
+                "RightMargin": -3.27,
+                "TopMargin": -0.5,
+                "BottomMargin": 0.5,
+                "Tag": 185,
+                "ActionTag": 23854306,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 40.0
+                },
+                "Name": "JFTxtDescription",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Popups/PopupGame/line.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 308.95,
+                  "Y": -1.25
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5617,
+                  "Y": -0.0312
+                },
+                "PreSize": {
+                  "X": 0.9055,
+                  "Y": 0.05
+                },
+                "LeftMargin": 59.95,
+                "RightMargin": -7.95,
+                "TopMargin": 40.25,
+                "BottomMargin": -2.25,
+                "Tag": 186,
+                "ActionTag": -1667633555,
+                "Size": {
+                  "X": 498.0,
+                  "Y": 2.0
+                },
+                "Name": "line_16",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1269505972,
+            "Size": {
+              "X": 550.0,
+              "Y": 40.0
+            },
+            "Name": "ContentPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Fonts/UVNNguyenDu.TTF?v=21",
+        "Popups/PopupGame/line.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

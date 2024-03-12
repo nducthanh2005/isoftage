@@ -1,0 +1,292 @@
+{
+  "ID": "f17f96da-097b-4db7-a33f-55476e69a744",
+  "Version": "2.3.4",
+  "Name": "UIPopupFirstTopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 326,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupFirstTopup/bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 142,
+            "Scale9OriginY": 93,
+            "Scale9Width": 149,
+            "Scale9Height": 98,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 359.9973
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.9618
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.3383,
+              "Y": 0.3944
+            },
+            "LeftMargin": 423.5,
+            "RightMargin": 423.5,
+            "TopMargin": 218.0027,
+            "BottomMargin": 217.9973,
+            "Tag": 400,
+            "ActionTag": 1989406722,
+            "Size": {
+              "X": 433.0,
+              "Y": 284.0
+            },
+            "Name": "JFTopupBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupFirstTopup/thongbao.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 85,
+            "Scale9OriginY": 29,
+            "Scale9Width": 90,
+            "Scale9Height": 31,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9991,
+              "Y": 492.9989
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0002
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6847
+            },
+            "PreSize": {
+              "X": 0.2031,
+              "Y": 0.1236
+            },
+            "LeftMargin": 509.9991,
+            "RightMargin": 510.0009,
+            "TopMargin": 182.5011,
+            "BottomMargin": 448.4989,
+            "Tag": 459,
+            "ActionTag": 1440014690,
+            "Size": {
+              "X": 260.0,
+              "Y": 89.0
+            },
+            "Name": "JFTopupTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupFirstTopup/20pt.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 133,
+            "Scale9OriginY": 48,
+            "Scale9Width": 140,
+            "Scale9Height": 51,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9998,
+              "Y": 327.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4556
+            },
+            "PreSize": {
+              "X": 0.3172,
+              "Y": 0.2042
+            },
+            "LeftMargin": 436.9998,
+            "RightMargin": 437.0002,
+            "TopMargin": 318.5001,
+            "BottomMargin": 254.4999,
+            "Tag": 460,
+            "ActionTag": -12189901,
+            "Size": {
+              "X": 406.0,
+              "Y": 147.0
+            },
+            "Name": "JFTopup20",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupFirstTopup/napngay.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 196,
+            "Scale9Height": 82,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9971,
+              "Y": 233.9993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.325
+            },
+            "PreSize": {
+              "X": 0.1766,
+              "Y": 0.1444
+            },
+            "LeftMargin": 526.9971,
+            "RightMargin": 527.0029,
+            "TopMargin": 434.0007,
+            "BottomMargin": 181.9993,
+            "Tag": 461,
+            "ActionTag": 56288937,
+            "Size": {
+              "X": 226.0,
+              "Y": 104.0
+            },
+            "Name": "JFChargeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Bạn đã hết xu, nạp lần đầu \nđể được ưu đãi",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 411.3811
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5714
+            },
+            "PreSize": {
+              "X": 0.2781,
+              "Y": 0.1056
+            },
+            "LeftMargin": 462.0,
+            "RightMargin": 462.0,
+            "TopMargin": 270.6189,
+            "BottomMargin": 373.3811,
+            "Tag": 463,
+            "ActionTag": -74335898,
+            "Size": {
+              "X": 356.0,
+              "Y": 76.0
+            },
+            "Name": "JFTopupNoti",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "JFFirstTopupPopup",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf?v=21",
+        "Popups/PopupFirstTopup/20pt.png?v=21",
+        "Popups/PopupFirstTopup/bg.png?v=21",
+        "Popups/PopupFirstTopup/napngay.png?v=21",
+        "Popups/PopupFirstTopup/thongbao.png?v=21"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
